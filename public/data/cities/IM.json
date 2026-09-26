@@ -1,0 +1,53 @@
+{
+  "country": "Isle of Man",
+  "iso2": "IM",
+  "city_count": 2,
+  "cities": [
+    {
+      "name": "Douglas",
+      "name_ascii": "Douglas",
+      "lat": 54.15,
+      "lng": -4.4775,
+      "country": "Isle of Man",
+      "iso2": "IM",
+      "iso3": "IMN",
+      "admin": "",
+      "capital": "primary",
+      "population": 26677,
+      "weight": 26677,
+      "is_capital": true,
+      "is_largest_city": true,
+      "is_major_city": true,
+      "city_rank": 1,
+      "nearest_major_city": null,
+      "pro": "국가 수도이자 최대도시로 정치·경제·문화의 모든 인프라와 기회가 완벽히 집결되어 있습니다.",
+      "con": "치열한 생존 경쟁과 살인적인 주거비, 숨 막히는 출퇴근 교통체증을 견뎌야 합니다."
+    },
+    {
+      "name": "Onchan",
+      "name_ascii": "Onchan",
+      "lat": 54.1736,
+      "lng": -4.4667,
+      "country": "Isle of Man",
+      "iso2": "IM",
+      "iso3": "IMN",
+      "admin": "",
+      "capital": "",
+      "population": 9172,
+      "weight": 9172,
+      "is_capital": false,
+      "is_largest_city": false,
+      "is_major_city": false,
+      "city_rank": 2,
+      "nearest_major_city": {
+        "name": "Douglas",
+        "lat": 54.15,
+        "lng": -4.4775,
+        "population": 26677,
+        "distance_km": 2.7
+      },
+      "pro": "번잡함 없는 청정한 자연과 평화롭고 고요한 슬로우 라이프가 펼쳐집니다.",
+      "con": "병원과 대형 상업 인프라가 부족하여 주요 대도시까지 장거리 이동이 필요합니다."
+    }
+  ]
+}

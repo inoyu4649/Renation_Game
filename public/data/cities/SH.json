@@ -1,0 +1,79 @@
+{
+  "country": "Saint Helena, Ascension, and Tristan da Cunha",
+  "iso2": "SH",
+  "city_count": 3,
+  "cities": [
+    {
+      "name": "Jamestown",
+      "name_ascii": "Jamestown",
+      "lat": -15.9251,
+      "lng": -5.7179,
+      "country": "Saint Helena, Ascension, and Tristan da Cunha",
+      "iso2": "SH",
+      "iso3": "SHN",
+      "admin": "Saint Helena",
+      "capital": "primary",
+      "population": 1614,
+      "weight": 1614,
+      "is_capital": true,
+      "is_largest_city": true,
+      "is_major_city": true,
+      "city_rank": 1,
+      "nearest_major_city": null,
+      "pro": "국가 수도이자 최대도시로 정치·경제·문화의 모든 인프라와 기회가 완벽히 집결되어 있습니다.",
+      "con": "치열한 생존 경쟁과 살인적인 주거비, 숨 막히는 출퇴근 교통체증을 견뎌야 합니다."
+    },
+    {
+      "name": "Edinburgh of the Seven Seas",
+      "name_ascii": "Edinburgh of the Seven Seas",
+      "lat": -37.0675,
+      "lng": -12.3105,
+      "country": "Saint Helena, Ascension, and Tristan da Cunha",
+      "iso2": "SH",
+      "iso3": "SHN",
+      "admin": "Tristan da Cunha",
+      "capital": "admin",
+      "population": 1000,
+      "weight": 1000,
+      "is_capital": false,
+      "is_largest_city": false,
+      "is_major_city": false,
+      "city_rank": 2,
+      "nearest_major_city": {
+        "name": "Jamestown",
+        "lat": -15.9251,
+        "lng": -5.7179,
+        "population": 1614,
+        "distance_km": 2439.0
+      },
+      "pro": "번잡함 없는 청정한 자연과 평화롭고 고요한 슬로우 라이프가 펼쳐집니다.",
+      "con": "병원과 대형 상업 인프라가 부족하여 주요 대도시까지 장거리 이동이 필요합니다."
+    },
+    {
+      "name": "Georgetown",
+      "name_ascii": "Georgetown",
+      "lat": -7.9286,
+      "lng": -14.4119,
+      "country": "Saint Helena, Ascension, and Tristan da Cunha",
+      "iso2": "SH",
+      "iso3": "SHN",
+      "admin": "Ascension",
+      "capital": "admin",
+      "population": 1000,
+      "weight": 1000,
+      "is_capital": false,
+      "is_largest_city": false,
+      "is_major_city": false,
+      "city_rank": 3,
+      "nearest_major_city": {
+        "name": "Jamestown",
+        "lat": -15.9251,
+        "lng": -5.7179,
+        "population": 1614,
+        "distance_km": 1297.5
+      },
+      "pro": "번잡함 없는 청정한 자연과 평화롭고 고요한 슬로우 라이프가 펼쳐집니다.",
+      "con": "병원과 대형 상업 인프라가 부족하여 주요 대도시까지 장거리 이동이 필요합니다."
+    }
+  ]
+}

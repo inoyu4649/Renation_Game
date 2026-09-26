@@ -1,0 +1,73 @@
+{
+  "country": "Palau",
+  "iso2": "PW",
+  "city_count": 3,
+  "cities": [
+    {
+      "name": "Koror",
+      "name_ascii": "Koror",
+      "lat": 7.3433,
+      "lng": 134.4804,
+      "country": "Palau",
+      "iso2": "PW",
+      "iso3": "PLW",
+      "admin": "Koror",
+      "capital": "",
+      "population": 8744,
+      "weight": 8744,
+      "is_capital": false,
+      "is_largest_city": true,
+      "is_major_city": true,
+      "city_rank": 1,
+      "nearest_major_city": null,
+      "pro": "국가 최대의 인구와 경제력을 지닌 제1의 메트로폴리스로 무한한 상업적 기회가 열려있습니다.",
+      "con": "거대한 메가시티다운 복잡한 소음과 치안 격차, 비싼 주거비가 부담됩니다."
+    },
+    {
+      "name": "Melekeok",
+      "name_ascii": "Melekeok",
+      "lat": 7.4933,
+      "lng": 134.6342,
+      "country": "Palau",
+      "iso2": "PW",
+      "iso3": "PLW",
+      "admin": "Melekeok",
+      "capital": "",
+      "population": 299,
+      "weight": 500,
+      "is_capital": false,
+      "is_largest_city": false,
+      "is_major_city": false,
+      "city_rank": 2,
+      "nearest_major_city": {
+        "name": "Ngerulmud",
+        "lat": 7.5006,
+        "lng": 134.6242,
+        "population": 0,
+        "distance_km": 1.4
+      },
+      "pro": "번잡함 없는 청정한 자연과 평화롭고 고요한 슬로우 라이프가 펼쳐집니다.",
+      "con": "병원과 대형 상업 인프라가 부족하여 주요 대도시까지 장거리 이동이 필요합니다."
+    },
+    {
+      "name": "Ngerulmud",
+      "name_ascii": "Ngerulmud",
+      "lat": 7.5006,
+      "lng": 134.6242,
+      "country": "Palau",
+      "iso2": "PW",
+      "iso3": "PLW",
+      "admin": "Melekeok",
+      "capital": "primary",
+      "population": 0,
+      "weight": 500,
+      "is_capital": true,
+      "is_largest_city": false,
+      "is_major_city": true,
+      "city_rank": 3,
+      "nearest_major_city": null,
+      "pro": "국가의 심장부인 수도(Capital)로서 행정·외교의 중심이자 높은 공공 인프라 혜택을 누립니다.",
+      "con": "수도 특유의 높은 생활 물가와 관료적 분위기, 주거 비용 부담이 있습니다."
+    }
+  ]
+}

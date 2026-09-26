@@ -1,0 +1,79 @@
+{
+  "country": "Barbados",
+  "iso2": "BB",
+  "city_count": 3,
+  "cities": [
+    {
+      "name": "Bridgetown",
+      "name_ascii": "Bridgetown",
+      "lat": 13.0975,
+      "lng": -59.6167,
+      "country": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB",
+      "admin": "Saint Michael",
+      "capital": "primary",
+      "population": 98511,
+      "weight": 98511,
+      "is_capital": true,
+      "is_largest_city": true,
+      "is_major_city": true,
+      "city_rank": 1,
+      "nearest_major_city": null,
+      "pro": "국가 수도이자 최대도시로 정치·경제·문화의 모든 인프라와 기회가 완벽히 집결되어 있습니다.",
+      "con": "치열한 생존 경쟁과 살인적인 주거비, 숨 막히는 출퇴근 교통체증을 견뎌야 합니다."
+    },
+    {
+      "name": "Chancery Lane",
+      "name_ascii": "Chancery Lane",
+      "lat": 13.0667,
+      "lng": -59.5,
+      "country": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB",
+      "admin": "Christ Church",
+      "capital": "",
+      "population": 54336,
+      "weight": 54336,
+      "is_capital": false,
+      "is_largest_city": false,
+      "is_major_city": false,
+      "city_rank": 2,
+      "nearest_major_city": {
+        "name": "Bridgetown",
+        "lat": 13.0975,
+        "lng": -59.6167,
+        "population": 98511,
+        "distance_km": 13.1
+      },
+      "pro": "번잡함 없는 청정한 자연과 평화롭고 고요한 슬로우 라이프가 펼쳐집니다.",
+      "con": "병원과 대형 상업 인프라가 부족하여 주요 대도시까지 장거리 이동이 필요합니다."
+    },
+    {
+      "name": "Cave Hill",
+      "name_ascii": "Cave Hill",
+      "lat": 13.3042,
+      "lng": -59.5853,
+      "country": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB",
+      "admin": "Saint Lucy",
+      "capital": "",
+      "population": 9758,
+      "weight": 9758,
+      "is_capital": false,
+      "is_largest_city": false,
+      "is_major_city": false,
+      "city_rank": 3,
+      "nearest_major_city": {
+        "name": "Bridgetown",
+        "lat": 13.0975,
+        "lng": -59.6167,
+        "population": 98511,
+        "distance_km": 23.2
+      },
+      "pro": "번잡함 없는 청정한 자연과 평화롭고 고요한 슬로우 라이프가 펼쳐집니다.",
+      "con": "병원과 대형 상업 인프라가 부족하여 주요 대도시까지 장거리 이동이 필요합니다."
+    }
+  ]
+}

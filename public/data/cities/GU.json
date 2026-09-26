@@ -1,0 +1,47 @@
+{
+  "country": "Guam",
+  "iso2": "GU",
+  "city_count": 2,
+  "cities": [
+    {
+      "name": "Maina",
+      "name_ascii": "Maina",
+      "lat": 13.4692,
+      "lng": 144.7332,
+      "country": "Guam",
+      "iso2": "GU",
+      "iso3": "GUM",
+      "admin": "",
+      "capital": "",
+      "population": 122411,
+      "weight": 122411,
+      "is_capital": false,
+      "is_largest_city": true,
+      "is_major_city": true,
+      "city_rank": 1,
+      "nearest_major_city": null,
+      "pro": "국가 최대의 인구와 경제력을 지닌 제1의 메트로폴리스로 무한한 상업적 기회가 열려있습니다.",
+      "con": "거대한 메가시티다운 복잡한 소음과 치안 격차, 비싼 주거비가 부담됩니다."
+    },
+    {
+      "name": "Hagåtña",
+      "name_ascii": "Hagta",
+      "lat": 13.4745,
+      "lng": 144.7504,
+      "country": "Guam",
+      "iso2": "GU",
+      "iso3": "GUM",
+      "admin": "",
+      "capital": "primary",
+      "population": 1051,
+      "weight": 1051,
+      "is_capital": true,
+      "is_largest_city": false,
+      "is_major_city": true,
+      "city_rank": 2,
+      "nearest_major_city": null,
+      "pro": "국가의 심장부인 수도(Capital)로서 행정·외교의 중심이자 높은 공공 인프라 혜택을 누립니다.",
+      "con": "수도 특유의 높은 생활 물가와 관료적 분위기, 주거 비용 부담이 있습니다."
+    }
+  ]
+}
