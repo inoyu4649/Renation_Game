@@ -38,3 +38,9 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Large Raw Datasets (>100MB)
+*.xlsx
+scripts/excel_headers.txt
+scripts/countries_dump.txt
+scripts/inspect_*.py

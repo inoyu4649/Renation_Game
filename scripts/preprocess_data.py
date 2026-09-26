@@ -553,27 +553,39 @@ def main():
         matched_name = ALIASES.get(un_c, un_c)
         UN_CLEAN[matched_name] = info
 
-    total_world_births = 0
-    total_world_population = 0
+    # Load UN World Population Prospects 2024 (WPP 2024) parsed data
+    with open('scripts/wpp2024_parsed.json', 'r', encoding='utf-8') as f:
+        wpp_parsed = json.load(f)
+
+    wpp_by_iso2 = wpp_parsed.get("by_iso2", {})
+    wpp_by_iso3 = wpp_parsed.get("by_iso3", {})
+    wpp_by_name = wpp_parsed.get("by_name", {})
+    wpp_world = wpp_parsed.get("world", {})
+
+    total_world_population = wpp_world.get("pop", 8161972572)
+    total_world_births = wpp_world.get("births", 132405927)
 
     for iso2, c_list in cities_by_country.items():
         c_name = c_list[0]['country']
         iso3 = c_list[0]['iso3']
-        country_pop = sum(c['population'] for c in c_list)
+        cities_sum_pop = sum(c['population'] for c in c_list)
         
-        # Determine birth count
-        birth_info = UN_CLEAN.get(c_name)
-        births = 0
-        source_year = 2025
-        
-        if birth_info:
-            births = birth_info['births']
-            source_year = birth_info['year']
+        # Match with official WPP 2024 data (by ISO2, ISO3, or Name)
+        wpp_entry = (
+            wpp_by_iso2.get(iso2) or
+            wpp_by_iso3.get(iso3) or
+            wpp_by_name.get(c_name.lower()) or
+            wpp_by_name.get(ALIASES.get(c_name, "").lower())
+        )
+
+        if wpp_entry:
+            country_pop = wpp_entry['pop']
+            births = wpp_entry['births']
+            source_year = 2024
         else:
-            # Fallback estimation based on global crude birth rate (~17 per 1,000 people or regional multiplier)
-            # This ensures countries with unlisted UN CSV rows still have realistic birth counts
-            births = max(int(country_pop * 0.018), 100)
-            source_year = 2025
+            country_pop = max(cities_sum_pop, 1000)
+            births = max(int(country_pop * 0.016), 10)
+            source_year = 2024
 
         meta = COUNTRY_METADATA.get(c_name, {
             "ko": c_name,
@@ -603,7 +615,7 @@ def main():
             "tier_code": meta["tier_code"],
             "births": births,
             "source_year": source_year,
-            "population": max(country_pop, 5000),
+            "population": max(country_pop, 1000),
             "homicide": meta["homicide"],
             "gini": meta["gini"],
             "gdp_capita": meta["gdp_capita"],
@@ -613,32 +625,31 @@ def main():
             "con": meta["con"]
         }
         country_summary_list.append(country_profile)
-        total_world_births += births
-        total_world_population += country_profile['population']
 
     # Sort countries by births descending
     country_summary_list.sort(key=lambda x: x['births'], reverse=True)
 
-    # Calculate probabilities
+    # Calculate probabilities based on official world totals
     for c in country_summary_list:
         c['birth_share_pct'] = round((c['births'] / total_world_births) * 100, 3)
         c['pop_share_pct'] = round((c['population'] / total_world_population) * 100, 3)
 
-    print(f"Total World Births (Annual): {total_world_births:,}")
-    print(f"Total World Population in dataset: {total_world_population:,}")
+    print(f"Official World Total Births (WPP 2024): {total_world_births:,} ({total_world_births/100000000:.2f}억명)")
+    print(f"Official World Total Population (WPP 2024): {total_world_population:,} ({total_world_population/100000000:.2f}억명)")
 
     # Output directory
     os.makedirs('public/data', exist_ok=True)
     os.makedirs('public/data/cities', exist_ok=True)
 
-    # Write countries.json with clean formatting for Notepad editing
+    # Write countries.json
     countries_output = {
         "metadata": {
             "title": "전 세계 국가별 환생 확률 및 출생아 데이터",
-            "description": "메모장으로 쉽게 수정할 수 있습니다. births(출생아 수), population(인구), pro(선평), con(악평), tier(난이도 등급) 등을 직접 변경할 수 있습니다.",
+            "description": "UN World Population Prospects 2024 (WPP 2024) 및 Simplemaps World Cities 데이터 기반",
+            "source": "UN World Population Prospects 2024",
             "total_world_births": total_world_births,
             "total_world_population": total_world_population,
-            "updated_at": "2026-08-23"
+            "updated_at": "2024-07-01"
         },
         "countries": country_summary_list
     }

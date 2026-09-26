@@ -13,18 +13,18 @@ export const Footer: React.FC = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
         <a
-          href="https://data.un.org/Data.aspx?d=POP&f=tableCode%3A55"
+          href="https://population.un.org/wpp/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-between p-3 rounded-xl bg-slate-100/70 hover:bg-slate-100 border border-slate-200/80 transition group"
         >
           <div>
             <div className="font-extrabold text-slate-800 group-hover:text-indigo-600 flex items-center gap-1.5">
-              <span>UNdata Live births by month of birth</span>
+              <span>UN World Population Prospects 2024 (WPP)</span>
               <ExternalLink className="w-3.5 h-3.5 opacity-60" />
             </div>
             <div className="text-[11px] text-slate-400 mt-0.5">
-              UN 통계국 국가별 연간/월별 출생아 수 통계 (Table Code 55)
+              UN 인구국 공식 전 세계 81.6억 인구 및 1.32억 연간 출생아 통계
             </div>
           </div>
         </a>

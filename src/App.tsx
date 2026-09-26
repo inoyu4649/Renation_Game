@@ -17,8 +17,8 @@ import {
 
 export const App: React.FC = () => {
   const [mode, setMode] = useState<'birth' | 'population'>('birth');
-  const [totalWorldBirths, setTotalWorldBirths] = useState<number>(132000000);
-  const [totalWorldPopulation, setTotalWorldPopulation] = useState<number>(8000000000);
+  const [totalWorldBirths, setTotalWorldBirths] = useState<number>(132405927);
+  const [totalWorldPopulation, setTotalWorldPopulation] = useState<number>(8161972572);
   const [currentResult, setCurrentResult] = useState<ReincarnationResultData | null>(null);
   const [pendingResult, setPendingResult] = useState<ReincarnationResultData | null>(null);
   const [history, setHistory] = useState<ReincarnationResultData[]>([]);

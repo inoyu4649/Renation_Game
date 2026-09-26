@@ -1,0 +1,7129 @@
+{
+  "year": 2024,
+  "world": {
+    "name": "World",
+    "iso2": "",
+    "iso3": "",
+    "type": "World",
+    "pop": 8161972572,
+    "births": 132405927,
+    "life_expectancy": 73.322,
+    "infant_mortality": 26.897
+  },
+  "by_iso2": {
+    "BI": {
+      "name": "Burundi",
+      "iso2": "BI",
+      "iso3": "BDI",
+      "type": "Country/Area",
+      "pop": 14047786,
+      "births": 466545,
+      "life_expectancy": 63.818,
+      "infant_mortality": 34.804
+    },
+    "KM": {
+      "name": "Comoros",
+      "iso2": "KM",
+      "iso3": "COM",
+      "type": "Country/Area",
+      "pop": 866628,
+      "births": 24467,
+      "life_expectancy": 67.023,
+      "infant_mortality": 35.743
+    },
+    "DJ": {
+      "name": "Djibouti",
+      "iso2": "DJ",
+      "iso3": "DJI",
+      "type": "Country/Area",
+      "pop": 1168722,
+      "births": 24462,
+      "life_expectancy": 66.202,
+      "infant_mortality": 35.457
+    },
+    "ER": {
+      "name": "Eritrea",
+      "iso2": "ER",
+      "iso3": "ERI",
+      "type": "Country/Area",
+      "pop": 3535603,
+      "births": 101539,
+      "life_expectancy": 68.893,
+      "infant_mortality": 25.968
+    },
+    "ET": {
+      "name": "Ethiopia",
+      "iso2": "ET",
+      "iso3": "ETH",
+      "type": "Country/Area",
+      "pop": 132059767,
+      "births": 4155828,
+      "life_expectancy": 67.603,
+      "infant_mortality": 31.889
+    },
+    "KE": {
+      "name": "Kenya",
+      "iso2": "KE",
+      "iso3": "KEN",
+      "type": "Country/Area",
+      "pop": 56432944,
+      "births": 1521907,
+      "life_expectancy": 63.834,
+      "infant_mortality": 29.036
+    },
+    "MG": {
+      "name": "Madagascar",
+      "iso2": "MG",
+      "iso3": "MDG",
+      "type": "Country/Area",
+      "pop": 31964956,
+      "births": 1013751,
+      "life_expectancy": 63.835,
+      "infant_mortality": 44.168
+    },
+    "MW": {
+      "name": "Malawi",
+      "iso2": "MW",
+      "iso3": "MWI",
+      "type": "Country/Area",
+      "pop": 21655286,
+      "births": 674407,
+      "life_expectancy": 67.561,
+      "infant_mortality": 28.752
+    },
+    "MU": {
+      "name": "Mauritius",
+      "iso2": "MU",
+      "iso3": "MUS",
+      "type": "Country/Area",
+      "pop": 1271169,
+      "births": 11600,
+      "life_expectancy": 75.102,
+      "infant_mortality": 11.706
+    },
+    "YT": {
+      "name": "Mayotte",
+      "iso2": "YT",
+      "iso3": "MYT",
+      "type": "Country/Area",
+      "pop": 326505,
+      "births": 11270,
+      "life_expectancy": 76.24,
+      "infant_mortality": 8.543
+    },
+    "MZ": {
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ",
+      "type": "Country/Area",
+      "pop": 34631766,
+      "births": 1282336,
+      "life_expectancy": 63.797,
+      "infant_mortality": 48.731
+    },
+    "RE": {
+      "name": "Réunion",
+      "iso2": "RE",
+      "iso3": "REU",
+      "type": "Country/Area",
+      "pop": 878591,
+      "births": 11711,
+      "life_expectancy": 83.671,
+      "infant_mortality": 4.195
+    },
+    "RW": {
+      "name": "Rwanda",
+      "iso2": "RW",
+      "iso3": "RWA",
+      "type": "Country/Area",
+      "pop": 14256567,
+      "births": 400062,
+      "life_expectancy": 68.017,
+      "infant_mortality": 26.435
+    },
+    "SC": {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC",
+      "type": "Country/Area",
+      "pop": 130418,
+      "births": 1753,
+      "life_expectancy": 72.986,
+      "infant_mortality": 10.155
+    },
+    "SO": {
+      "name": "Somalia",
+      "iso2": "SO",
+      "iso3": "SOM",
+      "type": "Country/Area",
+      "pop": 19009151,
+      "births": 804966,
+      "life_expectancy": 58.967,
+      "infant_mortality": 65.573
+    },
+    "SS": {
+      "name": "South Sudan",
+      "iso2": "SS",
+      "iso3": "SSD",
+      "type": "Country/Area",
+      "pop": 11943408,
+      "births": 349013,
+      "life_expectancy": 57.738,
+      "infant_mortality": 63.169
+    },
+    "UG": {
+      "name": "Uganda",
+      "iso2": "UG",
+      "iso3": "UGA",
+      "type": "Country/Area",
+      "pop": 50015092,
+      "births": 1722321,
+      "life_expectancy": 68.487,
+      "infant_mortality": 27.826
+    },
+    "TZ": {
+      "name": "United Republic of Tanzania",
+      "iso2": "TZ",
+      "iso3": "TZA",
+      "type": "Country/Area",
+      "pop": 68560157,
+      "births": 2385984,
+      "life_expectancy": 67.212,
+      "infant_mortality": 28.168
+    },
+    "ZM": {
+      "name": "Zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB",
+      "type": "Country/Area",
+      "pop": 21314956,
+      "births": 697518,
+      "life_expectancy": 66.528,
+      "infant_mortality": 37.361
+    },
+    "ZW": {
+      "name": "Zimbabwe",
+      "iso2": "ZW",
+      "iso3": "ZWE",
+      "type": "Country/Area",
+      "pop": 16634373,
+      "births": 497215,
+      "life_expectancy": 63.064,
+      "infant_mortality": 32.2
+    },
+    "AO": {
+      "name": "Angola",
+      "iso2": "AO",
+      "iso3": "AGO",
+      "type": "Country/Area",
+      "pop": 37885849,
+      "births": 1407760,
+      "life_expectancy": 64.805,
+      "infant_mortality": 47.687
+    },
+    "CM": {
+      "name": "Cameroon",
+      "iso2": "CM",
+      "iso3": "CMR",
+      "type": "Country/Area",
+      "pop": 29123744,
+      "births": 971107,
+      "life_expectancy": 63.968,
+      "infant_mortality": 46.116
+    },
+    "CF": {
+      "name": "Central African Republic",
+      "iso2": "CF",
+      "iso3": "CAF",
+      "type": "Country/Area",
+      "pop": 5330690,
+      "births": 246241,
+      "life_expectancy": 57.671,
+      "infant_mortality": 67.106
+    },
+    "TD": {
+      "name": "Chad",
+      "iso2": "TD",
+      "iso3": "TCD",
+      "type": "Country/Area",
+      "pop": 20299123,
+      "births": 878222,
+      "life_expectancy": 55.238,
+      "infant_mortality": 63.258
+    },
+    "CG": {
+      "name": "Congo",
+      "iso2": "CG",
+      "iso3": "COG",
+      "type": "Country/Area",
+      "pop": 6332961,
+      "births": 192673,
+      "life_expectancy": 66.001,
+      "infant_mortality": 27.99
+    },
+    "CD": {
+      "name": "Democratic Republic of the Congo",
+      "iso2": "CD",
+      "iso3": "COD",
+      "type": "Country/Area",
+      "pop": 109276265,
+      "births": 4467740,
+      "life_expectancy": 62.074,
+      "infant_mortality": 48.624
+    },
+    "GQ": {
+      "name": "Equatorial Guinea",
+      "iso2": "GQ",
+      "iso3": "GNQ",
+      "type": "Country/Area",
+      "pop": 1892516,
+      "births": 56763,
+      "life_expectancy": 63.906,
+      "infant_mortality": 51.797
+    },
+    "GA": {
+      "name": "Gabon",
+      "iso2": "GA",
+      "iso3": "GAB",
+      "type": "Country/Area",
+      "pop": 2538952,
+      "births": 68875,
+      "life_expectancy": 68.511,
+      "infant_mortality": 26.689
+    },
+    "ST": {
+      "name": "Sao Tome and Principe",
+      "iso2": "ST",
+      "iso3": "STP",
+      "type": "Country/Area",
+      "pop": 235536,
+      "births": 6617,
+      "life_expectancy": 69.905,
+      "infant_mortality": 11.043
+    },
+    "DZ": {
+      "name": "Algeria",
+      "iso2": "DZ",
+      "iso3": "DZA",
+      "type": "Country/Area",
+      "pop": 46814308,
+      "births": 881823,
+      "life_expectancy": 76.475,
+      "infant_mortality": 17.082
+    },
+    "EG": {
+      "name": "Egypt",
+      "iso2": "EG",
+      "iso3": "EGY",
+      "type": "Country/Area",
+      "pop": 116538258,
+      "births": 2437410,
+      "life_expectancy": 71.806,
+      "infant_mortality": 13.172
+    },
+    "LY": {
+      "name": "Libya",
+      "iso2": "LY",
+      "iso3": "LBY",
+      "type": "Country/Area",
+      "pop": 7381023,
+      "births": 121747,
+      "life_expectancy": 71.121,
+      "infant_mortality": 12.135
+    },
+    "MA": {
+      "name": "Morocco",
+      "iso2": "MA",
+      "iso3": "MAR",
+      "type": "Country/Area",
+      "pop": 38081173,
+      "births": 624620,
+      "life_expectancy": 75.493,
+      "infant_mortality": 13.809
+    },
+    "SD": {
+      "name": "Sudan",
+      "iso2": "SD",
+      "iso3": "SDN",
+      "type": "Country/Area",
+      "pop": 50448963,
+      "births": 1664612,
+      "life_expectancy": 66.521,
+      "infant_mortality": 37.298
+    },
+    "TN": {
+      "name": "Tunisia",
+      "iso2": "TN",
+      "iso3": "TUN",
+      "type": "Country/Area",
+      "pop": 12277109,
+      "births": 164145,
+      "life_expectancy": 76.711,
+      "infant_mortality": 9.545
+    },
+    "EH": {
+      "name": "Western Sahara",
+      "iso2": "EH",
+      "iso3": "ESH",
+      "type": "Country/Area",
+      "pop": 590506,
+      "births": 9090,
+      "life_expectancy": 71.58,
+      "infant_mortality": 22.735
+    },
+    "BW": {
+      "name": "Botswana",
+      "iso2": "BW",
+      "iso3": "BWA",
+      "type": "Country/Area",
+      "pop": 2521139,
+      "births": 61418,
+      "life_expectancy": 69.293,
+      "infant_mortality": 27.77
+    },
+    "SZ": {
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ",
+      "type": "Country/Area",
+      "pop": 1242822,
+      "births": 29390,
+      "life_expectancy": 64.264,
+      "infant_mortality": 37.001
+    },
+    "LS": {
+      "name": "Lesotho",
+      "iso2": "LS",
+      "iso3": "LSO",
+      "type": "Country/Area",
+      "pop": 2337423,
+      "births": 55542,
+      "life_expectancy": 57.798,
+      "infant_mortality": 54.613
+    },
+    "NA": {
+      "name": "Namibia",
+      "iso2": "NA",
+      "iso3": "NAM",
+      "type": "Country/Area",
+      "pop": 3030131,
+      "births": 78452,
+      "life_expectancy": 67.516,
+      "infant_mortality": 26.746
+    },
+    "ZA": {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "iso3": "ZAF",
+      "type": "Country/Area",
+      "pop": 64007187,
+      "births": 1182869,
+      "life_expectancy": 66.312,
+      "infant_mortality": 22.866
+    },
+    "BJ": {
+      "name": "Benin",
+      "iso2": "BJ",
+      "iso3": "BEN",
+      "type": "Country/Area",
+      "pop": 14462724,
+      "births": 483336,
+      "life_expectancy": 60.961,
+      "infant_mortality": 51.552
+    },
+    "BF": {
+      "name": "Burkina Faso",
+      "iso2": "BF",
+      "iso3": "BFA",
+      "type": "Country/Area",
+      "pop": 23548781,
+      "births": 737914,
+      "life_expectancy": 61.292,
+      "infant_mortality": 54.202
+    },
+    "CV": {
+      "name": "Cabo Verde",
+      "iso2": "CV",
+      "iso3": "CPV",
+      "type": "Country/Area",
+      "pop": 524877,
+      "births": 6415,
+      "life_expectancy": 76.224,
+      "infant_mortality": 9.54
+    },
+    "CI": {
+      "name": "Côte d'Ivoire",
+      "iso2": "CI",
+      "iso3": "CIV",
+      "type": "Country/Area",
+      "pop": 31934230,
+      "births": 1007981,
+      "life_expectancy": 62.11,
+      "infant_mortality": 50.845
+    },
+    "GM": {
+      "name": "Gambia",
+      "iso2": "GM",
+      "iso3": "GMB",
+      "type": "Country/Area",
+      "pop": 2759988,
+      "births": 82405,
+      "life_expectancy": 66.057,
+      "infant_mortality": 28.858
+    },
+    "GH": {
+      "name": "Ghana",
+      "iso2": "GH",
+      "iso3": "GHA",
+      "type": "Country/Area",
+      "pop": 34427414,
+      "births": 892343,
+      "life_expectancy": 65.695,
+      "infant_mortality": 30.036
+    },
+    "GN": {
+      "name": "Guinea",
+      "iso2": "GN",
+      "iso3": "GIN",
+      "type": "Country/Area",
+      "pop": 14754785,
+      "births": 491708,
+      "life_expectancy": 60.904,
+      "infant_mortality": 64.653
+    },
+    "GW": {
+      "name": "Guinea-Bissau",
+      "iso2": "GW",
+      "iso3": "GNB",
+      "type": "Country/Area",
+      "pop": 2201352,
+      "births": 65072,
+      "life_expectancy": 64.254,
+      "infant_mortality": 48.116
+    },
+    "LR": {
+      "name": "Liberia",
+      "iso2": "LR",
+      "iso3": "LBR",
+      "type": "Country/Area",
+      "pop": 5612817,
+      "births": 171626,
+      "life_expectancy": 62.324,
+      "infant_mortality": 55.052
+    },
+    "ML": {
+      "name": "Mali",
+      "iso2": "ML",
+      "iso3": "MLI",
+      "type": "Country/Area",
+      "pop": 24478595,
+      "births": 967695,
+      "life_expectancy": 60.675,
+      "infant_mortality": 59.937
+    },
+    "MR": {
+      "name": "Mauritania",
+      "iso2": "MR",
+      "iso3": "MRT",
+      "type": "Country/Area",
+      "pop": 5169395,
+      "births": 175914,
+      "life_expectancy": 68.713,
+      "infant_mortality": 29.633
+    },
+    "NE": {
+      "name": "Niger",
+      "iso2": "NE",
+      "iso3": "NER",
+      "type": "Country/Area",
+      "pop": 27032412,
+      "births": 1119695,
+      "life_expectancy": 61.433,
+      "infant_mortality": 63.256
+    },
+    "NG": {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA",
+      "type": "Country/Area",
+      "pop": 232679478,
+      "births": 7560407,
+      "life_expectancy": 54.635,
+      "infant_mortality": 68.461
+    },
+    "SH": {
+      "name": "Saint Helena",
+      "iso2": "SH",
+      "iso3": "SHN",
+      "type": "Country/Area",
+      "pop": 5237,
+      "births": 38,
+      "life_expectancy": 76.954,
+      "infant_mortality": 11.816
+    },
+    "SN": {
+      "name": "Senegal",
+      "iso2": "SN",
+      "iso3": "SEN",
+      "type": "Country/Area",
+      "pop": 18501984,
+      "births": 539970,
+      "life_expectancy": 68.924,
+      "infant_mortality": 23.178
+    },
+    "SL": {
+      "name": "Sierra Leone",
+      "iso2": "SL",
+      "iso3": "SLE",
+      "type": "Country/Area",
+      "pop": 8642022,
+      "births": 260194,
+      "life_expectancy": 61.964,
+      "infant_mortality": 70.534
+    },
+    "TG": {
+      "name": "Togo",
+      "iso2": "TG",
+      "iso3": "TGO",
+      "type": "Country/Area",
+      "pop": 9515236,
+      "births": 292572,
+      "life_expectancy": 62.932,
+      "infant_mortality": 40.557
+    },
+    "KZ": {
+      "name": "Kazakhstan",
+      "iso2": "KZ",
+      "iso3": "KAZ",
+      "type": "Country/Area",
+      "pop": 20592571,
+      "births": 401985,
+      "life_expectancy": 74.531,
+      "infant_mortality": 6.691
+    },
+    "KG": {
+      "name": "Kyrgyzstan",
+      "iso2": "KG",
+      "iso3": "KGZ",
+      "type": "Country/Area",
+      "pop": 7186009,
+      "births": 150335,
+      "life_expectancy": 71.824,
+      "infant_mortality": 12.11
+    },
+    "TJ": {
+      "name": "Tajikistan",
+      "iso2": "TJ",
+      "iso3": "TJK",
+      "type": "Country/Area",
+      "pop": 10590927,
+      "births": 268304,
+      "life_expectancy": 71.927,
+      "infant_mortality": 20.991
+    },
+    "TM": {
+      "name": "Turkmenistan",
+      "iso2": "TM",
+      "iso3": "TKM",
+      "type": "Country/Area",
+      "pop": 7494498,
+      "births": 156679,
+      "life_expectancy": 70.201,
+      "infant_mortality": 28.548
+    },
+    "UZ": {
+      "name": "Uzbekistan",
+      "iso2": "UZ",
+      "iso3": "UZB",
+      "type": "Country/Area",
+      "pop": 36361859,
+      "births": 929292,
+      "life_expectancy": 72.528,
+      "infant_mortality": 12.202
+    },
+    "CN": {
+      "name": "China",
+      "iso2": "CN",
+      "iso3": "CHN",
+      "type": "Country/Area",
+      "pop": 1419321278,
+      "births": 8822056,
+      "life_expectancy": 78.017,
+      "infant_mortality": 6.379
+    },
+    "HK": {
+      "name": "China, Hong Kong SAR",
+      "iso2": "HK",
+      "iso3": "HKG",
+      "type": "Country/Area",
+      "pop": 7414909,
+      "births": 40219,
+      "life_expectancy": 85.634,
+      "infant_mortality": 1.449
+    },
+    "MO": {
+      "name": "China, Macao SAR",
+      "iso2": "MO",
+      "iso3": "MAC",
+      "type": "Country/Area",
+      "pop": 720262,
+      "births": 4600,
+      "life_expectancy": 83.228,
+      "infant_mortality": 2.567
+    },
+    "TW": {
+      "name": "China, Taiwan Province of China",
+      "iso2": "TW",
+      "iso3": "TWN",
+      "type": "Country/Area",
+      "pop": 23213962,
+      "births": 128597,
+      "life_expectancy": 80.75,
+      "infant_mortality": 3.093
+    },
+    "KP": {
+      "name": "Dem. People's Republic of Korea",
+      "iso2": "KP",
+      "iso3": "PRK",
+      "type": "Country/Area",
+      "pop": 26498823,
+      "births": 340728,
+      "life_expectancy": 73.743,
+      "infant_mortality": 13.319
+    },
+    "JP": {
+      "name": "Japan",
+      "iso2": "JP",
+      "iso3": "JPN",
+      "type": "Country/Area",
+      "pop": 123753041,
+      "births": 750570,
+      "life_expectancy": 84.852,
+      "infant_mortality": 1.664
+    },
+    "MN": {
+      "name": "Mongolia",
+      "iso2": "MN",
+      "iso3": "MNG",
+      "type": "Country/Area",
+      "pop": 3475540,
+      "births": 63101,
+      "life_expectancy": 71.985,
+      "infant_mortality": 9.167
+    },
+    "KR": {
+      "name": "Republic of Korea",
+      "iso2": "KR",
+      "iso3": "KOR",
+      "type": "Country/Area",
+      "pop": 51717590,
+      "births": 240982,
+      "life_expectancy": 84.434,
+      "infant_mortality": 1.968
+    },
+    "AF": {
+      "name": "Afghanistan",
+      "iso2": "AF",
+      "iso3": "AFG",
+      "type": "Country/Area",
+      "pop": 42647492,
+      "births": 1492956,
+      "life_expectancy": 66.289,
+      "infant_mortality": 42.65
+    },
+    "BD": {
+      "name": "Bangladesh",
+      "iso2": "BD",
+      "iso3": "BGD",
+      "type": "Country/Area",
+      "pop": 173562364,
+      "births": 3469124,
+      "life_expectancy": 74.93,
+      "infant_mortality": 16.864
+    },
+    "BT": {
+      "name": "Bhutan",
+      "iso2": "BT",
+      "iso3": "BTN",
+      "type": "Country/Area",
+      "pop": 791524,
+      "births": 9914,
+      "life_expectancy": 73.262,
+      "infant_mortality": 18.338
+    },
+    "IN": {
+      "name": "India",
+      "iso2": "IN",
+      "iso3": "IND",
+      "type": "Country/Area",
+      "pop": 1450935791,
+      "births": 23186978,
+      "life_expectancy": 72.235,
+      "infant_mortality": 22.627
+    },
+    "IR": {
+      "name": "Iran (Islamic Republic of)",
+      "iso2": "IR",
+      "iso3": "IRN",
+      "type": "Country/Area",
+      "pop": 91567738,
+      "births": 1151057,
+      "life_expectancy": 77.854,
+      "infant_mortality": 9.145
+    },
+    "MV": {
+      "name": "Maldives",
+      "iso2": "MV",
+      "iso3": "MDV",
+      "type": "Country/Area",
+      "pop": 527799,
+      "births": 5588,
+      "life_expectancy": 81.285,
+      "infant_mortality": 4.466
+    },
+    "NP": {
+      "name": "Nepal",
+      "iso2": "NP",
+      "iso3": "NPL",
+      "type": "Country/Area",
+      "pop": 29651054,
+      "births": 562232,
+      "life_expectancy": 70.636,
+      "infant_mortality": 20.642
+    },
+    "PK": {
+      "name": "Pakistan",
+      "iso2": "PK",
+      "iso3": "PAK",
+      "type": "Country/Area",
+      "pop": 251269164,
+      "births": 6887798,
+      "life_expectancy": 67.799,
+      "infant_mortality": 48.402
+    },
+    "LK": {
+      "name": "Sri Lanka",
+      "iso2": "LK",
+      "iso3": "LKA",
+      "type": "Country/Area",
+      "pop": 23103565,
+      "births": 320429,
+      "life_expectancy": 77.672,
+      "infant_mortality": 4.978
+    },
+    "BN": {
+      "name": "Brunei Darussalam",
+      "iso2": "BN",
+      "iso3": "BRN",
+      "type": "Country/Area",
+      "pop": 462721,
+      "births": 6167,
+      "life_expectancy": 75.501,
+      "infant_mortality": 7.792
+    },
+    "KH": {
+      "name": "Cambodia",
+      "iso2": "KH",
+      "iso3": "KHM",
+      "type": "Country/Area",
+      "pop": 17638801,
+      "births": 358220,
+      "life_expectancy": 70.817,
+      "infant_mortality": 18.632
+    },
+    "ID": {
+      "name": "Indonesia",
+      "iso2": "ID",
+      "iso3": "IDN",
+      "type": "Country/Area",
+      "pop": 283487931,
+      "births": 4468312,
+      "life_expectancy": 71.288,
+      "infant_mortality": 16.585
+    },
+    "LA": {
+      "name": "Lao People's Democratic Republic",
+      "iso2": "LA",
+      "iso3": "LAO",
+      "type": "Country/Area",
+      "pop": 7769819,
+      "births": 162644,
+      "life_expectancy": 69.225,
+      "infant_mortality": 30.314
+    },
+    "MY": {
+      "name": "Malaysia",
+      "iso2": "MY",
+      "iso3": "MYS",
+      "type": "Country/Area",
+      "pop": 35557673,
+      "births": 439568,
+      "life_expectancy": 76.821,
+      "infant_mortality": 5.06
+    },
+    "MM": {
+      "name": "Myanmar",
+      "iso2": "MM",
+      "iso3": "MMR",
+      "type": "Country/Area",
+      "pop": 54500091,
+      "births": 897269,
+      "life_expectancy": 67.095,
+      "infant_mortality": 33.279
+    },
+    "PH": {
+      "name": "Philippines",
+      "iso2": "PH",
+      "iso3": "PHL",
+      "type": "Country/Area",
+      "pop": 115843670,
+      "births": 1841191,
+      "life_expectancy": 69.946,
+      "infant_mortality": 19.849
+    },
+    "SG": {
+      "name": "Singapore",
+      "iso2": "SG",
+      "iso3": "SGP",
+      "type": "Country/Area",
+      "pop": 5832387,
+      "births": 48802,
+      "life_expectancy": 83.863,
+      "infant_mortality": 1.765
+    },
+    "TH": {
+      "name": "Thailand",
+      "iso2": "TH",
+      "iso3": "THA",
+      "type": "Country/Area",
+      "pop": 71668011,
+      "births": 581635,
+      "life_expectancy": 76.564,
+      "infant_mortality": 7.882
+    },
+    "TL": {
+      "name": "Timor-Leste",
+      "iso2": "TL",
+      "iso3": "TLS",
+      "type": "Country/Area",
+      "pop": 1400638,
+      "births": 30489,
+      "life_expectancy": 67.904,
+      "infant_mortality": 36.279
+    },
+    "VN": {
+      "name": "Viet Nam",
+      "iso2": "VN",
+      "iso3": "VNM",
+      "type": "Country/Area",
+      "pop": 100987686,
+      "births": 1355563,
+      "life_expectancy": 74.736,
+      "infant_mortality": 14.674
+    },
+    "AM": {
+      "name": "Armenia",
+      "iso2": "AM",
+      "iso3": "ARM",
+      "type": "Country/Area",
+      "pop": 2973840,
+      "births": 36278,
+      "life_expectancy": 75.846,
+      "infant_mortality": 9.092
+    },
+    "AZ": {
+      "name": "Azerbaijan",
+      "iso2": "AZ",
+      "iso3": "AZE",
+      "type": "Country/Area",
+      "pop": 10336577,
+      "births": 121322,
+      "life_expectancy": 74.576,
+      "infant_mortality": 14.171
+    },
+    "BH": {
+      "name": "Bahrain",
+      "iso2": "BH",
+      "iso3": "BHR",
+      "type": "Country/Area",
+      "pop": 1607049,
+      "births": 19338,
+      "life_expectancy": 81.423,
+      "infant_mortality": 5.172
+    },
+    "CY": {
+      "name": "Cyprus",
+      "iso2": "CY",
+      "iso3": "CYP",
+      "type": "Country/Area",
+      "pop": 1358282,
+      "births": 14285,
+      "life_expectancy": 81.821,
+      "infant_mortality": 2.569
+    },
+    "GE": {
+      "name": "Georgia",
+      "iso2": "GE",
+      "iso3": "GEO",
+      "type": "Country/Area",
+      "pop": 3807670,
+      "births": 42983,
+      "life_expectancy": 74.657,
+      "infant_mortality": 6.733
+    },
+    "IQ": {
+      "name": "Iraq",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "type": "Country/Area",
+      "pop": 46042015,
+      "births": 1177772,
+      "life_expectancy": 72.424,
+      "infant_mortality": 18.671
+    },
+    "IL": {
+      "name": "Israel",
+      "iso2": "IL",
+      "iso3": "ISR",
+      "type": "Country/Area",
+      "pop": 9387021,
+      "births": 171566,
+      "life_expectancy": 82.727,
+      "infant_mortality": 2.939
+    },
+    "JO": {
+      "name": "Jordan",
+      "iso2": "JO",
+      "iso3": "JOR",
+      "type": "Country/Area",
+      "pop": 11552876,
+      "births": 236284,
+      "life_expectancy": 77.981,
+      "infant_mortality": 11.425
+    },
+    "KW": {
+      "name": "Kuwait",
+      "iso2": "KW",
+      "iso3": "KWT",
+      "type": "Country/Area",
+      "pop": 4934507,
+      "births": 48132,
+      "life_expectancy": 80.6,
+      "infant_mortality": 6.453
+    },
+    "LB": {
+      "name": "Lebanon",
+      "iso2": "LB",
+      "iso3": "LBN",
+      "type": "Country/Area",
+      "pop": 5805962,
+      "births": 92653,
+      "life_expectancy": 77.945,
+      "infant_mortality": 15.358
+    },
+    "OM": {
+      "name": "Oman",
+      "iso2": "OM",
+      "iso3": "OMN",
+      "type": "Country/Area",
+      "pop": 5281538,
+      "births": 88613,
+      "life_expectancy": 80.246,
+      "infant_mortality": 8.317
+    },
+    "QA": {
+      "name": "Qatar",
+      "iso2": "QA",
+      "iso3": "QAT",
+      "type": "Country/Area",
+      "pop": 3048423,
+      "births": 29034,
+      "life_expectancy": 82.522,
+      "infant_mortality": 5.775
+    },
+    "SA": {
+      "name": "Saudi Arabia",
+      "iso2": "SA",
+      "iso3": "SAU",
+      "type": "Country/Area",
+      "pop": 33962757,
+      "births": 560224,
+      "life_expectancy": 78.982,
+      "infant_mortality": 6.045
+    },
+    "PS": {
+      "name": "State of Palestine",
+      "iso2": "PS",
+      "iso3": "PSE",
+      "type": "Country/Area",
+      "pop": 5495443,
+      "births": 145440,
+      "life_expectancy": 69.213,
+      "infant_mortality": 23.636
+    },
+    "SY": {
+      "name": "Syrian Arab Republic",
+      "iso2": "SY",
+      "iso3": "SYR",
+      "type": "Country/Area",
+      "pop": 24672760,
+      "births": 571460,
+      "life_expectancy": 72.56,
+      "infant_mortality": 15.466
+    },
+    "TR": {
+      "name": "Türkiye",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "type": "Country/Area",
+      "pop": 87473805,
+      "births": 1060605,
+      "life_expectancy": 77.421,
+      "infant_mortality": 9.591
+    },
+    "AE": {
+      "name": "United Arab Emirates",
+      "iso2": "AE",
+      "iso3": "ARE",
+      "type": "Country/Area",
+      "pop": 11027129,
+      "births": 108273,
+      "life_expectancy": 83.069,
+      "infant_mortality": 5.029
+    },
+    "YE": {
+      "name": "Yemen",
+      "iso2": "YE",
+      "iso3": "YEM",
+      "type": "Country/Area",
+      "pop": 40583164,
+      "births": 1394397,
+      "life_expectancy": 69.439,
+      "infant_mortality": 31.462
+    },
+    "BY": {
+      "name": "Belarus",
+      "iso2": "BY",
+      "iso3": "BLR",
+      "type": "Country/Area",
+      "pop": 9056696,
+      "births": 63679,
+      "life_expectancy": 74.624,
+      "infant_mortality": 2.468
+    },
+    "BG": {
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "iso3": "BGR",
+      "type": "Country/Area",
+      "pop": 6757689,
+      "births": 61463,
+      "life_expectancy": 75.795,
+      "infant_mortality": 4.883
+    },
+    "CZ": {
+      "name": "Czechia",
+      "iso2": "CZ",
+      "iso3": "CZE",
+      "type": "Country/Area",
+      "pop": 10735859,
+      "births": 90211,
+      "life_expectancy": 79.97,
+      "infant_mortality": 2.106
+    },
+    "HU": {
+      "name": "Hungary",
+      "iso2": "HU",
+      "iso3": "HUN",
+      "type": "Country/Area",
+      "pop": 9676135,
+      "births": 85003,
+      "life_expectancy": 77.181,
+      "infant_mortality": 2.895
+    },
+    "PL": {
+      "name": "Poland",
+      "iso2": "PL",
+      "iso3": "POL",
+      "type": "Country/Area",
+      "pop": 38539201,
+      "births": 309612,
+      "life_expectancy": 78.81,
+      "infant_mortality": 3.279
+    },
+    "MD": {
+      "name": "Republic of Moldova",
+      "iso2": "MD",
+      "iso3": "MDA",
+      "type": "Country/Area",
+      "pop": 3034961,
+      "births": 32140,
+      "life_expectancy": 71.332,
+      "infant_mortality": 9.845
+    },
+    "RO": {
+      "name": "Romania",
+      "iso2": "RO",
+      "iso3": "ROU",
+      "type": "Country/Area",
+      "pop": 19015088,
+      "births": 180942,
+      "life_expectancy": 76.093,
+      "infant_mortality": 5.125
+    },
+    "RU": {
+      "name": "Russian Federation",
+      "iso2": "RU",
+      "iso3": "RUS",
+      "type": "Country/Area",
+      "pop": 144820423,
+      "births": 1270354,
+      "life_expectancy": 73.343,
+      "infant_mortality": 4.232
+    },
+    "SK": {
+      "name": "Slovakia",
+      "iso2": "SK",
+      "iso3": "SVK",
+      "type": "Country/Area",
+      "pop": 5506760,
+      "births": 51117,
+      "life_expectancy": 78.492,
+      "infant_mortality": 3.909
+    },
+    "UA": {
+      "name": "Ukraine",
+      "iso2": "UA",
+      "iso3": "UKR",
+      "type": "Country/Area",
+      "pop": 37860221,
+      "births": 206937,
+      "life_expectancy": 74.692,
+      "infant_mortality": 5.064
+    },
+    "DK": {
+      "name": "Denmark",
+      "iso2": "DK",
+      "iso3": "DNK",
+      "type": "Country/Area",
+      "pop": 5977412,
+      "births": 58646,
+      "life_expectancy": 82.094,
+      "infant_mortality": 2.811
+    },
+    "EE": {
+      "name": "Estonia",
+      "iso2": "EE",
+      "iso3": "EST",
+      "type": "Country/Area",
+      "pop": 1360546,
+      "births": 10926,
+      "life_expectancy": 79.309,
+      "infant_mortality": 1.642
+    },
+    "FO": {
+      "name": "Faroe Islands",
+      "iso2": "FO",
+      "iso3": "FRO",
+      "type": "Country/Area",
+      "pop": 55400,
+      "births": 705,
+      "life_expectancy": 80.394,
+      "infant_mortality": 5.541
+    },
+    "FI": {
+      "name": "Finland",
+      "iso2": "FI",
+      "iso3": "FIN",
+      "type": "Country/Area",
+      "pop": 5617310,
+      "births": 43829,
+      "life_expectancy": 82.077,
+      "infant_mortality": 1.704
+    },
+    "GG": {
+      "name": "Guernsey",
+      "iso2": "GG",
+      "iso3": "GGY",
+      "type": "Country/Area",
+      "pop": 64280,
+      "births": 525,
+      "life_expectancy": 83.382,
+      "infant_mortality": 5.729
+    },
+    "IS": {
+      "name": "Iceland",
+      "iso2": "IS",
+      "iso3": "ISL",
+      "type": "Country/Area",
+      "pop": 393396,
+      "births": 4377,
+      "life_expectancy": 83.013,
+      "infant_mortality": 1.245
+    },
+    "IE": {
+      "name": "Ireland",
+      "iso2": "IE",
+      "iso3": "IRL",
+      "type": "Country/Area",
+      "pop": 5255017,
+      "births": 52767,
+      "life_expectancy": 82.58,
+      "infant_mortality": 2.634
+    },
+    "IM": {
+      "name": "Isle of Man",
+      "iso2": "IM",
+      "iso3": "IMN",
+      "type": "Country/Area",
+      "pop": 84160,
+      "births": 697,
+      "life_expectancy": 81.091,
+      "infant_mortality": 10.596
+    },
+    "JE": {
+      "name": "Jersey",
+      "iso2": "JE",
+      "iso3": "JEY",
+      "type": "Country/Area",
+      "pop": 103846,
+      "births": 851,
+      "life_expectancy": 79.833,
+      "infant_mortality": 8.498
+    },
+    "LV": {
+      "name": "Latvia",
+      "iso2": "LV",
+      "iso3": "LVA",
+      "type": "Country/Area",
+      "pop": 1871871,
+      "births": 14017,
+      "life_expectancy": 76.33,
+      "infant_mortality": 2.744
+    },
+    "LT": {
+      "name": "Lithuania",
+      "iso2": "LT",
+      "iso3": "LTU",
+      "type": "Country/Area",
+      "pop": 2859110,
+      "births": 22186,
+      "life_expectancy": 76.167,
+      "infant_mortality": 3.088
+    },
+    "NO": {
+      "name": "Norway",
+      "iso2": "NO",
+      "iso3": "NOR",
+      "type": "Country/Area",
+      "pop": 5576660,
+      "births": 52516,
+      "life_expectancy": 83.46,
+      "infant_mortality": 1.784
+    },
+    "SE": {
+      "name": "Sweden",
+      "iso2": "SE",
+      "iso3": "SWE",
+      "type": "Country/Area",
+      "pop": 10606999,
+      "births": 97489,
+      "life_expectancy": 83.424,
+      "infant_mortality": 1.847
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "iso3": "GBR",
+      "type": "Country/Area",
+      "pop": 69138192,
+      "births": 683910,
+      "life_expectancy": 81.448,
+      "infant_mortality": 3.636
+    },
+    "AL": {
+      "name": "Albania",
+      "iso2": "AL",
+      "iso3": "ALB",
+      "type": "Country/Area",
+      "pop": 2791765,
+      "births": 28283,
+      "life_expectancy": 79.776,
+      "infant_mortality": 7.119
+    },
+    "AD": {
+      "name": "Andorra",
+      "iso2": "AD",
+      "iso3": "AND",
+      "type": "Country/Area",
+      "pop": 81938,
+      "births": 561,
+      "life_expectancy": 84.188,
+      "infant_mortality": 5.136
+    },
+    "BA": {
+      "name": "Bosnia and Herzegovina",
+      "iso2": "BA",
+      "iso3": "BIH",
+      "type": "Country/Area",
+      "pop": 3164253,
+      "births": 24430,
+      "life_expectancy": 78.044,
+      "infant_mortality": 4.867
+    },
+    "HR": {
+      "name": "Croatia",
+      "iso2": "HR",
+      "iso3": "HRV",
+      "type": "Country/Area",
+      "pop": 3875325,
+      "births": 31379,
+      "life_expectancy": 78.751,
+      "infant_mortality": 3.429
+    },
+    "GI": {
+      "name": "Gibraltar",
+      "iso2": "GI",
+      "iso3": "GIB",
+      "type": "Country/Area",
+      "pop": 39329,
+      "births": 480,
+      "life_expectancy": 83.63,
+      "infant_mortality": 8.244
+    },
+    "GR": {
+      "name": "Greece",
+      "iso2": "GR",
+      "iso3": "GRC",
+      "type": "Country/Area",
+      "pop": 10047817,
+      "births": 71411,
+      "life_expectancy": 82.031,
+      "infant_mortality": 2.894
+    },
+    "VA": {
+      "name": "Holy See",
+      "iso2": "VA",
+      "iso3": "VAT",
+      "type": "Country/Area",
+      "pop": 496,
+      "births": 2,
+      "life_expectancy": 83.115,
+      "infant_mortality": 5.936
+    },
+    "IT": {
+      "name": "Italy",
+      "iso2": "IT",
+      "iso3": "ITA",
+      "type": "Country/Area",
+      "pop": 59342867,
+      "births": 384703,
+      "life_expectancy": 83.869,
+      "infant_mortality": 2.221
+    },
+    "XK": {
+      "name": "Kosovo (under UNSC res. 1244)",
+      "iso2": "XK",
+      "iso3": "XKX",
+      "type": "Country/Area",
+      "pop": 1684790,
+      "births": 19967,
+      "life_expectancy": 78.222,
+      "infant_mortality": 8.919
+    },
+    "MT": {
+      "name": "Malta",
+      "iso2": "MT",
+      "iso3": "MLT",
+      "type": "Country/Area",
+      "pop": 539607,
+      "births": 4212,
+      "life_expectancy": 83.467,
+      "infant_mortality": 4.617
+    },
+    "ME": {
+      "name": "Montenegro",
+      "iso2": "ME",
+      "iso3": "MNE",
+      "type": "Country/Area",
+      "pop": 638479,
+      "births": 7058,
+      "life_expectancy": 77.254,
+      "infant_mortality": 1.89
+    },
+    "MK": {
+      "name": "North Macedonia",
+      "iso2": "MK",
+      "iso3": "MKD",
+      "type": "Country/Area",
+      "pop": 1823009,
+      "births": 16587,
+      "life_expectancy": 77.54,
+      "infant_mortality": 6.08
+    },
+    "PT": {
+      "name": "Portugal",
+      "iso2": "PT",
+      "iso3": "PRT",
+      "type": "Country/Area",
+      "pop": 10425292,
+      "births": 86151,
+      "life_expectancy": 82.55,
+      "infant_mortality": 2.327
+    },
+    "SM": {
+      "name": "San Marino",
+      "iso2": "SM",
+      "iso3": "SMR",
+      "type": "Country/Area",
+      "pop": 33581,
+      "births": 196,
+      "life_expectancy": 85.817,
+      "infant_mortality": 1.056
+    },
+    "RS": {
+      "name": "Serbia",
+      "iso2": "RS",
+      "iso3": "SRB",
+      "type": "Country/Area",
+      "pop": 6736216,
+      "births": 58988,
+      "life_expectancy": 76.939,
+      "infant_mortality": 3.969
+    },
+    "SI": {
+      "name": "Slovenia",
+      "iso2": "SI",
+      "iso3": "SVN",
+      "type": "Country/Area",
+      "pop": 2118697,
+      "births": 17563,
+      "life_expectancy": 81.777,
+      "infant_mortality": 1.408
+    },
+    "ES": {
+      "name": "Spain",
+      "iso2": "ES",
+      "iso3": "ESP",
+      "type": "Country/Area",
+      "pop": 47910526,
+      "births": 333155,
+      "life_expectancy": 83.799,
+      "infant_mortality": 2.203
+    },
+    "AT": {
+      "name": "Austria",
+      "iso2": "AT",
+      "iso3": "AUT",
+      "type": "Country/Area",
+      "pop": 9120813,
+      "births": 76247,
+      "life_expectancy": 82.12,
+      "infant_mortality": 2.643
+    },
+    "BE": {
+      "name": "Belgium",
+      "iso2": "BE",
+      "iso3": "BEL",
+      "type": "Country/Area",
+      "pop": 11738763,
+      "births": 101368,
+      "life_expectancy": 82.274,
+      "infant_mortality": 2.873
+    },
+    "FR": {
+      "name": "France",
+      "iso2": "FR",
+      "iso3": "FRA",
+      "type": "Country/Area",
+      "pop": 66548530,
+      "births": 635995,
+      "life_expectancy": 83.458,
+      "infant_mortality": 3.155
+    },
+    "DE": {
+      "name": "Germany",
+      "iso2": "DE",
+      "iso3": "DEU",
+      "type": "Country/Area",
+      "pop": 84552242,
+      "births": 717268,
+      "life_expectancy": 81.539,
+      "infant_mortality": 2.821
+    },
+    "LI": {
+      "name": "Liechtenstein",
+      "iso2": "LI",
+      "iso3": "LIE",
+      "type": "Country/Area",
+      "pop": 39870,
+      "births": 371,
+      "life_expectancy": 83.748,
+      "infant_mortality": 5.532
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "iso2": "LU",
+      "iso3": "LUX",
+      "type": "Country/Area",
+      "pop": 673036,
+      "births": 6941,
+      "life_expectancy": 82.361,
+      "infant_mortality": 2.857
+    },
+    "MC": {
+      "name": "Monaco",
+      "iso2": "MC",
+      "iso3": "MCO",
+      "type": "Country/Area",
+      "pop": 38631,
+      "births": 369,
+      "life_expectancy": 86.497,
+      "infant_mortality": 3.869
+    },
+    "NL": {
+      "name": "Netherlands",
+      "iso2": "NL",
+      "iso3": "NLD",
+      "type": "Country/Area",
+      "pop": 18228742,
+      "births": 171524,
+      "life_expectancy": 82.304,
+      "infant_mortality": 3.086
+    },
+    "CH": {
+      "name": "Switzerland",
+      "iso2": "CH",
+      "iso3": "CHE",
+      "type": "Country/Area",
+      "pop": 8921981,
+      "births": 82864,
+      "life_expectancy": 84.088,
+      "infant_mortality": 3.173
+    },
+    "AI": {
+      "name": "Anguilla",
+      "iso2": "AI",
+      "iso3": "AIA",
+      "type": "Country/Area",
+      "pop": 14598,
+      "births": 134,
+      "life_expectancy": 79.486,
+      "infant_mortality": 4.703
+    },
+    "AG": {
+      "name": "Antigua and Barbuda",
+      "iso2": "AG",
+      "iso3": "ATG",
+      "type": "Country/Area",
+      "pop": 93772,
+      "births": 1102,
+      "life_expectancy": 77.766,
+      "infant_mortality": 7.387
+    },
+    "AW": {
+      "name": "Aruba",
+      "iso2": "AW",
+      "iso3": "ABW",
+      "type": "Country/Area",
+      "pop": 108066,
+      "births": 1022,
+      "life_expectancy": 76.5,
+      "infant_mortality": 11.088
+    },
+    "BS": {
+      "name": "Bahamas",
+      "iso2": "BS",
+      "iso3": "BHS",
+      "type": "Country/Area",
+      "pop": 401283,
+      "births": 4341,
+      "life_expectancy": 74.71,
+      "infant_mortality": 10.658
+    },
+    "BB": {
+      "name": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB",
+      "type": "Country/Area",
+      "pop": 282467,
+      "births": 3140,
+      "life_expectancy": 76.332,
+      "infant_mortality": 10.971
+    },
+    "BQ": {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "iso2": "BQ",
+      "iso3": "BES",
+      "type": "Country/Area",
+      "pop": 30675,
+      "births": 290,
+      "life_expectancy": 77.609,
+      "infant_mortality": 10.706
+    },
+    "VG": {
+      "name": "British Virgin Islands",
+      "iso2": "VG",
+      "iso3": "VGB",
+      "type": "Country/Area",
+      "pop": 39471,
+      "births": 324,
+      "life_expectancy": 77.431,
+      "infant_mortality": 10.69
+    },
+    "KY": {
+      "name": "Cayman Islands",
+      "iso2": "KY",
+      "iso3": "CYM",
+      "type": "Country/Area",
+      "pop": 74457,
+      "births": 861,
+      "life_expectancy": 80.54,
+      "infant_mortality": 1.077
+    },
+    "CU": {
+      "name": "Cuba",
+      "iso2": "CU",
+      "iso3": "CUB",
+      "type": "Country/Area",
+      "pop": 10979783,
+      "births": 94650,
+      "life_expectancy": 78.264,
+      "infant_mortality": 4.519
+    },
+    "CW": {
+      "name": "Curaçao",
+      "iso2": "CW",
+      "iso3": "CUW",
+      "type": "Country/Area",
+      "pop": 185482,
+      "births": 1399,
+      "life_expectancy": 76.989,
+      "infant_mortality": 8.3
+    },
+    "DM": {
+      "name": "Dominica",
+      "iso2": "DM",
+      "iso3": "DMA",
+      "type": "Country/Area",
+      "pop": 66205,
+      "births": 727,
+      "life_expectancy": 71.294,
+      "infant_mortality": 26.858
+    },
+    "DO": {
+      "name": "Dominican Republic",
+      "iso2": "DO",
+      "iso3": "DOM",
+      "type": "Country/Area",
+      "pop": 11427557,
+      "births": 201350,
+      "life_expectancy": 73.868,
+      "infant_mortality": 25.296
+    },
+    "GD": {
+      "name": "Grenada",
+      "iso2": "GD",
+      "iso3": "GRD",
+      "type": "Country/Area",
+      "pop": 117207,
+      "births": 1345,
+      "life_expectancy": 75.367,
+      "infant_mortality": 11.733
+    },
+    "GP": {
+      "name": "Guadeloupe",
+      "iso2": "GP",
+      "iso3": "GLP",
+      "type": "Country/Area",
+      "pop": 375106,
+      "births": 4101,
+      "life_expectancy": 82.241,
+      "infant_mortality": 6.567
+    },
+    "HT": {
+      "name": "Haiti",
+      "iso2": "HT",
+      "iso3": "HTI",
+      "type": "Country/Area",
+      "pop": 11772557,
+      "births": 258340,
+      "life_expectancy": 65.119,
+      "infant_mortality": 44.237
+    },
+    "JM": {
+      "name": "Jamaica",
+      "iso2": "JM",
+      "iso3": "JAM",
+      "type": "Country/Area",
+      "pop": 2839175,
+      "births": 32508,
+      "life_expectancy": 71.606,
+      "infant_mortality": 15.43
+    },
+    "MQ": {
+      "name": "Martinique",
+      "iso2": "MQ",
+      "iso3": "MTQ",
+      "type": "Country/Area",
+      "pop": 343195,
+      "births": 3558,
+      "life_expectancy": 82.739,
+      "infant_mortality": 6.246
+    },
+    "MS": {
+      "name": "Montserrat",
+      "iso2": "MS",
+      "iso3": "MSR",
+      "type": "Country/Area",
+      "pop": 4389,
+      "births": 38,
+      "life_expectancy": 76.34,
+      "infant_mortality": 5.143
+    },
+    "PR": {
+      "name": "Puerto Rico",
+      "iso2": "PR",
+      "iso3": "PRI",
+      "type": "Country/Area",
+      "pop": 3242204,
+      "births": 19051,
+      "life_expectancy": 81.902,
+      "infant_mortality": 4.892
+    },
+    "BL": {
+      "name": "Saint Barthélemy",
+      "iso2": "BL",
+      "iso3": "BLM",
+      "type": "Country/Area",
+      "pop": 11258,
+      "births": 57,
+      "life_expectancy": 84.4,
+      "infant_mortality": 5.164
+    },
+    "KN": {
+      "name": "Saint Kitts and Nevis",
+      "iso2": "KN",
+      "iso3": "KNA",
+      "type": "Country/Area",
+      "pop": 46843,
+      "births": 550,
+      "life_expectancy": 72.281,
+      "infant_mortality": 12.26
+    },
+    "LC": {
+      "name": "Saint Lucia",
+      "iso2": "LC",
+      "iso3": "LCA",
+      "type": "Country/Area",
+      "pop": 179744,
+      "births": 2015,
+      "life_expectancy": 72.846,
+      "infant_mortality": 13.872
+    },
+    "MF": {
+      "name": "Saint Martin (French part)",
+      "iso2": "MF",
+      "iso3": "MAF",
+      "type": "Country/Area",
+      "pop": 26129,
+      "births": 393,
+      "life_expectancy": 80.438,
+      "infant_mortality": 8.073
+    },
+    "VC": {
+      "name": "Saint Vincent and the Grenadines",
+      "iso2": "VC",
+      "iso3": "VCT",
+      "type": "Country/Area",
+      "pop": 100616,
+      "births": 1203,
+      "life_expectancy": 71.382,
+      "infant_mortality": 12.546
+    },
+    "SX": {
+      "name": "Sint Maarten (Dutch part)",
+      "iso2": "SX",
+      "iso3": "SXM",
+      "type": "Country/Area",
+      "pop": 43350,
+      "births": 394,
+      "life_expectancy": 76.528,
+      "infant_mortality": 12.449
+    },
+    "TT": {
+      "name": "Trinidad and Tobago",
+      "iso2": "TT",
+      "iso3": "TTO",
+      "type": "Country/Area",
+      "pop": 1507782,
+      "births": 15897,
+      "life_expectancy": 73.617,
+      "infant_mortality": 13.744
+    },
+    "TC": {
+      "name": "Turks and Caicos Islands",
+      "iso2": "TC",
+      "iso3": "TCA",
+      "type": "Country/Area",
+      "pop": 46535,
+      "births": 490,
+      "life_expectancy": 78.181,
+      "infant_mortality": 4.632
+    },
+    "VI": {
+      "name": "United States Virgin Islands",
+      "iso2": "VI",
+      "iso3": "VIR",
+      "type": "Country/Area",
+      "pop": 84905,
+      "births": 941,
+      "life_expectancy": 75.699,
+      "infant_mortality": 4.769
+    },
+    "BZ": {
+      "name": "Belize",
+      "iso2": "BZ",
+      "iso3": "BLZ",
+      "type": "Country/Area",
+      "pop": 417072,
+      "births": 7529,
+      "life_expectancy": 73.739,
+      "infant_mortality": 8.68
+    },
+    "CR": {
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "iso3": "CRI",
+      "type": "Country/Area",
+      "pop": 5129910,
+      "births": 51253,
+      "life_expectancy": 80.996,
+      "infant_mortality": 6.432
+    },
+    "SV": {
+      "name": "El Salvador",
+      "iso2": "SV",
+      "iso3": "SLV",
+      "type": "Country/Area",
+      "pop": 6338193,
+      "births": 98858,
+      "life_expectancy": 72.302,
+      "infant_mortality": 9.333
+    },
+    "GT": {
+      "name": "Guatemala",
+      "iso2": "GT",
+      "iso3": "GTM",
+      "type": "Country/Area",
+      "pop": 18406359,
+      "births": 379512,
+      "life_expectancy": 72.746,
+      "infant_mortality": 17.196
+    },
+    "HN": {
+      "name": "Honduras",
+      "iso2": "HN",
+      "iso3": "HND",
+      "type": "Country/Area",
+      "pop": 10825703,
+      "births": 234369,
+      "life_expectancy": 73.044,
+      "infant_mortality": 12.561
+    },
+    "MX": {
+      "name": "Mexico",
+      "iso2": "MX",
+      "iso3": "MEX",
+      "type": "Country/Area",
+      "pop": 130861007,
+      "births": 2023623,
+      "life_expectancy": 75.264,
+      "infant_mortality": 10.338
+    },
+    "NI": {
+      "name": "Nicaragua",
+      "iso2": "NI",
+      "iso3": "NIC",
+      "type": "Country/Area",
+      "pop": 6916140,
+      "births": 132383,
+      "life_expectancy": 75.1,
+      "infant_mortality": 10.864
+    },
+    "PA": {
+      "name": "Panama",
+      "iso2": "PA",
+      "iso3": "PAN",
+      "type": "Country/Area",
+      "pop": 4515577,
+      "births": 71650,
+      "life_expectancy": 79.775,
+      "infant_mortality": 10.349
+    },
+    "AR": {
+      "name": "Argentina",
+      "iso2": "AR",
+      "iso3": "ARG",
+      "type": "Country/Area",
+      "pop": 45696159,
+      "births": 506609,
+      "life_expectancy": 77.543,
+      "infant_mortality": 8.889
+    },
+    "BO": {
+      "name": "Bolivia (Plurinational State of)",
+      "iso2": "BO",
+      "iso3": "BOL",
+      "type": "Country/Area",
+      "pop": 12413315,
+      "births": 261003,
+      "life_expectancy": 68.739,
+      "infant_mortality": 31.032
+    },
+    "BR": {
+      "name": "Brazil",
+      "iso2": "BR",
+      "iso3": "BRA",
+      "type": "Country/Area",
+      "pop": 211998573,
+      "births": 2572100,
+      "life_expectancy": 76.023,
+      "infant_mortality": 11.958
+    },
+    "CL": {
+      "name": "Chile",
+      "iso2": "CL",
+      "iso3": "CHL",
+      "type": "Country/Area",
+      "pop": 19764771,
+      "births": 172406,
+      "life_expectancy": 81.359,
+      "infant_mortality": 5.522
+    },
+    "CO": {
+      "name": "Colombia",
+      "iso2": "CO",
+      "iso3": "COL",
+      "type": "Country/Area",
+      "pop": 52886363,
+      "births": 700784,
+      "life_expectancy": 77.913,
+      "infant_mortality": 9.561
+    },
+    "EC": {
+      "name": "Ecuador",
+      "iso2": "EC",
+      "iso3": "ECU",
+      "type": "Country/Area",
+      "pop": 18135478,
+      "births": 268769,
+      "life_expectancy": 77.579,
+      "infant_mortality": 9.846
+    },
+    "FK": {
+      "name": "Falkland Islands (Malvinas)",
+      "iso2": "FK",
+      "iso3": "FLK",
+      "type": "Country/Area",
+      "pop": 3470,
+      "births": 38,
+      "life_expectancy": 79.37,
+      "infant_mortality": 9.001
+    },
+    "GF": {
+      "name": "French Guiana",
+      "iso2": "GF",
+      "iso3": "GUF",
+      "type": "Country/Area",
+      "pop": 308522,
+      "births": 7642,
+      "life_expectancy": 77.184,
+      "infant_mortality": 8.893
+    },
+    "GY": {
+      "name": "Guyana",
+      "iso2": "GY",
+      "iso3": "GUY",
+      "type": "Country/Area",
+      "pop": 831087,
+      "births": 16525,
+      "life_expectancy": 70.319,
+      "infant_mortality": 18.265
+    },
+    "PY": {
+      "name": "Paraguay",
+      "iso2": "PY",
+      "iso3": "PRY",
+      "type": "Country/Area",
+      "pop": 6929153,
+      "births": 136695,
+      "life_expectancy": 73.982,
+      "infant_mortality": 15.896
+    },
+    "PE": {
+      "name": "Peru",
+      "iso2": "PE",
+      "iso3": "PER",
+      "type": "Country/Area",
+      "pop": 34217848,
+      "births": 538952,
+      "life_expectancy": 77.941,
+      "infant_mortality": 10.058
+    },
+    "SR": {
+      "name": "Suriname",
+      "iso2": "SR",
+      "iso3": "SUR",
+      "type": "Country/Area",
+      "pop": 634431,
+      "births": 10882,
+      "life_expectancy": 73.757,
+      "infant_mortality": 10.753
+    },
+    "UY": {
+      "name": "Uruguay",
+      "iso2": "UY",
+      "iso3": "URY",
+      "type": "Country/Area",
+      "pop": 3386588,
+      "births": 33196,
+      "life_expectancy": 78.287,
+      "infant_mortality": 5.921
+    },
+    "VE": {
+      "name": "Venezuela (Bolivarian Republic of)",
+      "iso2": "VE",
+      "iso3": "VEN",
+      "type": "Country/Area",
+      "pop": 28405543,
+      "births": 432648,
+      "life_expectancy": 72.673,
+      "infant_mortality": 14.824
+    },
+    "BM": {
+      "name": "Bermuda",
+      "iso2": "BM",
+      "iso3": "BMU",
+      "type": "Country/Area",
+      "pop": 64636,
+      "births": 512,
+      "life_expectancy": 82.49,
+      "infant_mortality": 1.913
+    },
+    "CA": {
+      "name": "Canada",
+      "iso2": "CA",
+      "iso3": "CAN",
+      "type": "Country/Area",
+      "pop": 39742430,
+      "births": 361079,
+      "life_expectancy": 82.719,
+      "infant_mortality": 4.01
+    },
+    "GL": {
+      "name": "Greenland",
+      "iso2": "GL",
+      "iso3": "GRL",
+      "type": "Country/Area",
+      "pop": 55840,
+      "births": 762,
+      "life_expectancy": 70.194,
+      "infant_mortality": 9.617
+    },
+    "PM": {
+      "name": "Saint Pierre and Miquelon",
+      "iso2": "PM",
+      "iso3": "SPM",
+      "type": "Country/Area",
+      "pop": 5628,
+      "births": 29,
+      "life_expectancy": 76.937,
+      "infant_mortality": 7.871
+    },
+    "US": {
+      "name": "United States of America",
+      "iso2": "US",
+      "iso3": "USA",
+      "type": "Country/Area",
+      "pop": 345426571,
+      "births": 3654449,
+      "life_expectancy": 79.463,
+      "infant_mortality": 4.948
+    },
+    "AU": {
+      "name": "Australia",
+      "iso2": "AU",
+      "iso3": "AUS",
+      "type": "Country/Area",
+      "pop": 26713205,
+      "births": 304984,
+      "life_expectancy": 84.073,
+      "infant_mortality": 2.63
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "iso2": "NZ",
+      "iso3": "NZL",
+      "type": "Country/Area",
+      "pop": 5213944,
+      "births": 59121,
+      "life_expectancy": 82.245,
+      "infant_mortality": 3.646
+    },
+    "FJ": {
+      "name": "Fiji",
+      "iso2": "FJ",
+      "iso3": "FJI",
+      "type": "Country/Area",
+      "pop": 928784,
+      "births": 16592,
+      "life_expectancy": 67.463,
+      "infant_mortality": 16.242
+    },
+    "NC": {
+      "name": "New Caledonia",
+      "iso2": "NC",
+      "iso3": "NCL",
+      "type": "Country/Area",
+      "pop": 292639,
+      "births": 4106,
+      "life_expectancy": 78.921,
+      "infant_mortality": 8.373
+    },
+    "PG": {
+      "name": "Papua New Guinea",
+      "iso2": "PG",
+      "iso3": "PNG",
+      "type": "Country/Area",
+      "pop": 10576502,
+      "births": 256911,
+      "life_expectancy": 66.256,
+      "infant_mortality": 31.684
+    },
+    "SB": {
+      "name": "Solomon Islands",
+      "iso2": "SB",
+      "iso3": "SLB",
+      "type": "Country/Area",
+      "pop": 819198,
+      "births": 21878,
+      "life_expectancy": 70.694,
+      "infant_mortality": 13.963
+    },
+    "VU": {
+      "name": "Vanuatu",
+      "iso2": "VU",
+      "iso3": "VUT",
+      "type": "Country/Area",
+      "pop": 327777,
+      "births": 9063,
+      "life_expectancy": 71.654,
+      "infant_mortality": 14.2
+    },
+    "GU": {
+      "name": "Guam",
+      "iso2": "GU",
+      "iso3": "GUM",
+      "type": "Country/Area",
+      "pop": 167777,
+      "births": 2910,
+      "life_expectancy": 77.422,
+      "infant_mortality": 9.967
+    },
+    "KI": {
+      "name": "Kiribati",
+      "iso2": "KI",
+      "iso3": "KIR",
+      "type": "Country/Area",
+      "pop": 134518,
+      "births": 3405,
+      "life_expectancy": 66.6,
+      "infant_mortality": 42.577
+    },
+    "MH": {
+      "name": "Marshall Islands",
+      "iso2": "MH",
+      "iso3": "MHL",
+      "type": "Country/Area",
+      "pop": 37548,
+      "births": 754,
+      "life_expectancy": 67.075,
+      "infant_mortality": 21.681
+    },
+    "FM": {
+      "name": "Micronesia (Fed. States of)",
+      "iso2": "FM",
+      "iso3": "FSM",
+      "type": "Country/Area",
+      "pop": 113160,
+      "births": 2526,
+      "life_expectancy": 67.357,
+      "infant_mortality": 18.435
+    },
+    "NR": {
+      "name": "Nauru",
+      "iso2": "NR",
+      "iso3": "NRU",
+      "type": "Country/Area",
+      "pop": 11947,
+      "births": 293,
+      "life_expectancy": 62.279,
+      "infant_mortality": 20.088
+    },
+    "MP": {
+      "name": "Northern Mariana Islands",
+      "iso2": "MP",
+      "iso3": "MNP",
+      "type": "Country/Area",
+      "pop": 44278,
+      "births": 536,
+      "life_expectancy": 78.947,
+      "infant_mortality": 4.735
+    },
+    "PW": {
+      "name": "Palau",
+      "iso2": "PW",
+      "iso3": "PLW",
+      "type": "Country/Area",
+      "pop": 17695,
+      "births": 189,
+      "life_expectancy": 69.383,
+      "infant_mortality": 17.678
+    },
+    "AS": {
+      "name": "American Samoa",
+      "iso2": "AS",
+      "iso3": "ASM",
+      "type": "Country/Area",
+      "pop": 46765,
+      "births": 701,
+      "life_expectancy": 72.992,
+      "infant_mortality": 8.272
+    },
+    "CK": {
+      "name": "Cook Islands",
+      "iso2": "CK",
+      "iso3": "COK",
+      "type": "Country/Area",
+      "pop": 13729,
+      "births": 159,
+      "life_expectancy": 75.472,
+      "infant_mortality": 5.336
+    },
+    "PF": {
+      "name": "French Polynesia",
+      "iso2": "PF",
+      "iso3": "PYF",
+      "type": "Country/Area",
+      "pop": 281807,
+      "births": 3012,
+      "life_expectancy": 84.192,
+      "infant_mortality": 5.143
+    },
+    "NU": {
+      "name": "Niue",
+      "iso2": "NU",
+      "iso3": "NIU",
+      "type": "Country/Area",
+      "pop": 1819,
+      "births": 25,
+      "life_expectancy": 70.104,
+      "infant_mortality": 18.948
+    },
+    "WS": {
+      "name": "Samoa",
+      "iso2": "WS",
+      "iso3": "WSM",
+      "type": "Country/Area",
+      "pop": 218019,
+      "births": 5444,
+      "life_expectancy": 71.826,
+      "infant_mortality": 12.733
+    },
+    "TK": {
+      "name": "Tokelau",
+      "iso2": "TK",
+      "iso3": "TKL",
+      "type": "Country/Area",
+      "pop": 2506,
+      "births": 51,
+      "life_expectancy": 77.167,
+      "infant_mortality": 3.929
+    },
+    "TO": {
+      "name": "Tonga",
+      "iso2": "TO",
+      "iso3": "TON",
+      "type": "Country/Area",
+      "pop": 104175,
+      "births": 2400,
+      "life_expectancy": 73.07,
+      "infant_mortality": 8.654
+    },
+    "TV": {
+      "name": "Tuvalu",
+      "iso2": "TV",
+      "iso3": "TUV",
+      "type": "Country/Area",
+      "pop": 9646,
+      "births": 212,
+      "life_expectancy": 67.259,
+      "infant_mortality": 15.76
+    },
+    "WF": {
+      "name": "Wallis and Futuna Islands",
+      "iso2": "WF",
+      "iso3": "WLF",
+      "type": "Country/Area",
+      "pop": 11277,
+      "births": 97,
+      "life_expectancy": 78.737,
+      "infant_mortality": 11.001
+    }
+  },
+  "by_iso3": {
+    "BDI": {
+      "name": "Burundi",
+      "iso2": "BI",
+      "iso3": "BDI",
+      "type": "Country/Area",
+      "pop": 14047786,
+      "births": 466545,
+      "life_expectancy": 63.818,
+      "infant_mortality": 34.804
+    },
+    "COM": {
+      "name": "Comoros",
+      "iso2": "KM",
+      "iso3": "COM",
+      "type": "Country/Area",
+      "pop": 866628,
+      "births": 24467,
+      "life_expectancy": 67.023,
+      "infant_mortality": 35.743
+    },
+    "DJI": {
+      "name": "Djibouti",
+      "iso2": "DJ",
+      "iso3": "DJI",
+      "type": "Country/Area",
+      "pop": 1168722,
+      "births": 24462,
+      "life_expectancy": 66.202,
+      "infant_mortality": 35.457
+    },
+    "ERI": {
+      "name": "Eritrea",
+      "iso2": "ER",
+      "iso3": "ERI",
+      "type": "Country/Area",
+      "pop": 3535603,
+      "births": 101539,
+      "life_expectancy": 68.893,
+      "infant_mortality": 25.968
+    },
+    "ETH": {
+      "name": "Ethiopia",
+      "iso2": "ET",
+      "iso3": "ETH",
+      "type": "Country/Area",
+      "pop": 132059767,
+      "births": 4155828,
+      "life_expectancy": 67.603,
+      "infant_mortality": 31.889
+    },
+    "KEN": {
+      "name": "Kenya",
+      "iso2": "KE",
+      "iso3": "KEN",
+      "type": "Country/Area",
+      "pop": 56432944,
+      "births": 1521907,
+      "life_expectancy": 63.834,
+      "infant_mortality": 29.036
+    },
+    "MDG": {
+      "name": "Madagascar",
+      "iso2": "MG",
+      "iso3": "MDG",
+      "type": "Country/Area",
+      "pop": 31964956,
+      "births": 1013751,
+      "life_expectancy": 63.835,
+      "infant_mortality": 44.168
+    },
+    "MWI": {
+      "name": "Malawi",
+      "iso2": "MW",
+      "iso3": "MWI",
+      "type": "Country/Area",
+      "pop": 21655286,
+      "births": 674407,
+      "life_expectancy": 67.561,
+      "infant_mortality": 28.752
+    },
+    "MUS": {
+      "name": "Mauritius",
+      "iso2": "MU",
+      "iso3": "MUS",
+      "type": "Country/Area",
+      "pop": 1271169,
+      "births": 11600,
+      "life_expectancy": 75.102,
+      "infant_mortality": 11.706
+    },
+    "MYT": {
+      "name": "Mayotte",
+      "iso2": "YT",
+      "iso3": "MYT",
+      "type": "Country/Area",
+      "pop": 326505,
+      "births": 11270,
+      "life_expectancy": 76.24,
+      "infant_mortality": 8.543
+    },
+    "MOZ": {
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ",
+      "type": "Country/Area",
+      "pop": 34631766,
+      "births": 1282336,
+      "life_expectancy": 63.797,
+      "infant_mortality": 48.731
+    },
+    "REU": {
+      "name": "Réunion",
+      "iso2": "RE",
+      "iso3": "REU",
+      "type": "Country/Area",
+      "pop": 878591,
+      "births": 11711,
+      "life_expectancy": 83.671,
+      "infant_mortality": 4.195
+    },
+    "RWA": {
+      "name": "Rwanda",
+      "iso2": "RW",
+      "iso3": "RWA",
+      "type": "Country/Area",
+      "pop": 14256567,
+      "births": 400062,
+      "life_expectancy": 68.017,
+      "infant_mortality": 26.435
+    },
+    "SYC": {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC",
+      "type": "Country/Area",
+      "pop": 130418,
+      "births": 1753,
+      "life_expectancy": 72.986,
+      "infant_mortality": 10.155
+    },
+    "SOM": {
+      "name": "Somalia",
+      "iso2": "SO",
+      "iso3": "SOM",
+      "type": "Country/Area",
+      "pop": 19009151,
+      "births": 804966,
+      "life_expectancy": 58.967,
+      "infant_mortality": 65.573
+    },
+    "SSD": {
+      "name": "South Sudan",
+      "iso2": "SS",
+      "iso3": "SSD",
+      "type": "Country/Area",
+      "pop": 11943408,
+      "births": 349013,
+      "life_expectancy": 57.738,
+      "infant_mortality": 63.169
+    },
+    "UGA": {
+      "name": "Uganda",
+      "iso2": "UG",
+      "iso3": "UGA",
+      "type": "Country/Area",
+      "pop": 50015092,
+      "births": 1722321,
+      "life_expectancy": 68.487,
+      "infant_mortality": 27.826
+    },
+    "TZA": {
+      "name": "United Republic of Tanzania",
+      "iso2": "TZ",
+      "iso3": "TZA",
+      "type": "Country/Area",
+      "pop": 68560157,
+      "births": 2385984,
+      "life_expectancy": 67.212,
+      "infant_mortality": 28.168
+    },
+    "ZMB": {
+      "name": "Zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB",
+      "type": "Country/Area",
+      "pop": 21314956,
+      "births": 697518,
+      "life_expectancy": 66.528,
+      "infant_mortality": 37.361
+    },
+    "ZWE": {
+      "name": "Zimbabwe",
+      "iso2": "ZW",
+      "iso3": "ZWE",
+      "type": "Country/Area",
+      "pop": 16634373,
+      "births": 497215,
+      "life_expectancy": 63.064,
+      "infant_mortality": 32.2
+    },
+    "AGO": {
+      "name": "Angola",
+      "iso2": "AO",
+      "iso3": "AGO",
+      "type": "Country/Area",
+      "pop": 37885849,
+      "births": 1407760,
+      "life_expectancy": 64.805,
+      "infant_mortality": 47.687
+    },
+    "CMR": {
+      "name": "Cameroon",
+      "iso2": "CM",
+      "iso3": "CMR",
+      "type": "Country/Area",
+      "pop": 29123744,
+      "births": 971107,
+      "life_expectancy": 63.968,
+      "infant_mortality": 46.116
+    },
+    "CAF": {
+      "name": "Central African Republic",
+      "iso2": "CF",
+      "iso3": "CAF",
+      "type": "Country/Area",
+      "pop": 5330690,
+      "births": 246241,
+      "life_expectancy": 57.671,
+      "infant_mortality": 67.106
+    },
+    "TCD": {
+      "name": "Chad",
+      "iso2": "TD",
+      "iso3": "TCD",
+      "type": "Country/Area",
+      "pop": 20299123,
+      "births": 878222,
+      "life_expectancy": 55.238,
+      "infant_mortality": 63.258
+    },
+    "COG": {
+      "name": "Congo",
+      "iso2": "CG",
+      "iso3": "COG",
+      "type": "Country/Area",
+      "pop": 6332961,
+      "births": 192673,
+      "life_expectancy": 66.001,
+      "infant_mortality": 27.99
+    },
+    "COD": {
+      "name": "Democratic Republic of the Congo",
+      "iso2": "CD",
+      "iso3": "COD",
+      "type": "Country/Area",
+      "pop": 109276265,
+      "births": 4467740,
+      "life_expectancy": 62.074,
+      "infant_mortality": 48.624
+    },
+    "GNQ": {
+      "name": "Equatorial Guinea",
+      "iso2": "GQ",
+      "iso3": "GNQ",
+      "type": "Country/Area",
+      "pop": 1892516,
+      "births": 56763,
+      "life_expectancy": 63.906,
+      "infant_mortality": 51.797
+    },
+    "GAB": {
+      "name": "Gabon",
+      "iso2": "GA",
+      "iso3": "GAB",
+      "type": "Country/Area",
+      "pop": 2538952,
+      "births": 68875,
+      "life_expectancy": 68.511,
+      "infant_mortality": 26.689
+    },
+    "STP": {
+      "name": "Sao Tome and Principe",
+      "iso2": "ST",
+      "iso3": "STP",
+      "type": "Country/Area",
+      "pop": 235536,
+      "births": 6617,
+      "life_expectancy": 69.905,
+      "infant_mortality": 11.043
+    },
+    "DZA": {
+      "name": "Algeria",
+      "iso2": "DZ",
+      "iso3": "DZA",
+      "type": "Country/Area",
+      "pop": 46814308,
+      "births": 881823,
+      "life_expectancy": 76.475,
+      "infant_mortality": 17.082
+    },
+    "EGY": {
+      "name": "Egypt",
+      "iso2": "EG",
+      "iso3": "EGY",
+      "type": "Country/Area",
+      "pop": 116538258,
+      "births": 2437410,
+      "life_expectancy": 71.806,
+      "infant_mortality": 13.172
+    },
+    "LBY": {
+      "name": "Libya",
+      "iso2": "LY",
+      "iso3": "LBY",
+      "type": "Country/Area",
+      "pop": 7381023,
+      "births": 121747,
+      "life_expectancy": 71.121,
+      "infant_mortality": 12.135
+    },
+    "MAR": {
+      "name": "Morocco",
+      "iso2": "MA",
+      "iso3": "MAR",
+      "type": "Country/Area",
+      "pop": 38081173,
+      "births": 624620,
+      "life_expectancy": 75.493,
+      "infant_mortality": 13.809
+    },
+    "SDN": {
+      "name": "Sudan",
+      "iso2": "SD",
+      "iso3": "SDN",
+      "type": "Country/Area",
+      "pop": 50448963,
+      "births": 1664612,
+      "life_expectancy": 66.521,
+      "infant_mortality": 37.298
+    },
+    "TUN": {
+      "name": "Tunisia",
+      "iso2": "TN",
+      "iso3": "TUN",
+      "type": "Country/Area",
+      "pop": 12277109,
+      "births": 164145,
+      "life_expectancy": 76.711,
+      "infant_mortality": 9.545
+    },
+    "ESH": {
+      "name": "Western Sahara",
+      "iso2": "EH",
+      "iso3": "ESH",
+      "type": "Country/Area",
+      "pop": 590506,
+      "births": 9090,
+      "life_expectancy": 71.58,
+      "infant_mortality": 22.735
+    },
+    "BWA": {
+      "name": "Botswana",
+      "iso2": "BW",
+      "iso3": "BWA",
+      "type": "Country/Area",
+      "pop": 2521139,
+      "births": 61418,
+      "life_expectancy": 69.293,
+      "infant_mortality": 27.77
+    },
+    "SWZ": {
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ",
+      "type": "Country/Area",
+      "pop": 1242822,
+      "births": 29390,
+      "life_expectancy": 64.264,
+      "infant_mortality": 37.001
+    },
+    "LSO": {
+      "name": "Lesotho",
+      "iso2": "LS",
+      "iso3": "LSO",
+      "type": "Country/Area",
+      "pop": 2337423,
+      "births": 55542,
+      "life_expectancy": 57.798,
+      "infant_mortality": 54.613
+    },
+    "NAM": {
+      "name": "Namibia",
+      "iso2": "NA",
+      "iso3": "NAM",
+      "type": "Country/Area",
+      "pop": 3030131,
+      "births": 78452,
+      "life_expectancy": 67.516,
+      "infant_mortality": 26.746
+    },
+    "ZAF": {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "iso3": "ZAF",
+      "type": "Country/Area",
+      "pop": 64007187,
+      "births": 1182869,
+      "life_expectancy": 66.312,
+      "infant_mortality": 22.866
+    },
+    "BEN": {
+      "name": "Benin",
+      "iso2": "BJ",
+      "iso3": "BEN",
+      "type": "Country/Area",
+      "pop": 14462724,
+      "births": 483336,
+      "life_expectancy": 60.961,
+      "infant_mortality": 51.552
+    },
+    "BFA": {
+      "name": "Burkina Faso",
+      "iso2": "BF",
+      "iso3": "BFA",
+      "type": "Country/Area",
+      "pop": 23548781,
+      "births": 737914,
+      "life_expectancy": 61.292,
+      "infant_mortality": 54.202
+    },
+    "CPV": {
+      "name": "Cabo Verde",
+      "iso2": "CV",
+      "iso3": "CPV",
+      "type": "Country/Area",
+      "pop": 524877,
+      "births": 6415,
+      "life_expectancy": 76.224,
+      "infant_mortality": 9.54
+    },
+    "CIV": {
+      "name": "Côte d'Ivoire",
+      "iso2": "CI",
+      "iso3": "CIV",
+      "type": "Country/Area",
+      "pop": 31934230,
+      "births": 1007981,
+      "life_expectancy": 62.11,
+      "infant_mortality": 50.845
+    },
+    "GMB": {
+      "name": "Gambia",
+      "iso2": "GM",
+      "iso3": "GMB",
+      "type": "Country/Area",
+      "pop": 2759988,
+      "births": 82405,
+      "life_expectancy": 66.057,
+      "infant_mortality": 28.858
+    },
+    "GHA": {
+      "name": "Ghana",
+      "iso2": "GH",
+      "iso3": "GHA",
+      "type": "Country/Area",
+      "pop": 34427414,
+      "births": 892343,
+      "life_expectancy": 65.695,
+      "infant_mortality": 30.036
+    },
+    "GIN": {
+      "name": "Guinea",
+      "iso2": "GN",
+      "iso3": "GIN",
+      "type": "Country/Area",
+      "pop": 14754785,
+      "births": 491708,
+      "life_expectancy": 60.904,
+      "infant_mortality": 64.653
+    },
+    "GNB": {
+      "name": "Guinea-Bissau",
+      "iso2": "GW",
+      "iso3": "GNB",
+      "type": "Country/Area",
+      "pop": 2201352,
+      "births": 65072,
+      "life_expectancy": 64.254,
+      "infant_mortality": 48.116
+    },
+    "LBR": {
+      "name": "Liberia",
+      "iso2": "LR",
+      "iso3": "LBR",
+      "type": "Country/Area",
+      "pop": 5612817,
+      "births": 171626,
+      "life_expectancy": 62.324,
+      "infant_mortality": 55.052
+    },
+    "MLI": {
+      "name": "Mali",
+      "iso2": "ML",
+      "iso3": "MLI",
+      "type": "Country/Area",
+      "pop": 24478595,
+      "births": 967695,
+      "life_expectancy": 60.675,
+      "infant_mortality": 59.937
+    },
+    "MRT": {
+      "name": "Mauritania",
+      "iso2": "MR",
+      "iso3": "MRT",
+      "type": "Country/Area",
+      "pop": 5169395,
+      "births": 175914,
+      "life_expectancy": 68.713,
+      "infant_mortality": 29.633
+    },
+    "NER": {
+      "name": "Niger",
+      "iso2": "NE",
+      "iso3": "NER",
+      "type": "Country/Area",
+      "pop": 27032412,
+      "births": 1119695,
+      "life_expectancy": 61.433,
+      "infant_mortality": 63.256
+    },
+    "NGA": {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA",
+      "type": "Country/Area",
+      "pop": 232679478,
+      "births": 7560407,
+      "life_expectancy": 54.635,
+      "infant_mortality": 68.461
+    },
+    "SHN": {
+      "name": "Saint Helena",
+      "iso2": "SH",
+      "iso3": "SHN",
+      "type": "Country/Area",
+      "pop": 5237,
+      "births": 38,
+      "life_expectancy": 76.954,
+      "infant_mortality": 11.816
+    },
+    "SEN": {
+      "name": "Senegal",
+      "iso2": "SN",
+      "iso3": "SEN",
+      "type": "Country/Area",
+      "pop": 18501984,
+      "births": 539970,
+      "life_expectancy": 68.924,
+      "infant_mortality": 23.178
+    },
+    "SLE": {
+      "name": "Sierra Leone",
+      "iso2": "SL",
+      "iso3": "SLE",
+      "type": "Country/Area",
+      "pop": 8642022,
+      "births": 260194,
+      "life_expectancy": 61.964,
+      "infant_mortality": 70.534
+    },
+    "TGO": {
+      "name": "Togo",
+      "iso2": "TG",
+      "iso3": "TGO",
+      "type": "Country/Area",
+      "pop": 9515236,
+      "births": 292572,
+      "life_expectancy": 62.932,
+      "infant_mortality": 40.557
+    },
+    "KAZ": {
+      "name": "Kazakhstan",
+      "iso2": "KZ",
+      "iso3": "KAZ",
+      "type": "Country/Area",
+      "pop": 20592571,
+      "births": 401985,
+      "life_expectancy": 74.531,
+      "infant_mortality": 6.691
+    },
+    "KGZ": {
+      "name": "Kyrgyzstan",
+      "iso2": "KG",
+      "iso3": "KGZ",
+      "type": "Country/Area",
+      "pop": 7186009,
+      "births": 150335,
+      "life_expectancy": 71.824,
+      "infant_mortality": 12.11
+    },
+    "TJK": {
+      "name": "Tajikistan",
+      "iso2": "TJ",
+      "iso3": "TJK",
+      "type": "Country/Area",
+      "pop": 10590927,
+      "births": 268304,
+      "life_expectancy": 71.927,
+      "infant_mortality": 20.991
+    },
+    "TKM": {
+      "name": "Turkmenistan",
+      "iso2": "TM",
+      "iso3": "TKM",
+      "type": "Country/Area",
+      "pop": 7494498,
+      "births": 156679,
+      "life_expectancy": 70.201,
+      "infant_mortality": 28.548
+    },
+    "UZB": {
+      "name": "Uzbekistan",
+      "iso2": "UZ",
+      "iso3": "UZB",
+      "type": "Country/Area",
+      "pop": 36361859,
+      "births": 929292,
+      "life_expectancy": 72.528,
+      "infant_mortality": 12.202
+    },
+    "CHN": {
+      "name": "China",
+      "iso2": "CN",
+      "iso3": "CHN",
+      "type": "Country/Area",
+      "pop": 1419321278,
+      "births": 8822056,
+      "life_expectancy": 78.017,
+      "infant_mortality": 6.379
+    },
+    "HKG": {
+      "name": "China, Hong Kong SAR",
+      "iso2": "HK",
+      "iso3": "HKG",
+      "type": "Country/Area",
+      "pop": 7414909,
+      "births": 40219,
+      "life_expectancy": 85.634,
+      "infant_mortality": 1.449
+    },
+    "MAC": {
+      "name": "China, Macao SAR",
+      "iso2": "MO",
+      "iso3": "MAC",
+      "type": "Country/Area",
+      "pop": 720262,
+      "births": 4600,
+      "life_expectancy": 83.228,
+      "infant_mortality": 2.567
+    },
+    "TWN": {
+      "name": "China, Taiwan Province of China",
+      "iso2": "TW",
+      "iso3": "TWN",
+      "type": "Country/Area",
+      "pop": 23213962,
+      "births": 128597,
+      "life_expectancy": 80.75,
+      "infant_mortality": 3.093
+    },
+    "PRK": {
+      "name": "Dem. People's Republic of Korea",
+      "iso2": "KP",
+      "iso3": "PRK",
+      "type": "Country/Area",
+      "pop": 26498823,
+      "births": 340728,
+      "life_expectancy": 73.743,
+      "infant_mortality": 13.319
+    },
+    "JPN": {
+      "name": "Japan",
+      "iso2": "JP",
+      "iso3": "JPN",
+      "type": "Country/Area",
+      "pop": 123753041,
+      "births": 750570,
+      "life_expectancy": 84.852,
+      "infant_mortality": 1.664
+    },
+    "MNG": {
+      "name": "Mongolia",
+      "iso2": "MN",
+      "iso3": "MNG",
+      "type": "Country/Area",
+      "pop": 3475540,
+      "births": 63101,
+      "life_expectancy": 71.985,
+      "infant_mortality": 9.167
+    },
+    "KOR": {
+      "name": "Republic of Korea",
+      "iso2": "KR",
+      "iso3": "KOR",
+      "type": "Country/Area",
+      "pop": 51717590,
+      "births": 240982,
+      "life_expectancy": 84.434,
+      "infant_mortality": 1.968
+    },
+    "AFG": {
+      "name": "Afghanistan",
+      "iso2": "AF",
+      "iso3": "AFG",
+      "type": "Country/Area",
+      "pop": 42647492,
+      "births": 1492956,
+      "life_expectancy": 66.289,
+      "infant_mortality": 42.65
+    },
+    "BGD": {
+      "name": "Bangladesh",
+      "iso2": "BD",
+      "iso3": "BGD",
+      "type": "Country/Area",
+      "pop": 173562364,
+      "births": 3469124,
+      "life_expectancy": 74.93,
+      "infant_mortality": 16.864
+    },
+    "BTN": {
+      "name": "Bhutan",
+      "iso2": "BT",
+      "iso3": "BTN",
+      "type": "Country/Area",
+      "pop": 791524,
+      "births": 9914,
+      "life_expectancy": 73.262,
+      "infant_mortality": 18.338
+    },
+    "IND": {
+      "name": "India",
+      "iso2": "IN",
+      "iso3": "IND",
+      "type": "Country/Area",
+      "pop": 1450935791,
+      "births": 23186978,
+      "life_expectancy": 72.235,
+      "infant_mortality": 22.627
+    },
+    "IRN": {
+      "name": "Iran (Islamic Republic of)",
+      "iso2": "IR",
+      "iso3": "IRN",
+      "type": "Country/Area",
+      "pop": 91567738,
+      "births": 1151057,
+      "life_expectancy": 77.854,
+      "infant_mortality": 9.145
+    },
+    "MDV": {
+      "name": "Maldives",
+      "iso2": "MV",
+      "iso3": "MDV",
+      "type": "Country/Area",
+      "pop": 527799,
+      "births": 5588,
+      "life_expectancy": 81.285,
+      "infant_mortality": 4.466
+    },
+    "NPL": {
+      "name": "Nepal",
+      "iso2": "NP",
+      "iso3": "NPL",
+      "type": "Country/Area",
+      "pop": 29651054,
+      "births": 562232,
+      "life_expectancy": 70.636,
+      "infant_mortality": 20.642
+    },
+    "PAK": {
+      "name": "Pakistan",
+      "iso2": "PK",
+      "iso3": "PAK",
+      "type": "Country/Area",
+      "pop": 251269164,
+      "births": 6887798,
+      "life_expectancy": 67.799,
+      "infant_mortality": 48.402
+    },
+    "LKA": {
+      "name": "Sri Lanka",
+      "iso2": "LK",
+      "iso3": "LKA",
+      "type": "Country/Area",
+      "pop": 23103565,
+      "births": 320429,
+      "life_expectancy": 77.672,
+      "infant_mortality": 4.978
+    },
+    "BRN": {
+      "name": "Brunei Darussalam",
+      "iso2": "BN",
+      "iso3": "BRN",
+      "type": "Country/Area",
+      "pop": 462721,
+      "births": 6167,
+      "life_expectancy": 75.501,
+      "infant_mortality": 7.792
+    },
+    "KHM": {
+      "name": "Cambodia",
+      "iso2": "KH",
+      "iso3": "KHM",
+      "type": "Country/Area",
+      "pop": 17638801,
+      "births": 358220,
+      "life_expectancy": 70.817,
+      "infant_mortality": 18.632
+    },
+    "IDN": {
+      "name": "Indonesia",
+      "iso2": "ID",
+      "iso3": "IDN",
+      "type": "Country/Area",
+      "pop": 283487931,
+      "births": 4468312,
+      "life_expectancy": 71.288,
+      "infant_mortality": 16.585
+    },
+    "LAO": {
+      "name": "Lao People's Democratic Republic",
+      "iso2": "LA",
+      "iso3": "LAO",
+      "type": "Country/Area",
+      "pop": 7769819,
+      "births": 162644,
+      "life_expectancy": 69.225,
+      "infant_mortality": 30.314
+    },
+    "MYS": {
+      "name": "Malaysia",
+      "iso2": "MY",
+      "iso3": "MYS",
+      "type": "Country/Area",
+      "pop": 35557673,
+      "births": 439568,
+      "life_expectancy": 76.821,
+      "infant_mortality": 5.06
+    },
+    "MMR": {
+      "name": "Myanmar",
+      "iso2": "MM",
+      "iso3": "MMR",
+      "type": "Country/Area",
+      "pop": 54500091,
+      "births": 897269,
+      "life_expectancy": 67.095,
+      "infant_mortality": 33.279
+    },
+    "PHL": {
+      "name": "Philippines",
+      "iso2": "PH",
+      "iso3": "PHL",
+      "type": "Country/Area",
+      "pop": 115843670,
+      "births": 1841191,
+      "life_expectancy": 69.946,
+      "infant_mortality": 19.849
+    },
+    "SGP": {
+      "name": "Singapore",
+      "iso2": "SG",
+      "iso3": "SGP",
+      "type": "Country/Area",
+      "pop": 5832387,
+      "births": 48802,
+      "life_expectancy": 83.863,
+      "infant_mortality": 1.765
+    },
+    "THA": {
+      "name": "Thailand",
+      "iso2": "TH",
+      "iso3": "THA",
+      "type": "Country/Area",
+      "pop": 71668011,
+      "births": 581635,
+      "life_expectancy": 76.564,
+      "infant_mortality": 7.882
+    },
+    "TLS": {
+      "name": "Timor-Leste",
+      "iso2": "TL",
+      "iso3": "TLS",
+      "type": "Country/Area",
+      "pop": 1400638,
+      "births": 30489,
+      "life_expectancy": 67.904,
+      "infant_mortality": 36.279
+    },
+    "VNM": {
+      "name": "Viet Nam",
+      "iso2": "VN",
+      "iso3": "VNM",
+      "type": "Country/Area",
+      "pop": 100987686,
+      "births": 1355563,
+      "life_expectancy": 74.736,
+      "infant_mortality": 14.674
+    },
+    "ARM": {
+      "name": "Armenia",
+      "iso2": "AM",
+      "iso3": "ARM",
+      "type": "Country/Area",
+      "pop": 2973840,
+      "births": 36278,
+      "life_expectancy": 75.846,
+      "infant_mortality": 9.092
+    },
+    "AZE": {
+      "name": "Azerbaijan",
+      "iso2": "AZ",
+      "iso3": "AZE",
+      "type": "Country/Area",
+      "pop": 10336577,
+      "births": 121322,
+      "life_expectancy": 74.576,
+      "infant_mortality": 14.171
+    },
+    "BHR": {
+      "name": "Bahrain",
+      "iso2": "BH",
+      "iso3": "BHR",
+      "type": "Country/Area",
+      "pop": 1607049,
+      "births": 19338,
+      "life_expectancy": 81.423,
+      "infant_mortality": 5.172
+    },
+    "CYP": {
+      "name": "Cyprus",
+      "iso2": "CY",
+      "iso3": "CYP",
+      "type": "Country/Area",
+      "pop": 1358282,
+      "births": 14285,
+      "life_expectancy": 81.821,
+      "infant_mortality": 2.569
+    },
+    "GEO": {
+      "name": "Georgia",
+      "iso2": "GE",
+      "iso3": "GEO",
+      "type": "Country/Area",
+      "pop": 3807670,
+      "births": 42983,
+      "life_expectancy": 74.657,
+      "infant_mortality": 6.733
+    },
+    "IRQ": {
+      "name": "Iraq",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "type": "Country/Area",
+      "pop": 46042015,
+      "births": 1177772,
+      "life_expectancy": 72.424,
+      "infant_mortality": 18.671
+    },
+    "ISR": {
+      "name": "Israel",
+      "iso2": "IL",
+      "iso3": "ISR",
+      "type": "Country/Area",
+      "pop": 9387021,
+      "births": 171566,
+      "life_expectancy": 82.727,
+      "infant_mortality": 2.939
+    },
+    "JOR": {
+      "name": "Jordan",
+      "iso2": "JO",
+      "iso3": "JOR",
+      "type": "Country/Area",
+      "pop": 11552876,
+      "births": 236284,
+      "life_expectancy": 77.981,
+      "infant_mortality": 11.425
+    },
+    "KWT": {
+      "name": "Kuwait",
+      "iso2": "KW",
+      "iso3": "KWT",
+      "type": "Country/Area",
+      "pop": 4934507,
+      "births": 48132,
+      "life_expectancy": 80.6,
+      "infant_mortality": 6.453
+    },
+    "LBN": {
+      "name": "Lebanon",
+      "iso2": "LB",
+      "iso3": "LBN",
+      "type": "Country/Area",
+      "pop": 5805962,
+      "births": 92653,
+      "life_expectancy": 77.945,
+      "infant_mortality": 15.358
+    },
+    "OMN": {
+      "name": "Oman",
+      "iso2": "OM",
+      "iso3": "OMN",
+      "type": "Country/Area",
+      "pop": 5281538,
+      "births": 88613,
+      "life_expectancy": 80.246,
+      "infant_mortality": 8.317
+    },
+    "QAT": {
+      "name": "Qatar",
+      "iso2": "QA",
+      "iso3": "QAT",
+      "type": "Country/Area",
+      "pop": 3048423,
+      "births": 29034,
+      "life_expectancy": 82.522,
+      "infant_mortality": 5.775
+    },
+    "SAU": {
+      "name": "Saudi Arabia",
+      "iso2": "SA",
+      "iso3": "SAU",
+      "type": "Country/Area",
+      "pop": 33962757,
+      "births": 560224,
+      "life_expectancy": 78.982,
+      "infant_mortality": 6.045
+    },
+    "PSE": {
+      "name": "State of Palestine",
+      "iso2": "PS",
+      "iso3": "PSE",
+      "type": "Country/Area",
+      "pop": 5495443,
+      "births": 145440,
+      "life_expectancy": 69.213,
+      "infant_mortality": 23.636
+    },
+    "SYR": {
+      "name": "Syrian Arab Republic",
+      "iso2": "SY",
+      "iso3": "SYR",
+      "type": "Country/Area",
+      "pop": 24672760,
+      "births": 571460,
+      "life_expectancy": 72.56,
+      "infant_mortality": 15.466
+    },
+    "TUR": {
+      "name": "Türkiye",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "type": "Country/Area",
+      "pop": 87473805,
+      "births": 1060605,
+      "life_expectancy": 77.421,
+      "infant_mortality": 9.591
+    },
+    "ARE": {
+      "name": "United Arab Emirates",
+      "iso2": "AE",
+      "iso3": "ARE",
+      "type": "Country/Area",
+      "pop": 11027129,
+      "births": 108273,
+      "life_expectancy": 83.069,
+      "infant_mortality": 5.029
+    },
+    "YEM": {
+      "name": "Yemen",
+      "iso2": "YE",
+      "iso3": "YEM",
+      "type": "Country/Area",
+      "pop": 40583164,
+      "births": 1394397,
+      "life_expectancy": 69.439,
+      "infant_mortality": 31.462
+    },
+    "BLR": {
+      "name": "Belarus",
+      "iso2": "BY",
+      "iso3": "BLR",
+      "type": "Country/Area",
+      "pop": 9056696,
+      "births": 63679,
+      "life_expectancy": 74.624,
+      "infant_mortality": 2.468
+    },
+    "BGR": {
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "iso3": "BGR",
+      "type": "Country/Area",
+      "pop": 6757689,
+      "births": 61463,
+      "life_expectancy": 75.795,
+      "infant_mortality": 4.883
+    },
+    "CZE": {
+      "name": "Czechia",
+      "iso2": "CZ",
+      "iso3": "CZE",
+      "type": "Country/Area",
+      "pop": 10735859,
+      "births": 90211,
+      "life_expectancy": 79.97,
+      "infant_mortality": 2.106
+    },
+    "HUN": {
+      "name": "Hungary",
+      "iso2": "HU",
+      "iso3": "HUN",
+      "type": "Country/Area",
+      "pop": 9676135,
+      "births": 85003,
+      "life_expectancy": 77.181,
+      "infant_mortality": 2.895
+    },
+    "POL": {
+      "name": "Poland",
+      "iso2": "PL",
+      "iso3": "POL",
+      "type": "Country/Area",
+      "pop": 38539201,
+      "births": 309612,
+      "life_expectancy": 78.81,
+      "infant_mortality": 3.279
+    },
+    "MDA": {
+      "name": "Republic of Moldova",
+      "iso2": "MD",
+      "iso3": "MDA",
+      "type": "Country/Area",
+      "pop": 3034961,
+      "births": 32140,
+      "life_expectancy": 71.332,
+      "infant_mortality": 9.845
+    },
+    "ROU": {
+      "name": "Romania",
+      "iso2": "RO",
+      "iso3": "ROU",
+      "type": "Country/Area",
+      "pop": 19015088,
+      "births": 180942,
+      "life_expectancy": 76.093,
+      "infant_mortality": 5.125
+    },
+    "RUS": {
+      "name": "Russian Federation",
+      "iso2": "RU",
+      "iso3": "RUS",
+      "type": "Country/Area",
+      "pop": 144820423,
+      "births": 1270354,
+      "life_expectancy": 73.343,
+      "infant_mortality": 4.232
+    },
+    "SVK": {
+      "name": "Slovakia",
+      "iso2": "SK",
+      "iso3": "SVK",
+      "type": "Country/Area",
+      "pop": 5506760,
+      "births": 51117,
+      "life_expectancy": 78.492,
+      "infant_mortality": 3.909
+    },
+    "UKR": {
+      "name": "Ukraine",
+      "iso2": "UA",
+      "iso3": "UKR",
+      "type": "Country/Area",
+      "pop": 37860221,
+      "births": 206937,
+      "life_expectancy": 74.692,
+      "infant_mortality": 5.064
+    },
+    "DNK": {
+      "name": "Denmark",
+      "iso2": "DK",
+      "iso3": "DNK",
+      "type": "Country/Area",
+      "pop": 5977412,
+      "births": 58646,
+      "life_expectancy": 82.094,
+      "infant_mortality": 2.811
+    },
+    "EST": {
+      "name": "Estonia",
+      "iso2": "EE",
+      "iso3": "EST",
+      "type": "Country/Area",
+      "pop": 1360546,
+      "births": 10926,
+      "life_expectancy": 79.309,
+      "infant_mortality": 1.642
+    },
+    "FRO": {
+      "name": "Faroe Islands",
+      "iso2": "FO",
+      "iso3": "FRO",
+      "type": "Country/Area",
+      "pop": 55400,
+      "births": 705,
+      "life_expectancy": 80.394,
+      "infant_mortality": 5.541
+    },
+    "FIN": {
+      "name": "Finland",
+      "iso2": "FI",
+      "iso3": "FIN",
+      "type": "Country/Area",
+      "pop": 5617310,
+      "births": 43829,
+      "life_expectancy": 82.077,
+      "infant_mortality": 1.704
+    },
+    "GGY": {
+      "name": "Guernsey",
+      "iso2": "GG",
+      "iso3": "GGY",
+      "type": "Country/Area",
+      "pop": 64280,
+      "births": 525,
+      "life_expectancy": 83.382,
+      "infant_mortality": 5.729
+    },
+    "ISL": {
+      "name": "Iceland",
+      "iso2": "IS",
+      "iso3": "ISL",
+      "type": "Country/Area",
+      "pop": 393396,
+      "births": 4377,
+      "life_expectancy": 83.013,
+      "infant_mortality": 1.245
+    },
+    "IRL": {
+      "name": "Ireland",
+      "iso2": "IE",
+      "iso3": "IRL",
+      "type": "Country/Area",
+      "pop": 5255017,
+      "births": 52767,
+      "life_expectancy": 82.58,
+      "infant_mortality": 2.634
+    },
+    "IMN": {
+      "name": "Isle of Man",
+      "iso2": "IM",
+      "iso3": "IMN",
+      "type": "Country/Area",
+      "pop": 84160,
+      "births": 697,
+      "life_expectancy": 81.091,
+      "infant_mortality": 10.596
+    },
+    "JEY": {
+      "name": "Jersey",
+      "iso2": "JE",
+      "iso3": "JEY",
+      "type": "Country/Area",
+      "pop": 103846,
+      "births": 851,
+      "life_expectancy": 79.833,
+      "infant_mortality": 8.498
+    },
+    "LVA": {
+      "name": "Latvia",
+      "iso2": "LV",
+      "iso3": "LVA",
+      "type": "Country/Area",
+      "pop": 1871871,
+      "births": 14017,
+      "life_expectancy": 76.33,
+      "infant_mortality": 2.744
+    },
+    "LTU": {
+      "name": "Lithuania",
+      "iso2": "LT",
+      "iso3": "LTU",
+      "type": "Country/Area",
+      "pop": 2859110,
+      "births": 22186,
+      "life_expectancy": 76.167,
+      "infant_mortality": 3.088
+    },
+    "NOR": {
+      "name": "Norway",
+      "iso2": "NO",
+      "iso3": "NOR",
+      "type": "Country/Area",
+      "pop": 5576660,
+      "births": 52516,
+      "life_expectancy": 83.46,
+      "infant_mortality": 1.784
+    },
+    "SWE": {
+      "name": "Sweden",
+      "iso2": "SE",
+      "iso3": "SWE",
+      "type": "Country/Area",
+      "pop": 10606999,
+      "births": 97489,
+      "life_expectancy": 83.424,
+      "infant_mortality": 1.847
+    },
+    "GBR": {
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "iso3": "GBR",
+      "type": "Country/Area",
+      "pop": 69138192,
+      "births": 683910,
+      "life_expectancy": 81.448,
+      "infant_mortality": 3.636
+    },
+    "ALB": {
+      "name": "Albania",
+      "iso2": "AL",
+      "iso3": "ALB",
+      "type": "Country/Area",
+      "pop": 2791765,
+      "births": 28283,
+      "life_expectancy": 79.776,
+      "infant_mortality": 7.119
+    },
+    "AND": {
+      "name": "Andorra",
+      "iso2": "AD",
+      "iso3": "AND",
+      "type": "Country/Area",
+      "pop": 81938,
+      "births": 561,
+      "life_expectancy": 84.188,
+      "infant_mortality": 5.136
+    },
+    "BIH": {
+      "name": "Bosnia and Herzegovina",
+      "iso2": "BA",
+      "iso3": "BIH",
+      "type": "Country/Area",
+      "pop": 3164253,
+      "births": 24430,
+      "life_expectancy": 78.044,
+      "infant_mortality": 4.867
+    },
+    "HRV": {
+      "name": "Croatia",
+      "iso2": "HR",
+      "iso3": "HRV",
+      "type": "Country/Area",
+      "pop": 3875325,
+      "births": 31379,
+      "life_expectancy": 78.751,
+      "infant_mortality": 3.429
+    },
+    "GIB": {
+      "name": "Gibraltar",
+      "iso2": "GI",
+      "iso3": "GIB",
+      "type": "Country/Area",
+      "pop": 39329,
+      "births": 480,
+      "life_expectancy": 83.63,
+      "infant_mortality": 8.244
+    },
+    "GRC": {
+      "name": "Greece",
+      "iso2": "GR",
+      "iso3": "GRC",
+      "type": "Country/Area",
+      "pop": 10047817,
+      "births": 71411,
+      "life_expectancy": 82.031,
+      "infant_mortality": 2.894
+    },
+    "VAT": {
+      "name": "Holy See",
+      "iso2": "VA",
+      "iso3": "VAT",
+      "type": "Country/Area",
+      "pop": 496,
+      "births": 2,
+      "life_expectancy": 83.115,
+      "infant_mortality": 5.936
+    },
+    "ITA": {
+      "name": "Italy",
+      "iso2": "IT",
+      "iso3": "ITA",
+      "type": "Country/Area",
+      "pop": 59342867,
+      "births": 384703,
+      "life_expectancy": 83.869,
+      "infant_mortality": 2.221
+    },
+    "XKX": {
+      "name": "Kosovo (under UNSC res. 1244)",
+      "iso2": "XK",
+      "iso3": "XKX",
+      "type": "Country/Area",
+      "pop": 1684790,
+      "births": 19967,
+      "life_expectancy": 78.222,
+      "infant_mortality": 8.919
+    },
+    "MLT": {
+      "name": "Malta",
+      "iso2": "MT",
+      "iso3": "MLT",
+      "type": "Country/Area",
+      "pop": 539607,
+      "births": 4212,
+      "life_expectancy": 83.467,
+      "infant_mortality": 4.617
+    },
+    "MNE": {
+      "name": "Montenegro",
+      "iso2": "ME",
+      "iso3": "MNE",
+      "type": "Country/Area",
+      "pop": 638479,
+      "births": 7058,
+      "life_expectancy": 77.254,
+      "infant_mortality": 1.89
+    },
+    "MKD": {
+      "name": "North Macedonia",
+      "iso2": "MK",
+      "iso3": "MKD",
+      "type": "Country/Area",
+      "pop": 1823009,
+      "births": 16587,
+      "life_expectancy": 77.54,
+      "infant_mortality": 6.08
+    },
+    "PRT": {
+      "name": "Portugal",
+      "iso2": "PT",
+      "iso3": "PRT",
+      "type": "Country/Area",
+      "pop": 10425292,
+      "births": 86151,
+      "life_expectancy": 82.55,
+      "infant_mortality": 2.327
+    },
+    "SMR": {
+      "name": "San Marino",
+      "iso2": "SM",
+      "iso3": "SMR",
+      "type": "Country/Area",
+      "pop": 33581,
+      "births": 196,
+      "life_expectancy": 85.817,
+      "infant_mortality": 1.056
+    },
+    "SRB": {
+      "name": "Serbia",
+      "iso2": "RS",
+      "iso3": "SRB",
+      "type": "Country/Area",
+      "pop": 6736216,
+      "births": 58988,
+      "life_expectancy": 76.939,
+      "infant_mortality": 3.969
+    },
+    "SVN": {
+      "name": "Slovenia",
+      "iso2": "SI",
+      "iso3": "SVN",
+      "type": "Country/Area",
+      "pop": 2118697,
+      "births": 17563,
+      "life_expectancy": 81.777,
+      "infant_mortality": 1.408
+    },
+    "ESP": {
+      "name": "Spain",
+      "iso2": "ES",
+      "iso3": "ESP",
+      "type": "Country/Area",
+      "pop": 47910526,
+      "births": 333155,
+      "life_expectancy": 83.799,
+      "infant_mortality": 2.203
+    },
+    "AUT": {
+      "name": "Austria",
+      "iso2": "AT",
+      "iso3": "AUT",
+      "type": "Country/Area",
+      "pop": 9120813,
+      "births": 76247,
+      "life_expectancy": 82.12,
+      "infant_mortality": 2.643
+    },
+    "BEL": {
+      "name": "Belgium",
+      "iso2": "BE",
+      "iso3": "BEL",
+      "type": "Country/Area",
+      "pop": 11738763,
+      "births": 101368,
+      "life_expectancy": 82.274,
+      "infant_mortality": 2.873
+    },
+    "FRA": {
+      "name": "France",
+      "iso2": "FR",
+      "iso3": "FRA",
+      "type": "Country/Area",
+      "pop": 66548530,
+      "births": 635995,
+      "life_expectancy": 83.458,
+      "infant_mortality": 3.155
+    },
+    "DEU": {
+      "name": "Germany",
+      "iso2": "DE",
+      "iso3": "DEU",
+      "type": "Country/Area",
+      "pop": 84552242,
+      "births": 717268,
+      "life_expectancy": 81.539,
+      "infant_mortality": 2.821
+    },
+    "LIE": {
+      "name": "Liechtenstein",
+      "iso2": "LI",
+      "iso3": "LIE",
+      "type": "Country/Area",
+      "pop": 39870,
+      "births": 371,
+      "life_expectancy": 83.748,
+      "infant_mortality": 5.532
+    },
+    "LUX": {
+      "name": "Luxembourg",
+      "iso2": "LU",
+      "iso3": "LUX",
+      "type": "Country/Area",
+      "pop": 673036,
+      "births": 6941,
+      "life_expectancy": 82.361,
+      "infant_mortality": 2.857
+    },
+    "MCO": {
+      "name": "Monaco",
+      "iso2": "MC",
+      "iso3": "MCO",
+      "type": "Country/Area",
+      "pop": 38631,
+      "births": 369,
+      "life_expectancy": 86.497,
+      "infant_mortality": 3.869
+    },
+    "NLD": {
+      "name": "Netherlands",
+      "iso2": "NL",
+      "iso3": "NLD",
+      "type": "Country/Area",
+      "pop": 18228742,
+      "births": 171524,
+      "life_expectancy": 82.304,
+      "infant_mortality": 3.086
+    },
+    "CHE": {
+      "name": "Switzerland",
+      "iso2": "CH",
+      "iso3": "CHE",
+      "type": "Country/Area",
+      "pop": 8921981,
+      "births": 82864,
+      "life_expectancy": 84.088,
+      "infant_mortality": 3.173
+    },
+    "AIA": {
+      "name": "Anguilla",
+      "iso2": "AI",
+      "iso3": "AIA",
+      "type": "Country/Area",
+      "pop": 14598,
+      "births": 134,
+      "life_expectancy": 79.486,
+      "infant_mortality": 4.703
+    },
+    "ATG": {
+      "name": "Antigua and Barbuda",
+      "iso2": "AG",
+      "iso3": "ATG",
+      "type": "Country/Area",
+      "pop": 93772,
+      "births": 1102,
+      "life_expectancy": 77.766,
+      "infant_mortality": 7.387
+    },
+    "ABW": {
+      "name": "Aruba",
+      "iso2": "AW",
+      "iso3": "ABW",
+      "type": "Country/Area",
+      "pop": 108066,
+      "births": 1022,
+      "life_expectancy": 76.5,
+      "infant_mortality": 11.088
+    },
+    "BHS": {
+      "name": "Bahamas",
+      "iso2": "BS",
+      "iso3": "BHS",
+      "type": "Country/Area",
+      "pop": 401283,
+      "births": 4341,
+      "life_expectancy": 74.71,
+      "infant_mortality": 10.658
+    },
+    "BRB": {
+      "name": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB",
+      "type": "Country/Area",
+      "pop": 282467,
+      "births": 3140,
+      "life_expectancy": 76.332,
+      "infant_mortality": 10.971
+    },
+    "BES": {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "iso2": "BQ",
+      "iso3": "BES",
+      "type": "Country/Area",
+      "pop": 30675,
+      "births": 290,
+      "life_expectancy": 77.609,
+      "infant_mortality": 10.706
+    },
+    "VGB": {
+      "name": "British Virgin Islands",
+      "iso2": "VG",
+      "iso3": "VGB",
+      "type": "Country/Area",
+      "pop": 39471,
+      "births": 324,
+      "life_expectancy": 77.431,
+      "infant_mortality": 10.69
+    },
+    "CYM": {
+      "name": "Cayman Islands",
+      "iso2": "KY",
+      "iso3": "CYM",
+      "type": "Country/Area",
+      "pop": 74457,
+      "births": 861,
+      "life_expectancy": 80.54,
+      "infant_mortality": 1.077
+    },
+    "CUB": {
+      "name": "Cuba",
+      "iso2": "CU",
+      "iso3": "CUB",
+      "type": "Country/Area",
+      "pop": 10979783,
+      "births": 94650,
+      "life_expectancy": 78.264,
+      "infant_mortality": 4.519
+    },
+    "CUW": {
+      "name": "Curaçao",
+      "iso2": "CW",
+      "iso3": "CUW",
+      "type": "Country/Area",
+      "pop": 185482,
+      "births": 1399,
+      "life_expectancy": 76.989,
+      "infant_mortality": 8.3
+    },
+    "DMA": {
+      "name": "Dominica",
+      "iso2": "DM",
+      "iso3": "DMA",
+      "type": "Country/Area",
+      "pop": 66205,
+      "births": 727,
+      "life_expectancy": 71.294,
+      "infant_mortality": 26.858
+    },
+    "DOM": {
+      "name": "Dominican Republic",
+      "iso2": "DO",
+      "iso3": "DOM",
+      "type": "Country/Area",
+      "pop": 11427557,
+      "births": 201350,
+      "life_expectancy": 73.868,
+      "infant_mortality": 25.296
+    },
+    "GRD": {
+      "name": "Grenada",
+      "iso2": "GD",
+      "iso3": "GRD",
+      "type": "Country/Area",
+      "pop": 117207,
+      "births": 1345,
+      "life_expectancy": 75.367,
+      "infant_mortality": 11.733
+    },
+    "GLP": {
+      "name": "Guadeloupe",
+      "iso2": "GP",
+      "iso3": "GLP",
+      "type": "Country/Area",
+      "pop": 375106,
+      "births": 4101,
+      "life_expectancy": 82.241,
+      "infant_mortality": 6.567
+    },
+    "HTI": {
+      "name": "Haiti",
+      "iso2": "HT",
+      "iso3": "HTI",
+      "type": "Country/Area",
+      "pop": 11772557,
+      "births": 258340,
+      "life_expectancy": 65.119,
+      "infant_mortality": 44.237
+    },
+    "JAM": {
+      "name": "Jamaica",
+      "iso2": "JM",
+      "iso3": "JAM",
+      "type": "Country/Area",
+      "pop": 2839175,
+      "births": 32508,
+      "life_expectancy": 71.606,
+      "infant_mortality": 15.43
+    },
+    "MTQ": {
+      "name": "Martinique",
+      "iso2": "MQ",
+      "iso3": "MTQ",
+      "type": "Country/Area",
+      "pop": 343195,
+      "births": 3558,
+      "life_expectancy": 82.739,
+      "infant_mortality": 6.246
+    },
+    "MSR": {
+      "name": "Montserrat",
+      "iso2": "MS",
+      "iso3": "MSR",
+      "type": "Country/Area",
+      "pop": 4389,
+      "births": 38,
+      "life_expectancy": 76.34,
+      "infant_mortality": 5.143
+    },
+    "PRI": {
+      "name": "Puerto Rico",
+      "iso2": "PR",
+      "iso3": "PRI",
+      "type": "Country/Area",
+      "pop": 3242204,
+      "births": 19051,
+      "life_expectancy": 81.902,
+      "infant_mortality": 4.892
+    },
+    "BLM": {
+      "name": "Saint Barthélemy",
+      "iso2": "BL",
+      "iso3": "BLM",
+      "type": "Country/Area",
+      "pop": 11258,
+      "births": 57,
+      "life_expectancy": 84.4,
+      "infant_mortality": 5.164
+    },
+    "KNA": {
+      "name": "Saint Kitts and Nevis",
+      "iso2": "KN",
+      "iso3": "KNA",
+      "type": "Country/Area",
+      "pop": 46843,
+      "births": 550,
+      "life_expectancy": 72.281,
+      "infant_mortality": 12.26
+    },
+    "LCA": {
+      "name": "Saint Lucia",
+      "iso2": "LC",
+      "iso3": "LCA",
+      "type": "Country/Area",
+      "pop": 179744,
+      "births": 2015,
+      "life_expectancy": 72.846,
+      "infant_mortality": 13.872
+    },
+    "MAF": {
+      "name": "Saint Martin (French part)",
+      "iso2": "MF",
+      "iso3": "MAF",
+      "type": "Country/Area",
+      "pop": 26129,
+      "births": 393,
+      "life_expectancy": 80.438,
+      "infant_mortality": 8.073
+    },
+    "VCT": {
+      "name": "Saint Vincent and the Grenadines",
+      "iso2": "VC",
+      "iso3": "VCT",
+      "type": "Country/Area",
+      "pop": 100616,
+      "births": 1203,
+      "life_expectancy": 71.382,
+      "infant_mortality": 12.546
+    },
+    "SXM": {
+      "name": "Sint Maarten (Dutch part)",
+      "iso2": "SX",
+      "iso3": "SXM",
+      "type": "Country/Area",
+      "pop": 43350,
+      "births": 394,
+      "life_expectancy": 76.528,
+      "infant_mortality": 12.449
+    },
+    "TTO": {
+      "name": "Trinidad and Tobago",
+      "iso2": "TT",
+      "iso3": "TTO",
+      "type": "Country/Area",
+      "pop": 1507782,
+      "births": 15897,
+      "life_expectancy": 73.617,
+      "infant_mortality": 13.744
+    },
+    "TCA": {
+      "name": "Turks and Caicos Islands",
+      "iso2": "TC",
+      "iso3": "TCA",
+      "type": "Country/Area",
+      "pop": 46535,
+      "births": 490,
+      "life_expectancy": 78.181,
+      "infant_mortality": 4.632
+    },
+    "VIR": {
+      "name": "United States Virgin Islands",
+      "iso2": "VI",
+      "iso3": "VIR",
+      "type": "Country/Area",
+      "pop": 84905,
+      "births": 941,
+      "life_expectancy": 75.699,
+      "infant_mortality": 4.769
+    },
+    "BLZ": {
+      "name": "Belize",
+      "iso2": "BZ",
+      "iso3": "BLZ",
+      "type": "Country/Area",
+      "pop": 417072,
+      "births": 7529,
+      "life_expectancy": 73.739,
+      "infant_mortality": 8.68
+    },
+    "CRI": {
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "iso3": "CRI",
+      "type": "Country/Area",
+      "pop": 5129910,
+      "births": 51253,
+      "life_expectancy": 80.996,
+      "infant_mortality": 6.432
+    },
+    "SLV": {
+      "name": "El Salvador",
+      "iso2": "SV",
+      "iso3": "SLV",
+      "type": "Country/Area",
+      "pop": 6338193,
+      "births": 98858,
+      "life_expectancy": 72.302,
+      "infant_mortality": 9.333
+    },
+    "GTM": {
+      "name": "Guatemala",
+      "iso2": "GT",
+      "iso3": "GTM",
+      "type": "Country/Area",
+      "pop": 18406359,
+      "births": 379512,
+      "life_expectancy": 72.746,
+      "infant_mortality": 17.196
+    },
+    "HND": {
+      "name": "Honduras",
+      "iso2": "HN",
+      "iso3": "HND",
+      "type": "Country/Area",
+      "pop": 10825703,
+      "births": 234369,
+      "life_expectancy": 73.044,
+      "infant_mortality": 12.561
+    },
+    "MEX": {
+      "name": "Mexico",
+      "iso2": "MX",
+      "iso3": "MEX",
+      "type": "Country/Area",
+      "pop": 130861007,
+      "births": 2023623,
+      "life_expectancy": 75.264,
+      "infant_mortality": 10.338
+    },
+    "NIC": {
+      "name": "Nicaragua",
+      "iso2": "NI",
+      "iso3": "NIC",
+      "type": "Country/Area",
+      "pop": 6916140,
+      "births": 132383,
+      "life_expectancy": 75.1,
+      "infant_mortality": 10.864
+    },
+    "PAN": {
+      "name": "Panama",
+      "iso2": "PA",
+      "iso3": "PAN",
+      "type": "Country/Area",
+      "pop": 4515577,
+      "births": 71650,
+      "life_expectancy": 79.775,
+      "infant_mortality": 10.349
+    },
+    "ARG": {
+      "name": "Argentina",
+      "iso2": "AR",
+      "iso3": "ARG",
+      "type": "Country/Area",
+      "pop": 45696159,
+      "births": 506609,
+      "life_expectancy": 77.543,
+      "infant_mortality": 8.889
+    },
+    "BOL": {
+      "name": "Bolivia (Plurinational State of)",
+      "iso2": "BO",
+      "iso3": "BOL",
+      "type": "Country/Area",
+      "pop": 12413315,
+      "births": 261003,
+      "life_expectancy": 68.739,
+      "infant_mortality": 31.032
+    },
+    "BRA": {
+      "name": "Brazil",
+      "iso2": "BR",
+      "iso3": "BRA",
+      "type": "Country/Area",
+      "pop": 211998573,
+      "births": 2572100,
+      "life_expectancy": 76.023,
+      "infant_mortality": 11.958
+    },
+    "CHL": {
+      "name": "Chile",
+      "iso2": "CL",
+      "iso3": "CHL",
+      "type": "Country/Area",
+      "pop": 19764771,
+      "births": 172406,
+      "life_expectancy": 81.359,
+      "infant_mortality": 5.522
+    },
+    "COL": {
+      "name": "Colombia",
+      "iso2": "CO",
+      "iso3": "COL",
+      "type": "Country/Area",
+      "pop": 52886363,
+      "births": 700784,
+      "life_expectancy": 77.913,
+      "infant_mortality": 9.561
+    },
+    "ECU": {
+      "name": "Ecuador",
+      "iso2": "EC",
+      "iso3": "ECU",
+      "type": "Country/Area",
+      "pop": 18135478,
+      "births": 268769,
+      "life_expectancy": 77.579,
+      "infant_mortality": 9.846
+    },
+    "FLK": {
+      "name": "Falkland Islands (Malvinas)",
+      "iso2": "FK",
+      "iso3": "FLK",
+      "type": "Country/Area",
+      "pop": 3470,
+      "births": 38,
+      "life_expectancy": 79.37,
+      "infant_mortality": 9.001
+    },
+    "GUF": {
+      "name": "French Guiana",
+      "iso2": "GF",
+      "iso3": "GUF",
+      "type": "Country/Area",
+      "pop": 308522,
+      "births": 7642,
+      "life_expectancy": 77.184,
+      "infant_mortality": 8.893
+    },
+    "GUY": {
+      "name": "Guyana",
+      "iso2": "GY",
+      "iso3": "GUY",
+      "type": "Country/Area",
+      "pop": 831087,
+      "births": 16525,
+      "life_expectancy": 70.319,
+      "infant_mortality": 18.265
+    },
+    "PRY": {
+      "name": "Paraguay",
+      "iso2": "PY",
+      "iso3": "PRY",
+      "type": "Country/Area",
+      "pop": 6929153,
+      "births": 136695,
+      "life_expectancy": 73.982,
+      "infant_mortality": 15.896
+    },
+    "PER": {
+      "name": "Peru",
+      "iso2": "PE",
+      "iso3": "PER",
+      "type": "Country/Area",
+      "pop": 34217848,
+      "births": 538952,
+      "life_expectancy": 77.941,
+      "infant_mortality": 10.058
+    },
+    "SUR": {
+      "name": "Suriname",
+      "iso2": "SR",
+      "iso3": "SUR",
+      "type": "Country/Area",
+      "pop": 634431,
+      "births": 10882,
+      "life_expectancy": 73.757,
+      "infant_mortality": 10.753
+    },
+    "URY": {
+      "name": "Uruguay",
+      "iso2": "UY",
+      "iso3": "URY",
+      "type": "Country/Area",
+      "pop": 3386588,
+      "births": 33196,
+      "life_expectancy": 78.287,
+      "infant_mortality": 5.921
+    },
+    "VEN": {
+      "name": "Venezuela (Bolivarian Republic of)",
+      "iso2": "VE",
+      "iso3": "VEN",
+      "type": "Country/Area",
+      "pop": 28405543,
+      "births": 432648,
+      "life_expectancy": 72.673,
+      "infant_mortality": 14.824
+    },
+    "BMU": {
+      "name": "Bermuda",
+      "iso2": "BM",
+      "iso3": "BMU",
+      "type": "Country/Area",
+      "pop": 64636,
+      "births": 512,
+      "life_expectancy": 82.49,
+      "infant_mortality": 1.913
+    },
+    "CAN": {
+      "name": "Canada",
+      "iso2": "CA",
+      "iso3": "CAN",
+      "type": "Country/Area",
+      "pop": 39742430,
+      "births": 361079,
+      "life_expectancy": 82.719,
+      "infant_mortality": 4.01
+    },
+    "GRL": {
+      "name": "Greenland",
+      "iso2": "GL",
+      "iso3": "GRL",
+      "type": "Country/Area",
+      "pop": 55840,
+      "births": 762,
+      "life_expectancy": 70.194,
+      "infant_mortality": 9.617
+    },
+    "SPM": {
+      "name": "Saint Pierre and Miquelon",
+      "iso2": "PM",
+      "iso3": "SPM",
+      "type": "Country/Area",
+      "pop": 5628,
+      "births": 29,
+      "life_expectancy": 76.937,
+      "infant_mortality": 7.871
+    },
+    "USA": {
+      "name": "United States of America",
+      "iso2": "US",
+      "iso3": "USA",
+      "type": "Country/Area",
+      "pop": 345426571,
+      "births": 3654449,
+      "life_expectancy": 79.463,
+      "infant_mortality": 4.948
+    },
+    "AUS": {
+      "name": "Australia",
+      "iso2": "AU",
+      "iso3": "AUS",
+      "type": "Country/Area",
+      "pop": 26713205,
+      "births": 304984,
+      "life_expectancy": 84.073,
+      "infant_mortality": 2.63
+    },
+    "NZL": {
+      "name": "New Zealand",
+      "iso2": "NZ",
+      "iso3": "NZL",
+      "type": "Country/Area",
+      "pop": 5213944,
+      "births": 59121,
+      "life_expectancy": 82.245,
+      "infant_mortality": 3.646
+    },
+    "FJI": {
+      "name": "Fiji",
+      "iso2": "FJ",
+      "iso3": "FJI",
+      "type": "Country/Area",
+      "pop": 928784,
+      "births": 16592,
+      "life_expectancy": 67.463,
+      "infant_mortality": 16.242
+    },
+    "NCL": {
+      "name": "New Caledonia",
+      "iso2": "NC",
+      "iso3": "NCL",
+      "type": "Country/Area",
+      "pop": 292639,
+      "births": 4106,
+      "life_expectancy": 78.921,
+      "infant_mortality": 8.373
+    },
+    "PNG": {
+      "name": "Papua New Guinea",
+      "iso2": "PG",
+      "iso3": "PNG",
+      "type": "Country/Area",
+      "pop": 10576502,
+      "births": 256911,
+      "life_expectancy": 66.256,
+      "infant_mortality": 31.684
+    },
+    "SLB": {
+      "name": "Solomon Islands",
+      "iso2": "SB",
+      "iso3": "SLB",
+      "type": "Country/Area",
+      "pop": 819198,
+      "births": 21878,
+      "life_expectancy": 70.694,
+      "infant_mortality": 13.963
+    },
+    "VUT": {
+      "name": "Vanuatu",
+      "iso2": "VU",
+      "iso3": "VUT",
+      "type": "Country/Area",
+      "pop": 327777,
+      "births": 9063,
+      "life_expectancy": 71.654,
+      "infant_mortality": 14.2
+    },
+    "GUM": {
+      "name": "Guam",
+      "iso2": "GU",
+      "iso3": "GUM",
+      "type": "Country/Area",
+      "pop": 167777,
+      "births": 2910,
+      "life_expectancy": 77.422,
+      "infant_mortality": 9.967
+    },
+    "KIR": {
+      "name": "Kiribati",
+      "iso2": "KI",
+      "iso3": "KIR",
+      "type": "Country/Area",
+      "pop": 134518,
+      "births": 3405,
+      "life_expectancy": 66.6,
+      "infant_mortality": 42.577
+    },
+    "MHL": {
+      "name": "Marshall Islands",
+      "iso2": "MH",
+      "iso3": "MHL",
+      "type": "Country/Area",
+      "pop": 37548,
+      "births": 754,
+      "life_expectancy": 67.075,
+      "infant_mortality": 21.681
+    },
+    "FSM": {
+      "name": "Micronesia (Fed. States of)",
+      "iso2": "FM",
+      "iso3": "FSM",
+      "type": "Country/Area",
+      "pop": 113160,
+      "births": 2526,
+      "life_expectancy": 67.357,
+      "infant_mortality": 18.435
+    },
+    "NRU": {
+      "name": "Nauru",
+      "iso2": "NR",
+      "iso3": "NRU",
+      "type": "Country/Area",
+      "pop": 11947,
+      "births": 293,
+      "life_expectancy": 62.279,
+      "infant_mortality": 20.088
+    },
+    "MNP": {
+      "name": "Northern Mariana Islands",
+      "iso2": "MP",
+      "iso3": "MNP",
+      "type": "Country/Area",
+      "pop": 44278,
+      "births": 536,
+      "life_expectancy": 78.947,
+      "infant_mortality": 4.735
+    },
+    "PLW": {
+      "name": "Palau",
+      "iso2": "PW",
+      "iso3": "PLW",
+      "type": "Country/Area",
+      "pop": 17695,
+      "births": 189,
+      "life_expectancy": 69.383,
+      "infant_mortality": 17.678
+    },
+    "ASM": {
+      "name": "American Samoa",
+      "iso2": "AS",
+      "iso3": "ASM",
+      "type": "Country/Area",
+      "pop": 46765,
+      "births": 701,
+      "life_expectancy": 72.992,
+      "infant_mortality": 8.272
+    },
+    "COK": {
+      "name": "Cook Islands",
+      "iso2": "CK",
+      "iso3": "COK",
+      "type": "Country/Area",
+      "pop": 13729,
+      "births": 159,
+      "life_expectancy": 75.472,
+      "infant_mortality": 5.336
+    },
+    "PYF": {
+      "name": "French Polynesia",
+      "iso2": "PF",
+      "iso3": "PYF",
+      "type": "Country/Area",
+      "pop": 281807,
+      "births": 3012,
+      "life_expectancy": 84.192,
+      "infant_mortality": 5.143
+    },
+    "NIU": {
+      "name": "Niue",
+      "iso2": "NU",
+      "iso3": "NIU",
+      "type": "Country/Area",
+      "pop": 1819,
+      "births": 25,
+      "life_expectancy": 70.104,
+      "infant_mortality": 18.948
+    },
+    "WSM": {
+      "name": "Samoa",
+      "iso2": "WS",
+      "iso3": "WSM",
+      "type": "Country/Area",
+      "pop": 218019,
+      "births": 5444,
+      "life_expectancy": 71.826,
+      "infant_mortality": 12.733
+    },
+    "TKL": {
+      "name": "Tokelau",
+      "iso2": "TK",
+      "iso3": "TKL",
+      "type": "Country/Area",
+      "pop": 2506,
+      "births": 51,
+      "life_expectancy": 77.167,
+      "infant_mortality": 3.929
+    },
+    "TON": {
+      "name": "Tonga",
+      "iso2": "TO",
+      "iso3": "TON",
+      "type": "Country/Area",
+      "pop": 104175,
+      "births": 2400,
+      "life_expectancy": 73.07,
+      "infant_mortality": 8.654
+    },
+    "TUV": {
+      "name": "Tuvalu",
+      "iso2": "TV",
+      "iso3": "TUV",
+      "type": "Country/Area",
+      "pop": 9646,
+      "births": 212,
+      "life_expectancy": 67.259,
+      "infant_mortality": 15.76
+    },
+    "WLF": {
+      "name": "Wallis and Futuna Islands",
+      "iso2": "WF",
+      "iso3": "WLF",
+      "type": "Country/Area",
+      "pop": 11277,
+      "births": 97,
+      "life_expectancy": 78.737,
+      "infant_mortality": 11.001
+    }
+  },
+  "by_name": {
+    "burundi": {
+      "name": "Burundi",
+      "iso2": "BI",
+      "iso3": "BDI",
+      "type": "Country/Area",
+      "pop": 14047786,
+      "births": 466545,
+      "life_expectancy": 63.818,
+      "infant_mortality": 34.804
+    },
+    "comoros": {
+      "name": "Comoros",
+      "iso2": "KM",
+      "iso3": "COM",
+      "type": "Country/Area",
+      "pop": 866628,
+      "births": 24467,
+      "life_expectancy": 67.023,
+      "infant_mortality": 35.743
+    },
+    "djibouti": {
+      "name": "Djibouti",
+      "iso2": "DJ",
+      "iso3": "DJI",
+      "type": "Country/Area",
+      "pop": 1168722,
+      "births": 24462,
+      "life_expectancy": 66.202,
+      "infant_mortality": 35.457
+    },
+    "eritrea": {
+      "name": "Eritrea",
+      "iso2": "ER",
+      "iso3": "ERI",
+      "type": "Country/Area",
+      "pop": 3535603,
+      "births": 101539,
+      "life_expectancy": 68.893,
+      "infant_mortality": 25.968
+    },
+    "ethiopia": {
+      "name": "Ethiopia",
+      "iso2": "ET",
+      "iso3": "ETH",
+      "type": "Country/Area",
+      "pop": 132059767,
+      "births": 4155828,
+      "life_expectancy": 67.603,
+      "infant_mortality": 31.889
+    },
+    "kenya": {
+      "name": "Kenya",
+      "iso2": "KE",
+      "iso3": "KEN",
+      "type": "Country/Area",
+      "pop": 56432944,
+      "births": 1521907,
+      "life_expectancy": 63.834,
+      "infant_mortality": 29.036
+    },
+    "madagascar": {
+      "name": "Madagascar",
+      "iso2": "MG",
+      "iso3": "MDG",
+      "type": "Country/Area",
+      "pop": 31964956,
+      "births": 1013751,
+      "life_expectancy": 63.835,
+      "infant_mortality": 44.168
+    },
+    "malawi": {
+      "name": "Malawi",
+      "iso2": "MW",
+      "iso3": "MWI",
+      "type": "Country/Area",
+      "pop": 21655286,
+      "births": 674407,
+      "life_expectancy": 67.561,
+      "infant_mortality": 28.752
+    },
+    "mauritius": {
+      "name": "Mauritius",
+      "iso2": "MU",
+      "iso3": "MUS",
+      "type": "Country/Area",
+      "pop": 1271169,
+      "births": 11600,
+      "life_expectancy": 75.102,
+      "infant_mortality": 11.706
+    },
+    "mayotte": {
+      "name": "Mayotte",
+      "iso2": "YT",
+      "iso3": "MYT",
+      "type": "Country/Area",
+      "pop": 326505,
+      "births": 11270,
+      "life_expectancy": 76.24,
+      "infant_mortality": 8.543
+    },
+    "mozambique": {
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ",
+      "type": "Country/Area",
+      "pop": 34631766,
+      "births": 1282336,
+      "life_expectancy": 63.797,
+      "infant_mortality": 48.731
+    },
+    "réunion": {
+      "name": "Réunion",
+      "iso2": "RE",
+      "iso3": "REU",
+      "type": "Country/Area",
+      "pop": 878591,
+      "births": 11711,
+      "life_expectancy": 83.671,
+      "infant_mortality": 4.195
+    },
+    "rwanda": {
+      "name": "Rwanda",
+      "iso2": "RW",
+      "iso3": "RWA",
+      "type": "Country/Area",
+      "pop": 14256567,
+      "births": 400062,
+      "life_expectancy": 68.017,
+      "infant_mortality": 26.435
+    },
+    "seychelles": {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC",
+      "type": "Country/Area",
+      "pop": 130418,
+      "births": 1753,
+      "life_expectancy": 72.986,
+      "infant_mortality": 10.155
+    },
+    "somalia": {
+      "name": "Somalia",
+      "iso2": "SO",
+      "iso3": "SOM",
+      "type": "Country/Area",
+      "pop": 19009151,
+      "births": 804966,
+      "life_expectancy": 58.967,
+      "infant_mortality": 65.573
+    },
+    "south sudan": {
+      "name": "South Sudan",
+      "iso2": "SS",
+      "iso3": "SSD",
+      "type": "Country/Area",
+      "pop": 11943408,
+      "births": 349013,
+      "life_expectancy": 57.738,
+      "infant_mortality": 63.169
+    },
+    "uganda": {
+      "name": "Uganda",
+      "iso2": "UG",
+      "iso3": "UGA",
+      "type": "Country/Area",
+      "pop": 50015092,
+      "births": 1722321,
+      "life_expectancy": 68.487,
+      "infant_mortality": 27.826
+    },
+    "united republic of tanzania": {
+      "name": "United Republic of Tanzania",
+      "iso2": "TZ",
+      "iso3": "TZA",
+      "type": "Country/Area",
+      "pop": 68560157,
+      "births": 2385984,
+      "life_expectancy": 67.212,
+      "infant_mortality": 28.168
+    },
+    "zambia": {
+      "name": "Zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB",
+      "type": "Country/Area",
+      "pop": 21314956,
+      "births": 697518,
+      "life_expectancy": 66.528,
+      "infant_mortality": 37.361
+    },
+    "zimbabwe": {
+      "name": "Zimbabwe",
+      "iso2": "ZW",
+      "iso3": "ZWE",
+      "type": "Country/Area",
+      "pop": 16634373,
+      "births": 497215,
+      "life_expectancy": 63.064,
+      "infant_mortality": 32.2
+    },
+    "angola": {
+      "name": "Angola",
+      "iso2": "AO",
+      "iso3": "AGO",
+      "type": "Country/Area",
+      "pop": 37885849,
+      "births": 1407760,
+      "life_expectancy": 64.805,
+      "infant_mortality": 47.687
+    },
+    "cameroon": {
+      "name": "Cameroon",
+      "iso2": "CM",
+      "iso3": "CMR",
+      "type": "Country/Area",
+      "pop": 29123744,
+      "births": 971107,
+      "life_expectancy": 63.968,
+      "infant_mortality": 46.116
+    },
+    "central african republic": {
+      "name": "Central African Republic",
+      "iso2": "CF",
+      "iso3": "CAF",
+      "type": "Country/Area",
+      "pop": 5330690,
+      "births": 246241,
+      "life_expectancy": 57.671,
+      "infant_mortality": 67.106
+    },
+    "chad": {
+      "name": "Chad",
+      "iso2": "TD",
+      "iso3": "TCD",
+      "type": "Country/Area",
+      "pop": 20299123,
+      "births": 878222,
+      "life_expectancy": 55.238,
+      "infant_mortality": 63.258
+    },
+    "congo": {
+      "name": "Congo",
+      "iso2": "CG",
+      "iso3": "COG",
+      "type": "Country/Area",
+      "pop": 6332961,
+      "births": 192673,
+      "life_expectancy": 66.001,
+      "infant_mortality": 27.99
+    },
+    "democratic republic of the congo": {
+      "name": "Democratic Republic of the Congo",
+      "iso2": "CD",
+      "iso3": "COD",
+      "type": "Country/Area",
+      "pop": 109276265,
+      "births": 4467740,
+      "life_expectancy": 62.074,
+      "infant_mortality": 48.624
+    },
+    "equatorial guinea": {
+      "name": "Equatorial Guinea",
+      "iso2": "GQ",
+      "iso3": "GNQ",
+      "type": "Country/Area",
+      "pop": 1892516,
+      "births": 56763,
+      "life_expectancy": 63.906,
+      "infant_mortality": 51.797
+    },
+    "gabon": {
+      "name": "Gabon",
+      "iso2": "GA",
+      "iso3": "GAB",
+      "type": "Country/Area",
+      "pop": 2538952,
+      "births": 68875,
+      "life_expectancy": 68.511,
+      "infant_mortality": 26.689
+    },
+    "sao tome and principe": {
+      "name": "Sao Tome and Principe",
+      "iso2": "ST",
+      "iso3": "STP",
+      "type": "Country/Area",
+      "pop": 235536,
+      "births": 6617,
+      "life_expectancy": 69.905,
+      "infant_mortality": 11.043
+    },
+    "algeria": {
+      "name": "Algeria",
+      "iso2": "DZ",
+      "iso3": "DZA",
+      "type": "Country/Area",
+      "pop": 46814308,
+      "births": 881823,
+      "life_expectancy": 76.475,
+      "infant_mortality": 17.082
+    },
+    "egypt": {
+      "name": "Egypt",
+      "iso2": "EG",
+      "iso3": "EGY",
+      "type": "Country/Area",
+      "pop": 116538258,
+      "births": 2437410,
+      "life_expectancy": 71.806,
+      "infant_mortality": 13.172
+    },
+    "libya": {
+      "name": "Libya",
+      "iso2": "LY",
+      "iso3": "LBY",
+      "type": "Country/Area",
+      "pop": 7381023,
+      "births": 121747,
+      "life_expectancy": 71.121,
+      "infant_mortality": 12.135
+    },
+    "morocco": {
+      "name": "Morocco",
+      "iso2": "MA",
+      "iso3": "MAR",
+      "type": "Country/Area",
+      "pop": 38081173,
+      "births": 624620,
+      "life_expectancy": 75.493,
+      "infant_mortality": 13.809
+    },
+    "sudan": {
+      "name": "Sudan",
+      "iso2": "SD",
+      "iso3": "SDN",
+      "type": "Country/Area",
+      "pop": 50448963,
+      "births": 1664612,
+      "life_expectancy": 66.521,
+      "infant_mortality": 37.298
+    },
+    "tunisia": {
+      "name": "Tunisia",
+      "iso2": "TN",
+      "iso3": "TUN",
+      "type": "Country/Area",
+      "pop": 12277109,
+      "births": 164145,
+      "life_expectancy": 76.711,
+      "infant_mortality": 9.545
+    },
+    "western sahara": {
+      "name": "Western Sahara",
+      "iso2": "EH",
+      "iso3": "ESH",
+      "type": "Country/Area",
+      "pop": 590506,
+      "births": 9090,
+      "life_expectancy": 71.58,
+      "infant_mortality": 22.735
+    },
+    "botswana": {
+      "name": "Botswana",
+      "iso2": "BW",
+      "iso3": "BWA",
+      "type": "Country/Area",
+      "pop": 2521139,
+      "births": 61418,
+      "life_expectancy": 69.293,
+      "infant_mortality": 27.77
+    },
+    "eswatini": {
+      "name": "Eswatini",
+      "iso2": "SZ",
+      "iso3": "SWZ",
+      "type": "Country/Area",
+      "pop": 1242822,
+      "births": 29390,
+      "life_expectancy": 64.264,
+      "infant_mortality": 37.001
+    },
+    "lesotho": {
+      "name": "Lesotho",
+      "iso2": "LS",
+      "iso3": "LSO",
+      "type": "Country/Area",
+      "pop": 2337423,
+      "births": 55542,
+      "life_expectancy": 57.798,
+      "infant_mortality": 54.613
+    },
+    "namibia": {
+      "name": "Namibia",
+      "iso2": "NA",
+      "iso3": "NAM",
+      "type": "Country/Area",
+      "pop": 3030131,
+      "births": 78452,
+      "life_expectancy": 67.516,
+      "infant_mortality": 26.746
+    },
+    "south africa": {
+      "name": "South Africa",
+      "iso2": "ZA",
+      "iso3": "ZAF",
+      "type": "Country/Area",
+      "pop": 64007187,
+      "births": 1182869,
+      "life_expectancy": 66.312,
+      "infant_mortality": 22.866
+    },
+    "benin": {
+      "name": "Benin",
+      "iso2": "BJ",
+      "iso3": "BEN",
+      "type": "Country/Area",
+      "pop": 14462724,
+      "births": 483336,
+      "life_expectancy": 60.961,
+      "infant_mortality": 51.552
+    },
+    "burkina faso": {
+      "name": "Burkina Faso",
+      "iso2": "BF",
+      "iso3": "BFA",
+      "type": "Country/Area",
+      "pop": 23548781,
+      "births": 737914,
+      "life_expectancy": 61.292,
+      "infant_mortality": 54.202
+    },
+    "cabo verde": {
+      "name": "Cabo Verde",
+      "iso2": "CV",
+      "iso3": "CPV",
+      "type": "Country/Area",
+      "pop": 524877,
+      "births": 6415,
+      "life_expectancy": 76.224,
+      "infant_mortality": 9.54
+    },
+    "côte d'ivoire": {
+      "name": "Côte d'Ivoire",
+      "iso2": "CI",
+      "iso3": "CIV",
+      "type": "Country/Area",
+      "pop": 31934230,
+      "births": 1007981,
+      "life_expectancy": 62.11,
+      "infant_mortality": 50.845
+    },
+    "gambia": {
+      "name": "Gambia",
+      "iso2": "GM",
+      "iso3": "GMB",
+      "type": "Country/Area",
+      "pop": 2759988,
+      "births": 82405,
+      "life_expectancy": 66.057,
+      "infant_mortality": 28.858
+    },
+    "ghana": {
+      "name": "Ghana",
+      "iso2": "GH",
+      "iso3": "GHA",
+      "type": "Country/Area",
+      "pop": 34427414,
+      "births": 892343,
+      "life_expectancy": 65.695,
+      "infant_mortality": 30.036
+    },
+    "guinea": {
+      "name": "Guinea",
+      "iso2": "GN",
+      "iso3": "GIN",
+      "type": "Country/Area",
+      "pop": 14754785,
+      "births": 491708,
+      "life_expectancy": 60.904,
+      "infant_mortality": 64.653
+    },
+    "guinea-bissau": {
+      "name": "Guinea-Bissau",
+      "iso2": "GW",
+      "iso3": "GNB",
+      "type": "Country/Area",
+      "pop": 2201352,
+      "births": 65072,
+      "life_expectancy": 64.254,
+      "infant_mortality": 48.116
+    },
+    "liberia": {
+      "name": "Liberia",
+      "iso2": "LR",
+      "iso3": "LBR",
+      "type": "Country/Area",
+      "pop": 5612817,
+      "births": 171626,
+      "life_expectancy": 62.324,
+      "infant_mortality": 55.052
+    },
+    "mali": {
+      "name": "Mali",
+      "iso2": "ML",
+      "iso3": "MLI",
+      "type": "Country/Area",
+      "pop": 24478595,
+      "births": 967695,
+      "life_expectancy": 60.675,
+      "infant_mortality": 59.937
+    },
+    "mauritania": {
+      "name": "Mauritania",
+      "iso2": "MR",
+      "iso3": "MRT",
+      "type": "Country/Area",
+      "pop": 5169395,
+      "births": 175914,
+      "life_expectancy": 68.713,
+      "infant_mortality": 29.633
+    },
+    "niger": {
+      "name": "Niger",
+      "iso2": "NE",
+      "iso3": "NER",
+      "type": "Country/Area",
+      "pop": 27032412,
+      "births": 1119695,
+      "life_expectancy": 61.433,
+      "infant_mortality": 63.256
+    },
+    "nigeria": {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA",
+      "type": "Country/Area",
+      "pop": 232679478,
+      "births": 7560407,
+      "life_expectancy": 54.635,
+      "infant_mortality": 68.461
+    },
+    "saint helena": {
+      "name": "Saint Helena",
+      "iso2": "SH",
+      "iso3": "SHN",
+      "type": "Country/Area",
+      "pop": 5237,
+      "births": 38,
+      "life_expectancy": 76.954,
+      "infant_mortality": 11.816
+    },
+    "senegal": {
+      "name": "Senegal",
+      "iso2": "SN",
+      "iso3": "SEN",
+      "type": "Country/Area",
+      "pop": 18501984,
+      "births": 539970,
+      "life_expectancy": 68.924,
+      "infant_mortality": 23.178
+    },
+    "sierra leone": {
+      "name": "Sierra Leone",
+      "iso2": "SL",
+      "iso3": "SLE",
+      "type": "Country/Area",
+      "pop": 8642022,
+      "births": 260194,
+      "life_expectancy": 61.964,
+      "infant_mortality": 70.534
+    },
+    "togo": {
+      "name": "Togo",
+      "iso2": "TG",
+      "iso3": "TGO",
+      "type": "Country/Area",
+      "pop": 9515236,
+      "births": 292572,
+      "life_expectancy": 62.932,
+      "infant_mortality": 40.557
+    },
+    "kazakhstan": {
+      "name": "Kazakhstan",
+      "iso2": "KZ",
+      "iso3": "KAZ",
+      "type": "Country/Area",
+      "pop": 20592571,
+      "births": 401985,
+      "life_expectancy": 74.531,
+      "infant_mortality": 6.691
+    },
+    "kyrgyzstan": {
+      "name": "Kyrgyzstan",
+      "iso2": "KG",
+      "iso3": "KGZ",
+      "type": "Country/Area",
+      "pop": 7186009,
+      "births": 150335,
+      "life_expectancy": 71.824,
+      "infant_mortality": 12.11
+    },
+    "tajikistan": {
+      "name": "Tajikistan",
+      "iso2": "TJ",
+      "iso3": "TJK",
+      "type": "Country/Area",
+      "pop": 10590927,
+      "births": 268304,
+      "life_expectancy": 71.927,
+      "infant_mortality": 20.991
+    },
+    "turkmenistan": {
+      "name": "Turkmenistan",
+      "iso2": "TM",
+      "iso3": "TKM",
+      "type": "Country/Area",
+      "pop": 7494498,
+      "births": 156679,
+      "life_expectancy": 70.201,
+      "infant_mortality": 28.548
+    },
+    "uzbekistan": {
+      "name": "Uzbekistan",
+      "iso2": "UZ",
+      "iso3": "UZB",
+      "type": "Country/Area",
+      "pop": 36361859,
+      "births": 929292,
+      "life_expectancy": 72.528,
+      "infant_mortality": 12.202
+    },
+    "china": {
+      "name": "China",
+      "iso2": "CN",
+      "iso3": "CHN",
+      "type": "Country/Area",
+      "pop": 1419321278,
+      "births": 8822056,
+      "life_expectancy": 78.017,
+      "infant_mortality": 6.379
+    },
+    "china, hong kong sar": {
+      "name": "China, Hong Kong SAR",
+      "iso2": "HK",
+      "iso3": "HKG",
+      "type": "Country/Area",
+      "pop": 7414909,
+      "births": 40219,
+      "life_expectancy": 85.634,
+      "infant_mortality": 1.449
+    },
+    "china, macao sar": {
+      "name": "China, Macao SAR",
+      "iso2": "MO",
+      "iso3": "MAC",
+      "type": "Country/Area",
+      "pop": 720262,
+      "births": 4600,
+      "life_expectancy": 83.228,
+      "infant_mortality": 2.567
+    },
+    "china, taiwan province of china": {
+      "name": "China, Taiwan Province of China",
+      "iso2": "TW",
+      "iso3": "TWN",
+      "type": "Country/Area",
+      "pop": 23213962,
+      "births": 128597,
+      "life_expectancy": 80.75,
+      "infant_mortality": 3.093
+    },
+    "dem. people's republic of korea": {
+      "name": "Dem. People's Republic of Korea",
+      "iso2": "KP",
+      "iso3": "PRK",
+      "type": "Country/Area",
+      "pop": 26498823,
+      "births": 340728,
+      "life_expectancy": 73.743,
+      "infant_mortality": 13.319
+    },
+    "japan": {
+      "name": "Japan",
+      "iso2": "JP",
+      "iso3": "JPN",
+      "type": "Country/Area",
+      "pop": 123753041,
+      "births": 750570,
+      "life_expectancy": 84.852,
+      "infant_mortality": 1.664
+    },
+    "mongolia": {
+      "name": "Mongolia",
+      "iso2": "MN",
+      "iso3": "MNG",
+      "type": "Country/Area",
+      "pop": 3475540,
+      "births": 63101,
+      "life_expectancy": 71.985,
+      "infant_mortality": 9.167
+    },
+    "republic of korea": {
+      "name": "Republic of Korea",
+      "iso2": "KR",
+      "iso3": "KOR",
+      "type": "Country/Area",
+      "pop": 51717590,
+      "births": 240982,
+      "life_expectancy": 84.434,
+      "infant_mortality": 1.968
+    },
+    "afghanistan": {
+      "name": "Afghanistan",
+      "iso2": "AF",
+      "iso3": "AFG",
+      "type": "Country/Area",
+      "pop": 42647492,
+      "births": 1492956,
+      "life_expectancy": 66.289,
+      "infant_mortality": 42.65
+    },
+    "bangladesh": {
+      "name": "Bangladesh",
+      "iso2": "BD",
+      "iso3": "BGD",
+      "type": "Country/Area",
+      "pop": 173562364,
+      "births": 3469124,
+      "life_expectancy": 74.93,
+      "infant_mortality": 16.864
+    },
+    "bhutan": {
+      "name": "Bhutan",
+      "iso2": "BT",
+      "iso3": "BTN",
+      "type": "Country/Area",
+      "pop": 791524,
+      "births": 9914,
+      "life_expectancy": 73.262,
+      "infant_mortality": 18.338
+    },
+    "india": {
+      "name": "India",
+      "iso2": "IN",
+      "iso3": "IND",
+      "type": "Country/Area",
+      "pop": 1450935791,
+      "births": 23186978,
+      "life_expectancy": 72.235,
+      "infant_mortality": 22.627
+    },
+    "iran (islamic republic of)": {
+      "name": "Iran (Islamic Republic of)",
+      "iso2": "IR",
+      "iso3": "IRN",
+      "type": "Country/Area",
+      "pop": 91567738,
+      "births": 1151057,
+      "life_expectancy": 77.854,
+      "infant_mortality": 9.145
+    },
+    "maldives": {
+      "name": "Maldives",
+      "iso2": "MV",
+      "iso3": "MDV",
+      "type": "Country/Area",
+      "pop": 527799,
+      "births": 5588,
+      "life_expectancy": 81.285,
+      "infant_mortality": 4.466
+    },
+    "nepal": {
+      "name": "Nepal",
+      "iso2": "NP",
+      "iso3": "NPL",
+      "type": "Country/Area",
+      "pop": 29651054,
+      "births": 562232,
+      "life_expectancy": 70.636,
+      "infant_mortality": 20.642
+    },
+    "pakistan": {
+      "name": "Pakistan",
+      "iso2": "PK",
+      "iso3": "PAK",
+      "type": "Country/Area",
+      "pop": 251269164,
+      "births": 6887798,
+      "life_expectancy": 67.799,
+      "infant_mortality": 48.402
+    },
+    "sri lanka": {
+      "name": "Sri Lanka",
+      "iso2": "LK",
+      "iso3": "LKA",
+      "type": "Country/Area",
+      "pop": 23103565,
+      "births": 320429,
+      "life_expectancy": 77.672,
+      "infant_mortality": 4.978
+    },
+    "brunei darussalam": {
+      "name": "Brunei Darussalam",
+      "iso2": "BN",
+      "iso3": "BRN",
+      "type": "Country/Area",
+      "pop": 462721,
+      "births": 6167,
+      "life_expectancy": 75.501,
+      "infant_mortality": 7.792
+    },
+    "cambodia": {
+      "name": "Cambodia",
+      "iso2": "KH",
+      "iso3": "KHM",
+      "type": "Country/Area",
+      "pop": 17638801,
+      "births": 358220,
+      "life_expectancy": 70.817,
+      "infant_mortality": 18.632
+    },
+    "indonesia": {
+      "name": "Indonesia",
+      "iso2": "ID",
+      "iso3": "IDN",
+      "type": "Country/Area",
+      "pop": 283487931,
+      "births": 4468312,
+      "life_expectancy": 71.288,
+      "infant_mortality": 16.585
+    },
+    "lao people's democratic republic": {
+      "name": "Lao People's Democratic Republic",
+      "iso2": "LA",
+      "iso3": "LAO",
+      "type": "Country/Area",
+      "pop": 7769819,
+      "births": 162644,
+      "life_expectancy": 69.225,
+      "infant_mortality": 30.314
+    },
+    "malaysia": {
+      "name": "Malaysia",
+      "iso2": "MY",
+      "iso3": "MYS",
+      "type": "Country/Area",
+      "pop": 35557673,
+      "births": 439568,
+      "life_expectancy": 76.821,
+      "infant_mortality": 5.06
+    },
+    "myanmar": {
+      "name": "Myanmar",
+      "iso2": "MM",
+      "iso3": "MMR",
+      "type": "Country/Area",
+      "pop": 54500091,
+      "births": 897269,
+      "life_expectancy": 67.095,
+      "infant_mortality": 33.279
+    },
+    "philippines": {
+      "name": "Philippines",
+      "iso2": "PH",
+      "iso3": "PHL",
+      "type": "Country/Area",
+      "pop": 115843670,
+      "births": 1841191,
+      "life_expectancy": 69.946,
+      "infant_mortality": 19.849
+    },
+    "singapore": {
+      "name": "Singapore",
+      "iso2": "SG",
+      "iso3": "SGP",
+      "type": "Country/Area",
+      "pop": 5832387,
+      "births": 48802,
+      "life_expectancy": 83.863,
+      "infant_mortality": 1.765
+    },
+    "thailand": {
+      "name": "Thailand",
+      "iso2": "TH",
+      "iso3": "THA",
+      "type": "Country/Area",
+      "pop": 71668011,
+      "births": 581635,
+      "life_expectancy": 76.564,
+      "infant_mortality": 7.882
+    },
+    "timor-leste": {
+      "name": "Timor-Leste",
+      "iso2": "TL",
+      "iso3": "TLS",
+      "type": "Country/Area",
+      "pop": 1400638,
+      "births": 30489,
+      "life_expectancy": 67.904,
+      "infant_mortality": 36.279
+    },
+    "viet nam": {
+      "name": "Viet Nam",
+      "iso2": "VN",
+      "iso3": "VNM",
+      "type": "Country/Area",
+      "pop": 100987686,
+      "births": 1355563,
+      "life_expectancy": 74.736,
+      "infant_mortality": 14.674
+    },
+    "armenia": {
+      "name": "Armenia",
+      "iso2": "AM",
+      "iso3": "ARM",
+      "type": "Country/Area",
+      "pop": 2973840,
+      "births": 36278,
+      "life_expectancy": 75.846,
+      "infant_mortality": 9.092
+    },
+    "azerbaijan": {
+      "name": "Azerbaijan",
+      "iso2": "AZ",
+      "iso3": "AZE",
+      "type": "Country/Area",
+      "pop": 10336577,
+      "births": 121322,
+      "life_expectancy": 74.576,
+      "infant_mortality": 14.171
+    },
+    "bahrain": {
+      "name": "Bahrain",
+      "iso2": "BH",
+      "iso3": "BHR",
+      "type": "Country/Area",
+      "pop": 1607049,
+      "births": 19338,
+      "life_expectancy": 81.423,
+      "infant_mortality": 5.172
+    },
+    "cyprus": {
+      "name": "Cyprus",
+      "iso2": "CY",
+      "iso3": "CYP",
+      "type": "Country/Area",
+      "pop": 1358282,
+      "births": 14285,
+      "life_expectancy": 81.821,
+      "infant_mortality": 2.569
+    },
+    "georgia": {
+      "name": "Georgia",
+      "iso2": "GE",
+      "iso3": "GEO",
+      "type": "Country/Area",
+      "pop": 3807670,
+      "births": 42983,
+      "life_expectancy": 74.657,
+      "infant_mortality": 6.733
+    },
+    "iraq": {
+      "name": "Iraq",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "type": "Country/Area",
+      "pop": 46042015,
+      "births": 1177772,
+      "life_expectancy": 72.424,
+      "infant_mortality": 18.671
+    },
+    "israel": {
+      "name": "Israel",
+      "iso2": "IL",
+      "iso3": "ISR",
+      "type": "Country/Area",
+      "pop": 9387021,
+      "births": 171566,
+      "life_expectancy": 82.727,
+      "infant_mortality": 2.939
+    },
+    "jordan": {
+      "name": "Jordan",
+      "iso2": "JO",
+      "iso3": "JOR",
+      "type": "Country/Area",
+      "pop": 11552876,
+      "births": 236284,
+      "life_expectancy": 77.981,
+      "infant_mortality": 11.425
+    },
+    "kuwait": {
+      "name": "Kuwait",
+      "iso2": "KW",
+      "iso3": "KWT",
+      "type": "Country/Area",
+      "pop": 4934507,
+      "births": 48132,
+      "life_expectancy": 80.6,
+      "infant_mortality": 6.453
+    },
+    "lebanon": {
+      "name": "Lebanon",
+      "iso2": "LB",
+      "iso3": "LBN",
+      "type": "Country/Area",
+      "pop": 5805962,
+      "births": 92653,
+      "life_expectancy": 77.945,
+      "infant_mortality": 15.358
+    },
+    "oman": {
+      "name": "Oman",
+      "iso2": "OM",
+      "iso3": "OMN",
+      "type": "Country/Area",
+      "pop": 5281538,
+      "births": 88613,
+      "life_expectancy": 80.246,
+      "infant_mortality": 8.317
+    },
+    "qatar": {
+      "name": "Qatar",
+      "iso2": "QA",
+      "iso3": "QAT",
+      "type": "Country/Area",
+      "pop": 3048423,
+      "births": 29034,
+      "life_expectancy": 82.522,
+      "infant_mortality": 5.775
+    },
+    "saudi arabia": {
+      "name": "Saudi Arabia",
+      "iso2": "SA",
+      "iso3": "SAU",
+      "type": "Country/Area",
+      "pop": 33962757,
+      "births": 560224,
+      "life_expectancy": 78.982,
+      "infant_mortality": 6.045
+    },
+    "state of palestine": {
+      "name": "State of Palestine",
+      "iso2": "PS",
+      "iso3": "PSE",
+      "type": "Country/Area",
+      "pop": 5495443,
+      "births": 145440,
+      "life_expectancy": 69.213,
+      "infant_mortality": 23.636
+    },
+    "syrian arab republic": {
+      "name": "Syrian Arab Republic",
+      "iso2": "SY",
+      "iso3": "SYR",
+      "type": "Country/Area",
+      "pop": 24672760,
+      "births": 571460,
+      "life_expectancy": 72.56,
+      "infant_mortality": 15.466
+    },
+    "türkiye": {
+      "name": "Türkiye",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "type": "Country/Area",
+      "pop": 87473805,
+      "births": 1060605,
+      "life_expectancy": 77.421,
+      "infant_mortality": 9.591
+    },
+    "united arab emirates": {
+      "name": "United Arab Emirates",
+      "iso2": "AE",
+      "iso3": "ARE",
+      "type": "Country/Area",
+      "pop": 11027129,
+      "births": 108273,
+      "life_expectancy": 83.069,
+      "infant_mortality": 5.029
+    },
+    "yemen": {
+      "name": "Yemen",
+      "iso2": "YE",
+      "iso3": "YEM",
+      "type": "Country/Area",
+      "pop": 40583164,
+      "births": 1394397,
+      "life_expectancy": 69.439,
+      "infant_mortality": 31.462
+    },
+    "belarus": {
+      "name": "Belarus",
+      "iso2": "BY",
+      "iso3": "BLR",
+      "type": "Country/Area",
+      "pop": 9056696,
+      "births": 63679,
+      "life_expectancy": 74.624,
+      "infant_mortality": 2.468
+    },
+    "bulgaria": {
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "iso3": "BGR",
+      "type": "Country/Area",
+      "pop": 6757689,
+      "births": 61463,
+      "life_expectancy": 75.795,
+      "infant_mortality": 4.883
+    },
+    "czechia": {
+      "name": "Czechia",
+      "iso2": "CZ",
+      "iso3": "CZE",
+      "type": "Country/Area",
+      "pop": 10735859,
+      "births": 90211,
+      "life_expectancy": 79.97,
+      "infant_mortality": 2.106
+    },
+    "hungary": {
+      "name": "Hungary",
+      "iso2": "HU",
+      "iso3": "HUN",
+      "type": "Country/Area",
+      "pop": 9676135,
+      "births": 85003,
+      "life_expectancy": 77.181,
+      "infant_mortality": 2.895
+    },
+    "poland": {
+      "name": "Poland",
+      "iso2": "PL",
+      "iso3": "POL",
+      "type": "Country/Area",
+      "pop": 38539201,
+      "births": 309612,
+      "life_expectancy": 78.81,
+      "infant_mortality": 3.279
+    },
+    "republic of moldova": {
+      "name": "Republic of Moldova",
+      "iso2": "MD",
+      "iso3": "MDA",
+      "type": "Country/Area",
+      "pop": 3034961,
+      "births": 32140,
+      "life_expectancy": 71.332,
+      "infant_mortality": 9.845
+    },
+    "romania": {
+      "name": "Romania",
+      "iso2": "RO",
+      "iso3": "ROU",
+      "type": "Country/Area",
+      "pop": 19015088,
+      "births": 180942,
+      "life_expectancy": 76.093,
+      "infant_mortality": 5.125
+    },
+    "russian federation": {
+      "name": "Russian Federation",
+      "iso2": "RU",
+      "iso3": "RUS",
+      "type": "Country/Area",
+      "pop": 144820423,
+      "births": 1270354,
+      "life_expectancy": 73.343,
+      "infant_mortality": 4.232
+    },
+    "slovakia": {
+      "name": "Slovakia",
+      "iso2": "SK",
+      "iso3": "SVK",
+      "type": "Country/Area",
+      "pop": 5506760,
+      "births": 51117,
+      "life_expectancy": 78.492,
+      "infant_mortality": 3.909
+    },
+    "ukraine": {
+      "name": "Ukraine",
+      "iso2": "UA",
+      "iso3": "UKR",
+      "type": "Country/Area",
+      "pop": 37860221,
+      "births": 206937,
+      "life_expectancy": 74.692,
+      "infant_mortality": 5.064
+    },
+    "denmark": {
+      "name": "Denmark",
+      "iso2": "DK",
+      "iso3": "DNK",
+      "type": "Country/Area",
+      "pop": 5977412,
+      "births": 58646,
+      "life_expectancy": 82.094,
+      "infant_mortality": 2.811
+    },
+    "estonia": {
+      "name": "Estonia",
+      "iso2": "EE",
+      "iso3": "EST",
+      "type": "Country/Area",
+      "pop": 1360546,
+      "births": 10926,
+      "life_expectancy": 79.309,
+      "infant_mortality": 1.642
+    },
+    "faroe islands": {
+      "name": "Faroe Islands",
+      "iso2": "FO",
+      "iso3": "FRO",
+      "type": "Country/Area",
+      "pop": 55400,
+      "births": 705,
+      "life_expectancy": 80.394,
+      "infant_mortality": 5.541
+    },
+    "finland": {
+      "name": "Finland",
+      "iso2": "FI",
+      "iso3": "FIN",
+      "type": "Country/Area",
+      "pop": 5617310,
+      "births": 43829,
+      "life_expectancy": 82.077,
+      "infant_mortality": 1.704
+    },
+    "guernsey": {
+      "name": "Guernsey",
+      "iso2": "GG",
+      "iso3": "GGY",
+      "type": "Country/Area",
+      "pop": 64280,
+      "births": 525,
+      "life_expectancy": 83.382,
+      "infant_mortality": 5.729
+    },
+    "iceland": {
+      "name": "Iceland",
+      "iso2": "IS",
+      "iso3": "ISL",
+      "type": "Country/Area",
+      "pop": 393396,
+      "births": 4377,
+      "life_expectancy": 83.013,
+      "infant_mortality": 1.245
+    },
+    "ireland": {
+      "name": "Ireland",
+      "iso2": "IE",
+      "iso3": "IRL",
+      "type": "Country/Area",
+      "pop": 5255017,
+      "births": 52767,
+      "life_expectancy": 82.58,
+      "infant_mortality": 2.634
+    },
+    "isle of man": {
+      "name": "Isle of Man",
+      "iso2": "IM",
+      "iso3": "IMN",
+      "type": "Country/Area",
+      "pop": 84160,
+      "births": 697,
+      "life_expectancy": 81.091,
+      "infant_mortality": 10.596
+    },
+    "jersey": {
+      "name": "Jersey",
+      "iso2": "JE",
+      "iso3": "JEY",
+      "type": "Country/Area",
+      "pop": 103846,
+      "births": 851,
+      "life_expectancy": 79.833,
+      "infant_mortality": 8.498
+    },
+    "latvia": {
+      "name": "Latvia",
+      "iso2": "LV",
+      "iso3": "LVA",
+      "type": "Country/Area",
+      "pop": 1871871,
+      "births": 14017,
+      "life_expectancy": 76.33,
+      "infant_mortality": 2.744
+    },
+    "lithuania": {
+      "name": "Lithuania",
+      "iso2": "LT",
+      "iso3": "LTU",
+      "type": "Country/Area",
+      "pop": 2859110,
+      "births": 22186,
+      "life_expectancy": 76.167,
+      "infant_mortality": 3.088
+    },
+    "norway": {
+      "name": "Norway",
+      "iso2": "NO",
+      "iso3": "NOR",
+      "type": "Country/Area",
+      "pop": 5576660,
+      "births": 52516,
+      "life_expectancy": 83.46,
+      "infant_mortality": 1.784
+    },
+    "sweden": {
+      "name": "Sweden",
+      "iso2": "SE",
+      "iso3": "SWE",
+      "type": "Country/Area",
+      "pop": 10606999,
+      "births": 97489,
+      "life_expectancy": 83.424,
+      "infant_mortality": 1.847
+    },
+    "united kingdom": {
+      "name": "United Kingdom",
+      "iso2": "GB",
+      "iso3": "GBR",
+      "type": "Country/Area",
+      "pop": 69138192,
+      "births": 683910,
+      "life_expectancy": 81.448,
+      "infant_mortality": 3.636
+    },
+    "albania": {
+      "name": "Albania",
+      "iso2": "AL",
+      "iso3": "ALB",
+      "type": "Country/Area",
+      "pop": 2791765,
+      "births": 28283,
+      "life_expectancy": 79.776,
+      "infant_mortality": 7.119
+    },
+    "andorra": {
+      "name": "Andorra",
+      "iso2": "AD",
+      "iso3": "AND",
+      "type": "Country/Area",
+      "pop": 81938,
+      "births": 561,
+      "life_expectancy": 84.188,
+      "infant_mortality": 5.136
+    },
+    "bosnia and herzegovina": {
+      "name": "Bosnia and Herzegovina",
+      "iso2": "BA",
+      "iso3": "BIH",
+      "type": "Country/Area",
+      "pop": 3164253,
+      "births": 24430,
+      "life_expectancy": 78.044,
+      "infant_mortality": 4.867
+    },
+    "croatia": {
+      "name": "Croatia",
+      "iso2": "HR",
+      "iso3": "HRV",
+      "type": "Country/Area",
+      "pop": 3875325,
+      "births": 31379,
+      "life_expectancy": 78.751,
+      "infant_mortality": 3.429
+    },
+    "gibraltar": {
+      "name": "Gibraltar",
+      "iso2": "GI",
+      "iso3": "GIB",
+      "type": "Country/Area",
+      "pop": 39329,
+      "births": 480,
+      "life_expectancy": 83.63,
+      "infant_mortality": 8.244
+    },
+    "greece": {
+      "name": "Greece",
+      "iso2": "GR",
+      "iso3": "GRC",
+      "type": "Country/Area",
+      "pop": 10047817,
+      "births": 71411,
+      "life_expectancy": 82.031,
+      "infant_mortality": 2.894
+    },
+    "holy see": {
+      "name": "Holy See",
+      "iso2": "VA",
+      "iso3": "VAT",
+      "type": "Country/Area",
+      "pop": 496,
+      "births": 2,
+      "life_expectancy": 83.115,
+      "infant_mortality": 5.936
+    },
+    "italy": {
+      "name": "Italy",
+      "iso2": "IT",
+      "iso3": "ITA",
+      "type": "Country/Area",
+      "pop": 59342867,
+      "births": 384703,
+      "life_expectancy": 83.869,
+      "infant_mortality": 2.221
+    },
+    "kosovo (under unsc res. 1244)": {
+      "name": "Kosovo (under UNSC res. 1244)",
+      "iso2": "XK",
+      "iso3": "XKX",
+      "type": "Country/Area",
+      "pop": 1684790,
+      "births": 19967,
+      "life_expectancy": 78.222,
+      "infant_mortality": 8.919
+    },
+    "malta": {
+      "name": "Malta",
+      "iso2": "MT",
+      "iso3": "MLT",
+      "type": "Country/Area",
+      "pop": 539607,
+      "births": 4212,
+      "life_expectancy": 83.467,
+      "infant_mortality": 4.617
+    },
+    "montenegro": {
+      "name": "Montenegro",
+      "iso2": "ME",
+      "iso3": "MNE",
+      "type": "Country/Area",
+      "pop": 638479,
+      "births": 7058,
+      "life_expectancy": 77.254,
+      "infant_mortality": 1.89
+    },
+    "north macedonia": {
+      "name": "North Macedonia",
+      "iso2": "MK",
+      "iso3": "MKD",
+      "type": "Country/Area",
+      "pop": 1823009,
+      "births": 16587,
+      "life_expectancy": 77.54,
+      "infant_mortality": 6.08
+    },
+    "portugal": {
+      "name": "Portugal",
+      "iso2": "PT",
+      "iso3": "PRT",
+      "type": "Country/Area",
+      "pop": 10425292,
+      "births": 86151,
+      "life_expectancy": 82.55,
+      "infant_mortality": 2.327
+    },
+    "san marino": {
+      "name": "San Marino",
+      "iso2": "SM",
+      "iso3": "SMR",
+      "type": "Country/Area",
+      "pop": 33581,
+      "births": 196,
+      "life_expectancy": 85.817,
+      "infant_mortality": 1.056
+    },
+    "serbia": {
+      "name": "Serbia",
+      "iso2": "RS",
+      "iso3": "SRB",
+      "type": "Country/Area",
+      "pop": 6736216,
+      "births": 58988,
+      "life_expectancy": 76.939,
+      "infant_mortality": 3.969
+    },
+    "slovenia": {
+      "name": "Slovenia",
+      "iso2": "SI",
+      "iso3": "SVN",
+      "type": "Country/Area",
+      "pop": 2118697,
+      "births": 17563,
+      "life_expectancy": 81.777,
+      "infant_mortality": 1.408
+    },
+    "spain": {
+      "name": "Spain",
+      "iso2": "ES",
+      "iso3": "ESP",
+      "type": "Country/Area",
+      "pop": 47910526,
+      "births": 333155,
+      "life_expectancy": 83.799,
+      "infant_mortality": 2.203
+    },
+    "austria": {
+      "name": "Austria",
+      "iso2": "AT",
+      "iso3": "AUT",
+      "type": "Country/Area",
+      "pop": 9120813,
+      "births": 76247,
+      "life_expectancy": 82.12,
+      "infant_mortality": 2.643
+    },
+    "belgium": {
+      "name": "Belgium",
+      "iso2": "BE",
+      "iso3": "BEL",
+      "type": "Country/Area",
+      "pop": 11738763,
+      "births": 101368,
+      "life_expectancy": 82.274,
+      "infant_mortality": 2.873
+    },
+    "france": {
+      "name": "France",
+      "iso2": "FR",
+      "iso3": "FRA",
+      "type": "Country/Area",
+      "pop": 66548530,
+      "births": 635995,
+      "life_expectancy": 83.458,
+      "infant_mortality": 3.155
+    },
+    "germany": {
+      "name": "Germany",
+      "iso2": "DE",
+      "iso3": "DEU",
+      "type": "Country/Area",
+      "pop": 84552242,
+      "births": 717268,
+      "life_expectancy": 81.539,
+      "infant_mortality": 2.821
+    },
+    "liechtenstein": {
+      "name": "Liechtenstein",
+      "iso2": "LI",
+      "iso3": "LIE",
+      "type": "Country/Area",
+      "pop": 39870,
+      "births": 371,
+      "life_expectancy": 83.748,
+      "infant_mortality": 5.532
+    },
+    "luxembourg": {
+      "name": "Luxembourg",
+      "iso2": "LU",
+      "iso3": "LUX",
+      "type": "Country/Area",
+      "pop": 673036,
+      "births": 6941,
+      "life_expectancy": 82.361,
+      "infant_mortality": 2.857
+    },
+    "monaco": {
+      "name": "Monaco",
+      "iso2": "MC",
+      "iso3": "MCO",
+      "type": "Country/Area",
+      "pop": 38631,
+      "births": 369,
+      "life_expectancy": 86.497,
+      "infant_mortality": 3.869
+    },
+    "netherlands": {
+      "name": "Netherlands",
+      "iso2": "NL",
+      "iso3": "NLD",
+      "type": "Country/Area",
+      "pop": 18228742,
+      "births": 171524,
+      "life_expectancy": 82.304,
+      "infant_mortality": 3.086
+    },
+    "switzerland": {
+      "name": "Switzerland",
+      "iso2": "CH",
+      "iso3": "CHE",
+      "type": "Country/Area",
+      "pop": 8921981,
+      "births": 82864,
+      "life_expectancy": 84.088,
+      "infant_mortality": 3.173
+    },
+    "anguilla": {
+      "name": "Anguilla",
+      "iso2": "AI",
+      "iso3": "AIA",
+      "type": "Country/Area",
+      "pop": 14598,
+      "births": 134,
+      "life_expectancy": 79.486,
+      "infant_mortality": 4.703
+    },
+    "antigua and barbuda": {
+      "name": "Antigua and Barbuda",
+      "iso2": "AG",
+      "iso3": "ATG",
+      "type": "Country/Area",
+      "pop": 93772,
+      "births": 1102,
+      "life_expectancy": 77.766,
+      "infant_mortality": 7.387
+    },
+    "aruba": {
+      "name": "Aruba",
+      "iso2": "AW",
+      "iso3": "ABW",
+      "type": "Country/Area",
+      "pop": 108066,
+      "births": 1022,
+      "life_expectancy": 76.5,
+      "infant_mortality": 11.088
+    },
+    "bahamas": {
+      "name": "Bahamas",
+      "iso2": "BS",
+      "iso3": "BHS",
+      "type": "Country/Area",
+      "pop": 401283,
+      "births": 4341,
+      "life_expectancy": 74.71,
+      "infant_mortality": 10.658
+    },
+    "barbados": {
+      "name": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB",
+      "type": "Country/Area",
+      "pop": 282467,
+      "births": 3140,
+      "life_expectancy": 76.332,
+      "infant_mortality": 10.971
+    },
+    "bonaire, sint eustatius and saba": {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "iso2": "BQ",
+      "iso3": "BES",
+      "type": "Country/Area",
+      "pop": 30675,
+      "births": 290,
+      "life_expectancy": 77.609,
+      "infant_mortality": 10.706
+    },
+    "british virgin islands": {
+      "name": "British Virgin Islands",
+      "iso2": "VG",
+      "iso3": "VGB",
+      "type": "Country/Area",
+      "pop": 39471,
+      "births": 324,
+      "life_expectancy": 77.431,
+      "infant_mortality": 10.69
+    },
+    "cayman islands": {
+      "name": "Cayman Islands",
+      "iso2": "KY",
+      "iso3": "CYM",
+      "type": "Country/Area",
+      "pop": 74457,
+      "births": 861,
+      "life_expectancy": 80.54,
+      "infant_mortality": 1.077
+    },
+    "cuba": {
+      "name": "Cuba",
+      "iso2": "CU",
+      "iso3": "CUB",
+      "type": "Country/Area",
+      "pop": 10979783,
+      "births": 94650,
+      "life_expectancy": 78.264,
+      "infant_mortality": 4.519
+    },
+    "curaçao": {
+      "name": "Curaçao",
+      "iso2": "CW",
+      "iso3": "CUW",
+      "type": "Country/Area",
+      "pop": 185482,
+      "births": 1399,
+      "life_expectancy": 76.989,
+      "infant_mortality": 8.3
+    },
+    "dominica": {
+      "name": "Dominica",
+      "iso2": "DM",
+      "iso3": "DMA",
+      "type": "Country/Area",
+      "pop": 66205,
+      "births": 727,
+      "life_expectancy": 71.294,
+      "infant_mortality": 26.858
+    },
+    "dominican republic": {
+      "name": "Dominican Republic",
+      "iso2": "DO",
+      "iso3": "DOM",
+      "type": "Country/Area",
+      "pop": 11427557,
+      "births": 201350,
+      "life_expectancy": 73.868,
+      "infant_mortality": 25.296
+    },
+    "grenada": {
+      "name": "Grenada",
+      "iso2": "GD",
+      "iso3": "GRD",
+      "type": "Country/Area",
+      "pop": 117207,
+      "births": 1345,
+      "life_expectancy": 75.367,
+      "infant_mortality": 11.733
+    },
+    "guadeloupe": {
+      "name": "Guadeloupe",
+      "iso2": "GP",
+      "iso3": "GLP",
+      "type": "Country/Area",
+      "pop": 375106,
+      "births": 4101,
+      "life_expectancy": 82.241,
+      "infant_mortality": 6.567
+    },
+    "haiti": {
+      "name": "Haiti",
+      "iso2": "HT",
+      "iso3": "HTI",
+      "type": "Country/Area",
+      "pop": 11772557,
+      "births": 258340,
+      "life_expectancy": 65.119,
+      "infant_mortality": 44.237
+    },
+    "jamaica": {
+      "name": "Jamaica",
+      "iso2": "JM",
+      "iso3": "JAM",
+      "type": "Country/Area",
+      "pop": 2839175,
+      "births": 32508,
+      "life_expectancy": 71.606,
+      "infant_mortality": 15.43
+    },
+    "martinique": {
+      "name": "Martinique",
+      "iso2": "MQ",
+      "iso3": "MTQ",
+      "type": "Country/Area",
+      "pop": 343195,
+      "births": 3558,
+      "life_expectancy": 82.739,
+      "infant_mortality": 6.246
+    },
+    "montserrat": {
+      "name": "Montserrat",
+      "iso2": "MS",
+      "iso3": "MSR",
+      "type": "Country/Area",
+      "pop": 4389,
+      "births": 38,
+      "life_expectancy": 76.34,
+      "infant_mortality": 5.143
+    },
+    "puerto rico": {
+      "name": "Puerto Rico",
+      "iso2": "PR",
+      "iso3": "PRI",
+      "type": "Country/Area",
+      "pop": 3242204,
+      "births": 19051,
+      "life_expectancy": 81.902,
+      "infant_mortality": 4.892
+    },
+    "saint barthélemy": {
+      "name": "Saint Barthélemy",
+      "iso2": "BL",
+      "iso3": "BLM",
+      "type": "Country/Area",
+      "pop": 11258,
+      "births": 57,
+      "life_expectancy": 84.4,
+      "infant_mortality": 5.164
+    },
+    "saint kitts and nevis": {
+      "name": "Saint Kitts and Nevis",
+      "iso2": "KN",
+      "iso3": "KNA",
+      "type": "Country/Area",
+      "pop": 46843,
+      "births": 550,
+      "life_expectancy": 72.281,
+      "infant_mortality": 12.26
+    },
+    "saint lucia": {
+      "name": "Saint Lucia",
+      "iso2": "LC",
+      "iso3": "LCA",
+      "type": "Country/Area",
+      "pop": 179744,
+      "births": 2015,
+      "life_expectancy": 72.846,
+      "infant_mortality": 13.872
+    },
+    "saint martin (french part)": {
+      "name": "Saint Martin (French part)",
+      "iso2": "MF",
+      "iso3": "MAF",
+      "type": "Country/Area",
+      "pop": 26129,
+      "births": 393,
+      "life_expectancy": 80.438,
+      "infant_mortality": 8.073
+    },
+    "saint vincent and the grenadines": {
+      "name": "Saint Vincent and the Grenadines",
+      "iso2": "VC",
+      "iso3": "VCT",
+      "type": "Country/Area",
+      "pop": 100616,
+      "births": 1203,
+      "life_expectancy": 71.382,
+      "infant_mortality": 12.546
+    },
+    "sint maarten (dutch part)": {
+      "name": "Sint Maarten (Dutch part)",
+      "iso2": "SX",
+      "iso3": "SXM",
+      "type": "Country/Area",
+      "pop": 43350,
+      "births": 394,
+      "life_expectancy": 76.528,
+      "infant_mortality": 12.449
+    },
+    "trinidad and tobago": {
+      "name": "Trinidad and Tobago",
+      "iso2": "TT",
+      "iso3": "TTO",
+      "type": "Country/Area",
+      "pop": 1507782,
+      "births": 15897,
+      "life_expectancy": 73.617,
+      "infant_mortality": 13.744
+    },
+    "turks and caicos islands": {
+      "name": "Turks and Caicos Islands",
+      "iso2": "TC",
+      "iso3": "TCA",
+      "type": "Country/Area",
+      "pop": 46535,
+      "births": 490,
+      "life_expectancy": 78.181,
+      "infant_mortality": 4.632
+    },
+    "united states virgin islands": {
+      "name": "United States Virgin Islands",
+      "iso2": "VI",
+      "iso3": "VIR",
+      "type": "Country/Area",
+      "pop": 84905,
+      "births": 941,
+      "life_expectancy": 75.699,
+      "infant_mortality": 4.769
+    },
+    "belize": {
+      "name": "Belize",
+      "iso2": "BZ",
+      "iso3": "BLZ",
+      "type": "Country/Area",
+      "pop": 417072,
+      "births": 7529,
+      "life_expectancy": 73.739,
+      "infant_mortality": 8.68
+    },
+    "costa rica": {
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "iso3": "CRI",
+      "type": "Country/Area",
+      "pop": 5129910,
+      "births": 51253,
+      "life_expectancy": 80.996,
+      "infant_mortality": 6.432
+    },
+    "el salvador": {
+      "name": "El Salvador",
+      "iso2": "SV",
+      "iso3": "SLV",
+      "type": "Country/Area",
+      "pop": 6338193,
+      "births": 98858,
+      "life_expectancy": 72.302,
+      "infant_mortality": 9.333
+    },
+    "guatemala": {
+      "name": "Guatemala",
+      "iso2": "GT",
+      "iso3": "GTM",
+      "type": "Country/Area",
+      "pop": 18406359,
+      "births": 379512,
+      "life_expectancy": 72.746,
+      "infant_mortality": 17.196
+    },
+    "honduras": {
+      "name": "Honduras",
+      "iso2": "HN",
+      "iso3": "HND",
+      "type": "Country/Area",
+      "pop": 10825703,
+      "births": 234369,
+      "life_expectancy": 73.044,
+      "infant_mortality": 12.561
+    },
+    "mexico": {
+      "name": "Mexico",
+      "iso2": "MX",
+      "iso3": "MEX",
+      "type": "Country/Area",
+      "pop": 130861007,
+      "births": 2023623,
+      "life_expectancy": 75.264,
+      "infant_mortality": 10.338
+    },
+    "nicaragua": {
+      "name": "Nicaragua",
+      "iso2": "NI",
+      "iso3": "NIC",
+      "type": "Country/Area",
+      "pop": 6916140,
+      "births": 132383,
+      "life_expectancy": 75.1,
+      "infant_mortality": 10.864
+    },
+    "panama": {
+      "name": "Panama",
+      "iso2": "PA",
+      "iso3": "PAN",
+      "type": "Country/Area",
+      "pop": 4515577,
+      "births": 71650,
+      "life_expectancy": 79.775,
+      "infant_mortality": 10.349
+    },
+    "argentina": {
+      "name": "Argentina",
+      "iso2": "AR",
+      "iso3": "ARG",
+      "type": "Country/Area",
+      "pop": 45696159,
+      "births": 506609,
+      "life_expectancy": 77.543,
+      "infant_mortality": 8.889
+    },
+    "bolivia (plurinational state of)": {
+      "name": "Bolivia (Plurinational State of)",
+      "iso2": "BO",
+      "iso3": "BOL",
+      "type": "Country/Area",
+      "pop": 12413315,
+      "births": 261003,
+      "life_expectancy": 68.739,
+      "infant_mortality": 31.032
+    },
+    "brazil": {
+      "name": "Brazil",
+      "iso2": "BR",
+      "iso3": "BRA",
+      "type": "Country/Area",
+      "pop": 211998573,
+      "births": 2572100,
+      "life_expectancy": 76.023,
+      "infant_mortality": 11.958
+    },
+    "chile": {
+      "name": "Chile",
+      "iso2": "CL",
+      "iso3": "CHL",
+      "type": "Country/Area",
+      "pop": 19764771,
+      "births": 172406,
+      "life_expectancy": 81.359,
+      "infant_mortality": 5.522
+    },
+    "colombia": {
+      "name": "Colombia",
+      "iso2": "CO",
+      "iso3": "COL",
+      "type": "Country/Area",
+      "pop": 52886363,
+      "births": 700784,
+      "life_expectancy": 77.913,
+      "infant_mortality": 9.561
+    },
+    "ecuador": {
+      "name": "Ecuador",
+      "iso2": "EC",
+      "iso3": "ECU",
+      "type": "Country/Area",
+      "pop": 18135478,
+      "births": 268769,
+      "life_expectancy": 77.579,
+      "infant_mortality": 9.846
+    },
+    "falkland islands (malvinas)": {
+      "name": "Falkland Islands (Malvinas)",
+      "iso2": "FK",
+      "iso3": "FLK",
+      "type": "Country/Area",
+      "pop": 3470,
+      "births": 38,
+      "life_expectancy": 79.37,
+      "infant_mortality": 9.001
+    },
+    "french guiana": {
+      "name": "French Guiana",
+      "iso2": "GF",
+      "iso3": "GUF",
+      "type": "Country/Area",
+      "pop": 308522,
+      "births": 7642,
+      "life_expectancy": 77.184,
+      "infant_mortality": 8.893
+    },
+    "guyana": {
+      "name": "Guyana",
+      "iso2": "GY",
+      "iso3": "GUY",
+      "type": "Country/Area",
+      "pop": 831087,
+      "births": 16525,
+      "life_expectancy": 70.319,
+      "infant_mortality": 18.265
+    },
+    "paraguay": {
+      "name": "Paraguay",
+      "iso2": "PY",
+      "iso3": "PRY",
+      "type": "Country/Area",
+      "pop": 6929153,
+      "births": 136695,
+      "life_expectancy": 73.982,
+      "infant_mortality": 15.896
+    },
+    "peru": {
+      "name": "Peru",
+      "iso2": "PE",
+      "iso3": "PER",
+      "type": "Country/Area",
+      "pop": 34217848,
+      "births": 538952,
+      "life_expectancy": 77.941,
+      "infant_mortality": 10.058
+    },
+    "suriname": {
+      "name": "Suriname",
+      "iso2": "SR",
+      "iso3": "SUR",
+      "type": "Country/Area",
+      "pop": 634431,
+      "births": 10882,
+      "life_expectancy": 73.757,
+      "infant_mortality": 10.753
+    },
+    "uruguay": {
+      "name": "Uruguay",
+      "iso2": "UY",
+      "iso3": "URY",
+      "type": "Country/Area",
+      "pop": 3386588,
+      "births": 33196,
+      "life_expectancy": 78.287,
+      "infant_mortality": 5.921
+    },
+    "venezuela (bolivarian republic of)": {
+      "name": "Venezuela (Bolivarian Republic of)",
+      "iso2": "VE",
+      "iso3": "VEN",
+      "type": "Country/Area",
+      "pop": 28405543,
+      "births": 432648,
+      "life_expectancy": 72.673,
+      "infant_mortality": 14.824
+    },
+    "bermuda": {
+      "name": "Bermuda",
+      "iso2": "BM",
+      "iso3": "BMU",
+      "type": "Country/Area",
+      "pop": 64636,
+      "births": 512,
+      "life_expectancy": 82.49,
+      "infant_mortality": 1.913
+    },
+    "canada": {
+      "name": "Canada",
+      "iso2": "CA",
+      "iso3": "CAN",
+      "type": "Country/Area",
+      "pop": 39742430,
+      "births": 361079,
+      "life_expectancy": 82.719,
+      "infant_mortality": 4.01
+    },
+    "greenland": {
+      "name": "Greenland",
+      "iso2": "GL",
+      "iso3": "GRL",
+      "type": "Country/Area",
+      "pop": 55840,
+      "births": 762,
+      "life_expectancy": 70.194,
+      "infant_mortality": 9.617
+    },
+    "saint pierre and miquelon": {
+      "name": "Saint Pierre and Miquelon",
+      "iso2": "PM",
+      "iso3": "SPM",
+      "type": "Country/Area",
+      "pop": 5628,
+      "births": 29,
+      "life_expectancy": 76.937,
+      "infant_mortality": 7.871
+    },
+    "united states of america": {
+      "name": "United States of America",
+      "iso2": "US",
+      "iso3": "USA",
+      "type": "Country/Area",
+      "pop": 345426571,
+      "births": 3654449,
+      "life_expectancy": 79.463,
+      "infant_mortality": 4.948
+    },
+    "australia": {
+      "name": "Australia",
+      "iso2": "AU",
+      "iso3": "AUS",
+      "type": "Country/Area",
+      "pop": 26713205,
+      "births": 304984,
+      "life_expectancy": 84.073,
+      "infant_mortality": 2.63
+    },
+    "new zealand": {
+      "name": "New Zealand",
+      "iso2": "NZ",
+      "iso3": "NZL",
+      "type": "Country/Area",
+      "pop": 5213944,
+      "births": 59121,
+      "life_expectancy": 82.245,
+      "infant_mortality": 3.646
+    },
+    "fiji": {
+      "name": "Fiji",
+      "iso2": "FJ",
+      "iso3": "FJI",
+      "type": "Country/Area",
+      "pop": 928784,
+      "births": 16592,
+      "life_expectancy": 67.463,
+      "infant_mortality": 16.242
+    },
+    "new caledonia": {
+      "name": "New Caledonia",
+      "iso2": "NC",
+      "iso3": "NCL",
+      "type": "Country/Area",
+      "pop": 292639,
+      "births": 4106,
+      "life_expectancy": 78.921,
+      "infant_mortality": 8.373
+    },
+    "papua new guinea": {
+      "name": "Papua New Guinea",
+      "iso2": "PG",
+      "iso3": "PNG",
+      "type": "Country/Area",
+      "pop": 10576502,
+      "births": 256911,
+      "life_expectancy": 66.256,
+      "infant_mortality": 31.684
+    },
+    "solomon islands": {
+      "name": "Solomon Islands",
+      "iso2": "SB",
+      "iso3": "SLB",
+      "type": "Country/Area",
+      "pop": 819198,
+      "births": 21878,
+      "life_expectancy": 70.694,
+      "infant_mortality": 13.963
+    },
+    "vanuatu": {
+      "name": "Vanuatu",
+      "iso2": "VU",
+      "iso3": "VUT",
+      "type": "Country/Area",
+      "pop": 327777,
+      "births": 9063,
+      "life_expectancy": 71.654,
+      "infant_mortality": 14.2
+    },
+    "guam": {
+      "name": "Guam",
+      "iso2": "GU",
+      "iso3": "GUM",
+      "type": "Country/Area",
+      "pop": 167777,
+      "births": 2910,
+      "life_expectancy": 77.422,
+      "infant_mortality": 9.967
+    },
+    "kiribati": {
+      "name": "Kiribati",
+      "iso2": "KI",
+      "iso3": "KIR",
+      "type": "Country/Area",
+      "pop": 134518,
+      "births": 3405,
+      "life_expectancy": 66.6,
+      "infant_mortality": 42.577
+    },
+    "marshall islands": {
+      "name": "Marshall Islands",
+      "iso2": "MH",
+      "iso3": "MHL",
+      "type": "Country/Area",
+      "pop": 37548,
+      "births": 754,
+      "life_expectancy": 67.075,
+      "infant_mortality": 21.681
+    },
+    "micronesia (fed. states of)": {
+      "name": "Micronesia (Fed. States of)",
+      "iso2": "FM",
+      "iso3": "FSM",
+      "type": "Country/Area",
+      "pop": 113160,
+      "births": 2526,
+      "life_expectancy": 67.357,
+      "infant_mortality": 18.435
+    },
+    "nauru": {
+      "name": "Nauru",
+      "iso2": "NR",
+      "iso3": "NRU",
+      "type": "Country/Area",
+      "pop": 11947,
+      "births": 293,
+      "life_expectancy": 62.279,
+      "infant_mortality": 20.088
+    },
+    "northern mariana islands": {
+      "name": "Northern Mariana Islands",
+      "iso2": "MP",
+      "iso3": "MNP",
+      "type": "Country/Area",
+      "pop": 44278,
+      "births": 536,
+      "life_expectancy": 78.947,
+      "infant_mortality": 4.735
+    },
+    "palau": {
+      "name": "Palau",
+      "iso2": "PW",
+      "iso3": "PLW",
+      "type": "Country/Area",
+      "pop": 17695,
+      "births": 189,
+      "life_expectancy": 69.383,
+      "infant_mortality": 17.678
+    },
+    "american samoa": {
+      "name": "American Samoa",
+      "iso2": "AS",
+      "iso3": "ASM",
+      "type": "Country/Area",
+      "pop": 46765,
+      "births": 701,
+      "life_expectancy": 72.992,
+      "infant_mortality": 8.272
+    },
+    "cook islands": {
+      "name": "Cook Islands",
+      "iso2": "CK",
+      "iso3": "COK",
+      "type": "Country/Area",
+      "pop": 13729,
+      "births": 159,
+      "life_expectancy": 75.472,
+      "infant_mortality": 5.336
+    },
+    "french polynesia": {
+      "name": "French Polynesia",
+      "iso2": "PF",
+      "iso3": "PYF",
+      "type": "Country/Area",
+      "pop": 281807,
+      "births": 3012,
+      "life_expectancy": 84.192,
+      "infant_mortality": 5.143
+    },
+    "niue": {
+      "name": "Niue",
+      "iso2": "NU",
+      "iso3": "NIU",
+      "type": "Country/Area",
+      "pop": 1819,
+      "births": 25,
+      "life_expectancy": 70.104,
+      "infant_mortality": 18.948
+    },
+    "samoa": {
+      "name": "Samoa",
+      "iso2": "WS",
+      "iso3": "WSM",
+      "type": "Country/Area",
+      "pop": 218019,
+      "births": 5444,
+      "life_expectancy": 71.826,
+      "infant_mortality": 12.733
+    },
+    "tokelau": {
+      "name": "Tokelau",
+      "iso2": "TK",
+      "iso3": "TKL",
+      "type": "Country/Area",
+      "pop": 2506,
+      "births": 51,
+      "life_expectancy": 77.167,
+      "infant_mortality": 3.929
+    },
+    "tonga": {
+      "name": "Tonga",
+      "iso2": "TO",
+      "iso3": "TON",
+      "type": "Country/Area",
+      "pop": 104175,
+      "births": 2400,
+      "life_expectancy": 73.07,
+      "infant_mortality": 8.654
+    },
+    "tuvalu": {
+      "name": "Tuvalu",
+      "iso2": "TV",
+      "iso3": "TUV",
+      "type": "Country/Area",
+      "pop": 9646,
+      "births": 212,
+      "life_expectancy": 67.259,
+      "infant_mortality": 15.76
+    },
+    "wallis and futuna islands": {
+      "name": "Wallis and Futuna Islands",
+      "iso2": "WF",
+      "iso3": "WLF",
+      "type": "Country/Area",
+      "pop": 11277,
+      "births": 97,
+      "life_expectancy": 78.737,
+      "infant_mortality": 11.001
+    }
+  }
+}

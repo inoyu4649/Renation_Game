@@ -21,8 +21,8 @@ export const StatCards: React.FC<StatCardsProps> = ({
   const stat1Title = mode === 'birth' ? '지구 연간 출생아' : '지구 총 인구';
   const stat1Value =
     mode === 'birth'
-      ? formatKoreanNumber(totalWorldBirths || 76604299)
-      : formatKoreanNumber(totalWorldPopulation || 4863064260);
+      ? formatKoreanNumber(totalWorldBirths || 132405927)
+      : formatKoreanNumber(totalWorldPopulation || 8161972572);
 
   const countryName = currentResult
     ? currentResult.country.country_ko || currentResult.country.country
@@ -48,7 +48,7 @@ export const StatCards: React.FC<StatCardsProps> = ({
         <div className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
           {stat1Value}
         </div>
-        <div className="text-[11px] text-slate-400 mt-1">UN 공식 데이터 기준</div>
+        <div className="text-[11px] text-slate-400 mt-1">UN WPP 2024 공식 데이터 기준</div>
         <div className="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-blue-500 to-cyan-400 opacity-80" />
       </div>
 
